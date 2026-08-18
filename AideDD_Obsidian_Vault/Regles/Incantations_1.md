@@ -1,0 +1,210 @@
+---
+title: "Incantations"
+source: "https://www.aidedd.org/regles/magie"
+tags:
+  - dnd5
+  - regles
+---
+
+# Incantations
+
+# Incantations
+
+La magie imprègne le monde de D&D et apparaît le plus souvent sous la forme d'un sort. Ce chapitre fournit les règles pour lancer des sorts. Les différentes classes de personnages ont des manières différentes pour apprendre et préparer leurs sorts, et les monstres utilisent les sorts d'une façon unique. Mais indépendamment de sa source, un sort répond aux règles suivantes.
+
+## Qu'est-ce qu'un sort ?
+
+Un sort est un effet magique, discret, une mise en forme unique de l'énergie magique qui imprègne le multivers en une expression spécifique limitée. En lançant un sort, un personnage cueille prudemment un brin de magie brute et invisible qui imprègne le monde, le fixe en un motif particulier et le met dans un état de vibration spécifique, puis relâche le tout pour libérer l'effet désiré, tout ceci dans la plupart des cas en quelques secondes.
+
+Les sorts peuvent être des outils polyvalents, des armes ou des barrières de protection. Ils peuvent infliger des dégâts ou les annuler, imposer ou supprimer des [[États]], drainer de l'énergie ou rendre la vie aux morts. Des milliers de sorts ont été créés au cours de l'histoire du multivers, et beaucoup d'entre eux sont oubliés depuis longtemps. Certains sont peut-être encore écrits dans des livres de sorts effrités cachés dans d'anciennes ruines, ou piégés dans les esprits de divinités disparues. Ils pourraient aussi tout simplement être un jour réinventés par un personnage qui aurait accumulé suffisamment de puissance et de sagesse pour le faire.
+
+### Niveau de sort
+
+![Incantations](/assets/regles/magie.jpg "Incantations")
+Chaque sort possède un niveau qui va de 0 à 9. Le niveau d'un sort est un indicateur général de la puissance de celui-ci, de l'humble (mais toujours impressionnant) [*projectile magique*](dnd/sorts.php?vf=projectile-magique) du niveau 1 à l'impressionnant [*arrêt du temps*](dnd/sorts.php?vf=arret-du-temps) du niveau 9. Les sorts mineurs sont des sorts simples mais puissants de niveau 0 que le lanceur de sorts peut utiliser presque par cœur. Plus le niveau d'un sort est élevé, plus le lanceur de sorts doit être d'un niveau élevé pour pouvoir le lancer.
+
+Le niveau d'un lanceur de sorts et le niveau du personnage ne correspondent pas directement. Normalement, un personnage doit être au moins au niveau 17 pour pouvoir lancer un sort de niveau 9.
+
+### Sorts connus et préparés
+
+Avant qu'un lanceur de sorts ne puisse utiliser un sort, il doit l'avoir fermement mémorisé dans son esprit, ou y avoir accès à l'aide d'un objet magique. Les membres de certaines classes ont une liste de sorts limités qu'ils connaissent et qui sont toujours mémorisés dans leur esprit. Il en est de même pour un grand nombre de monstres utilisant la magie. Les autres lanceurs de sorts, comme les clercs et les magiciens, doivent passer par le processus d'apprentissage des sorts. Ce processus varie en fonction des classes, comme détaillé dans leurs descriptions. Dans tous les cas, le nombre de sorts qu'un lanceur peut avoir mémorisé dans son esprit à un moment donné dépend du niveau du personnage.
+
+### [[Incantations\_1#emplacement|Emplacements de sort]]s
+
+Indépendamment du nombre de sorts qu'un lanceur connait ou prépare, il ne peut lancer qu'un nombre limité de sorts avant de se reposer. La manipulation de la toile de la magie et la canalisation de son énergie en un sort sont physiquement et mentalement éprouvantes, et les sorts de hauts niveaux le sont encore plus. Ainsi, chaque classe qui lance des sorts possède une table qui indique pour chaque niveau de sorts combien d'emplacements le personnage peut utiliser en fonction de son propre niveau. Par exemple, le magicien Oumara de niveau 3 a accès à quatre sorts du niveau 1 et à deux sorts du niveau 2.
+
+Quand un personnage lance un sort, il dépense un emplacement d'un niveau équivalent ou supérieur au niveau du sort, « remplissant » l'emplacement avec le sort. Vous pouvez imaginer qu'un emplacement de sort est comme une rainure d'une certaine taille, petite pour les sorts de niveau 1 et plus importante pour les sorts de niveaux supérieurs. Un sort de niveau 1 s'insère dans un emplacement de n'importe quelle taille, mais un sort de niveau 9 ne peut s'insérer que dans un emplacement de niveau 9. Alors, quand Oumara lance [*projectile magique*](dnd/sorts.php?vf=projectile-magique), un sort de niveau 1, elle dépense un de ses quatre emplacements de niveau 1, ce qui lui en laisse trois de disponibles.
+
+Un repos long restaure les emplacements de sorts dépensés (voir [[Partir à l'aventure|Repos]]). Certains personnages et monstres ont des capacités spéciales qui permettent de lancer des sorts sans utiliser d'emplacements de sorts. Par exemple, un moine qui suit la Voie des quatre éléments, un occultiste qui choisit certaines manifestations occultes et un diantrefosse des Neuf enfers peuvent tous lancer des sorts de cette manière.
+
+#### Lancer un sort à un niveau supérieur
+
+Quand un lanceur de sorts lance un sort à l'aide d'un emplacement de sort qui est d'un niveau supérieur à celui du sort, le sort adopte alors le niveau de l'emplacement pour le lancement. Par exemple, si Oumara lance *projectile magique* en utilisant l'un de ses emplacements de niveau 2, alors le *projectile magique* est de niveau 2. En effet, le sort s'étend pour remplir cet emplacement.
+
+Certains sorts, tels *[projectile magique](dnd/sorts.php?vf=projectile-magique)* et *[soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)*, ont des effets plus puissants lorsque le sort est lancé à un niveau supérieur. Ceci est indiqué dans la description du sort.
+
+### [[Incantations\_1#sort-mineur|Sorts mineurs]]
+
+Un sort mineur est un sort qui peut être lancé à volonté, sans utiliser d'emplacement de sort, et sans avoir à être préparé à l'avance. Une pratique répétée a permis la mémorisation du sort dans l'esprit du lanceur, et a imprégné celui-ci de la magie nécessaire pour produire l'effet maintes fois. Un sort mineur est un sort de niveau 0.
+
+### [[Incantations\_1#rituel|Rituels]]
+
+Certains sorts ont une étiquette spéciale : rituel. Un tel sort peut être lancé selon les règles normales de lancement de sort, ou comme un rituel. La version rituel d'un sort prend 10 minutes de plus que la normale pour être lancé mais ne consomme pas d'emplacement de sort. Cela signifie que la version rituel d'un sort ne peut être lancée à un niveau supérieur.
+
+Pour lancer un rituel, un lanceur de sorts doit avoir la capacité pour le faire. Le clerc et le druide, par exemple, y ont accès. Le lanceur doit également avoir le sort préparé ou sur sa liste de sorts connus, à moins que la capacité de rituel du personnage ne spécifie le contraire, comme c'est le cas pour le magicien.
+
+## Lancer un sort
+
+Quand un personnage lance un sort, les mêmes règles de base s'appliquent, indépendamment de la classe du personnage ou de l'effet du sort. Chaque [[Liste des Sorts|description de sort]] commence par un bloc d'information, comprenant le nom du sort, le niveau, l'école de magie, le temps d'incantation, la portée, les composantes et la durée. Le reste du texte décrit les effets du sort.
+
+### [[Incantations\_1#temps-incantation|Temps d'incantation]]
+
+La plupart des sorts nécessitent une seule action pour être lancé, mais certains sorts nécessitent une action bonus, une réaction, ou beaucoup plus de temps.
+
+#### Action bonus
+
+Un sort jeté à l'aide d'une action bonus est particulièrement rapide. Vous devez utiliser une action bonus durant votre tour pour lancer le sort, à condition que vous ne l'ayez pas déjà prise durant ce tour. Vous ne pouvez pas lancer d'autre sort dans le même tour, à l'exception d'un sort mineur avec un temps d'incantation d'une action.
+
+#### Réactions
+
+Certains sorts peuvent être lancés en tant que réaction. Ces sorts prennent une fraction de seconde pour être invoqués et sont généralement employés en réponse à un événement. Si un sort peut être lancé en réaction, la description du sort indique précisément quand vous pouvez le faire.
+
+#### Temps d'incantation plus long
+
+Certains sorts (y compris les sorts lancés comme des rituels) nécessitent plus de temps pour être lancés : des minutes voire parfois des heures. Lorsque vous lancez un sort avec un temps d'incantation plus long qu'une action simple ou qu'une réaction, vous devez dépenser votre action à chaque tour pour lancer le sort, et vous devez également maintenir votre concentration pendant tout ce temps (voir Concentration ci-dessous). Si votre concentration est brisée, le sort échoue, mais l'emplacement du sort n'est pas dépensé. Si vous voulez essayer à nouveau de lancer le sort, vous devez recommencer.
+
+### [[Incantations\_1#portee|Portée]]
+
+**PORT D'ARMURE**  
+  
+Lancer des sorts demande une forte concentration mentale et des gestes précis. Vous devez également maîtriser l'armure que vous portez afin de pouvoir lancer un sort. Autrement, vous êtes trop distrait et physiquement trop entravé par votre armure pour pouvoir lancer des sorts.
+
+La cible d'un sort doit être dans la portée du sort. Par exemple, pour un sort comme [*projectile magique*](dnd/sorts.php?vf=projectile-magique), la cible est une créature. Pour un sort comme [*boule de feu*](dnd/sorts.php?vf=boule-de-feu), la cible est un point dans l'espace ou la boule de feu explose. La plupart des sorts ont des portées exprimées en mètres. Certains sorts peuvent ne cibler qu'une créature (vous y compris) que vous devez toucher. D'autres sorts, comme le sort [*bouclier*](dnd/sorts.php?vf=bouclier), n'affectent que vous. Ces sorts indiquent que la portée est personnelle.
+
+Les sorts qui créent des effets en cônes ou en lignes et qui ont pour origine vous-même ont aussi une portée personnelle, indiquant que le point d'origine de l'effet du sort doit être vous (voir Zones d'effet plus bas).
+
+Une fois qu'un sort est jeté, ses effets ne se limitent pas à sa portée, à moins que la description du sort n'indique le contraire.
+
+### [[Incantations\_1#composantes|Composantes]]
+
+Les composantes d'un sort sont les conditions physiques que vous devez respecter pour pouvoir le lancer. La description de chaque sort indique s'il nécessite des composantes verbales (V), somatiques (S) ou matérielles (M). Si vous ne pouvez pas fournir une ou plusieurs composantes d'un sort, vous êtes incapable de lancer le sort.
+
+#### Verbales (V)
+
+**LES ÉCOLES DE MAGIE**  
+  
+Les académies de magie regroupent les sorts en huit catégories appelées des écoles de magie. Les érudits, en particulier les magiciens, appliquent ces catégories à tous les sorts, car ils pensent que toutes les magies fonctionnent basiquement de la même manière, qu'elles soient le fruit d'une étude rigoureuse ou qu'elles soient accordées par une divinité. Les écoles de magie aident à décrire les sorts ; elles n'ont pas de règles propres, mais certaines règles s'appliquent aux écoles.  
+  
+Les sorts d'**abjuration** sont en règle générale des sorts de protection, même si certains d'entre eux ont des utilisations agressives. Ils créent des barrières magiques, annulent des effets nocifs, endommagent les intrus, ou bannissent des créatures sur un autre plan d'existence.  
+  
+Les sorts de **divination** révèlent des informations, que ce soit sous la forme de secrets oubliés depuis longtemps, d'aperçus du futur, d'emplacements de choses cachées, de vérité derrière les illusions, ou de visions de personnes ou de lieux éloignés.  
+  
+Les sorts d'**enchantement** affectent l'esprit des autres, en influençant ou en contrôlant leur comportement. Ces sorts peuvent faire en sorte que les ennemis perçoivent le lanceur de sorts comme un ami, forcer des créatures à prendre une action, ou même contrôler une autre créature comme une marionnette.  
+  
+Les sorts d'**évocation** manipulent l'énergie magique jusqu'à produire l'effet désiré. Certaines évoquent des explosions de feu ou de foudre. D'autres canalisent l'énergie positive afin de guérir les blessures.  
+  
+Les sorts d'**illusion** trompent les sens ou l'esprit des autres. Ils amènent les gens à percevoir des choses qui ne sont pas là, à manquer des choses qui sont là, à entendre des bruits fantômes, ou à se souvenir de choses qui n'ont jamais eu lieu. Certaines illusions créent des images fantômes que les créatures peuvent voir, mais les illusions les plus insidieuses sont les illusions qui implantent directement une image dans l'esprit d'une créature.  
+  
+Les sorts d'**invocation** touchent au transport d'objets et des créatures d'un endroit à un autre. Certains sorts invoquent des créatures ou des objets aux côtés du lanceur de sorts, alors que d'autres permettent au lanceur de sorts de se téléporter vers un autre lieu. Certaines invocations créent des objets ou des effets à partir de rien.  
+  
+Les sorts de **nécromancie** manipulent les énergies de la vie et de la mort. Certains sorts peuvent accorder une réserve supplémentaire de force de vie, drainer l'énergie de la vie d'une autre créature, créer des morts-vivants, ou même ramener les morts à la vie. La création de morts-vivants grâce à l'utilisation de sorts de nécromancie comme [*animations des morts*](dnd/sorts.php?vf=animation-des-morts), n'est pas un acte de nature bonne, et seuls les lanceurs de sorts mauvais utilisent ces sorts fréquemment.  
+  
+Les sorts de **transmutation** modifient les propriétés d'une créature, d'un objet ou d'un environnement. Ils peuvent transformer un ennemi en une créature inoffensive, améliorer la force d'un allié, faire qu'un objet puisse se déplacer sur commande du lanceur de sorts, ou augmenter les capacités innées de guérison d'une créature afin qu'elle puisse récupérer plus rapidement d'une blessure.
+
+La plupart des sorts exigent de psalmodier des mots mystiques. Les mots en eux-mêmes ne sont pas la source de la puissance du sort ; c'est plutôt la combinaison particulière de sons avec un terrain et une résonance spécifique qui fixe les toiles de la magie en mouvement. Ainsi, un personnage qui est bâillonné ou est dans une zone de silence, comme celle créée par le sort [*silence*](dnd/sorts.php?vf=silence), ne peut pas lancer un sort à composante verbale.
+
+#### Somatiques (S)
+
+Le lancement de sort à l'aide de gestes peut inclure une gesticulation forte ou un ensemble complexe de gestes. Si un sort nécessite une composante somatique, le lanceur doit pouvoir bouger librement au moins une main pour effectuer ces gestes.
+
+#### Matérielles (M)
+
+Le lancement de certains sorts nécessite des objets particuliers, spécifiés entre parenthèses dans le champ Composantes. Un personnage peut utiliser une **sacoche à composantes** ou un **focaliseur d'incantation** (voir [[Équipement d'aventurier]]) à la place des composantes spécifiées pour un sort. Mais si un coût est indiqué pour une composante, un personnage doit impérativement avoir cette composante spécifique pour pouvoir lancer le sort.
+
+Si la description d'un sort indique que la composante matérielle est consommée par le sort, le lanceur doit fournir cette composante chaque fois qu'il veut lancer ce sort. Un lanceur de sorts doit avoir une main libre pour accéder aux composantes matérielles d'un sort (ou pour tenir un focaliseur d'incantation), mais cela peut être la même main qu'il utilise pour la composante somatique.
+
+### [[Incantations\_1#duree|Durée]]
+
+La durée d'un sort est la durée pendant laquelle le sort persiste. Une durée peut être exprimée en rounds, minutes, heures, voire années. Certains sorts précisent que leurs effets durent jusqu'à ce que le sort soit dissipé ou détruit.
+
+#### Instantanée
+
+De nombreuses durées de sorts sont instantanées. Le sort endommage, guérit, crée ou modifie une créature ou un objet d'une manière qui ne peut être dissipée, car sa magie n'existe que pendant un court instant.
+
+#### Concentration
+
+Certains sorts vous obligent à maintenir une concentration afin de maintenir leur magie active. Si vous perdez la concentration, alors le sort se termine. Si un sort doit être maintenu par concentration, cela est indiqué dans le champ Durée, et le sort spécifie combien de temps vous pouvez vous concentrer sur lui. Vous pouvez mettre fin à une concentration à tout moment (aucune action requise). Une activité normale, comme se déplacer ou attaquer, n'interfère pas avec la concentration. Les facteurs suivants peuvent par contre briser une concentration :
+
+- **Lancer un autre sort qui nécessite de la concentration**. Vous perdez la concentration d'un sort si vous lancez un autre sort qui nécessite également de la concentration. Vous ne pouvez pas vous concentrer sur deux sorts en même temps.
+- **Prendre des dégâts**. Chaque fois que vous subissez des dégâts alors que vous êtes concentré sur un sort, vous devez faire un jet de sauvegarde de Constitution pour maintenir votre concentration. Le DD est égal à 10 ou à la moitié des dégâts que vous subissez, si ce chiffre est supérieur. Si vous subissez des dégâts de plusieurs sources, comme d'une flèche et d'un souffle de dragon, vous devez faire un jet de sauvegarde séparé pour chaque source de dégât.
+- **Être incapable d'agir ou mort**. Vous perdez automatiquement la concentration de votre sort si vous êtes incapable d'agir ou si vous êtes mort.
+
+Le MD peut également décider que certains phénomènes environnementaux, comme une vague s'écrasant sur vous pendant que vous êtes sur un navire ballotté par la tempête, impliquent de réussir un jet de sauvegarde de Constitution DD 10 pour réussir à maintenir la concentration du sort.
+
+### [[Incantations\_1#cibles|Cibles]]
+
+Un sort typique requiert que vous sélectionniez une ou plusieurs cibles qui seront affectées par la magie du sort. La description du sort vous indique si le sort cible des créatures, des objets, ou s'il cible un point ayant pour origine une zone d'effet (décrit ci-dessous). Mis à part si un sort a un effet perceptible, une créature peut ne pas savoir qu'elle a été ciblée par un sort. Un effet comme un éclair fissurant l'air est évident, mais un effet plus subtil comme une tentative de lecture de la pensée d'une créature va généralement passer inaperçu, sauf si le sort indique le contraire.
+
+#### Une voie dégagée jusqu'à la cible
+
+Pour cibler quelque chose, vous devez avoir un chemin clair jusqu'à l'objectif, ce qui signifie qu'il ne peut pas avoir un abri total. Si vous situez une zone d'effet en un point que vous ne pouvez pas voir et qu'une obstruction, comme un mur, se trouve entre vous et ce point, le point d'origine sera défini le plus près possible de l'obstruction.
+
+#### Se cibler soi-même
+
+Si un sort peut cibler une créature de votre choix, vous pouvez également vous choisir comme cible, à moins que le sort ne spécifie que ladite créature doit être hostile ou autre que vous. Si vous êtes dans la zone d'effet d'un sort que vous avez lancé, vous pouvez vous cibler vous-même.
+
+### [[Incantations\_1#zone|Zones d'effet]]
+
+Un sort comme [*main brûlante*](dnd/sorts.php?vf=mains-brulantes) ou [*cône de froid*](dnd/sorts.php?vf=cone-de-froid) couvre une zone, ce qui permet d'affecter plusieurs créatures à la fois. La description d'un sort précise sa zone d'effet, qui est typiquement une des cinq formes suivantes : cône, cube, cylindre, sphère ou ligne droite. Chaque zone d'effet a un **point d'origine**, un emplacement d'où l'énergie du sort émane. Les règles spécifient pour chaque forme comment est positionné son point d'origine. Typiquement, un point d'origine est un point dans l'espace, mais certains sorts ont une zone d'effet qui a pour origine une créature ou un objet.
+
+**LA TOILE DE LA MAGIE**  
+  
+Les mondes du multivers de D&D sont des lieux magiques. Toutes les existences sont imprégnées de pouvoir magique, et de l'énergie inexploitée se trouve dans chaque pierre, ruisseau, créature vivante, et même dans l'air lui-même. La magie brute est la substance de la création, la volonté muette et aveugle de l'existence, imprégnant chaque morceau de matière et présente dans chaque manifestation de l'énergie au sein du multivers.  
+  
+Les mortels ne peuvent pas directement définir cette magie brute. Au lieu de cela, ils font usage d'une étoffe de magie, une sorte d'interface entre la volonté d'un lanceur de sorts et la substance de magie brute. Les lanceurs de sorts des Royaumes Oubliés appellent cela la Toile et reconnaissent son essence comme étant la déesse [Mystra](/univers/pantheon/mystra/), mais les lanceurs de sorts ont diverses façons de nommer et de visualiser cette interface. De quelque façon que ce soit, sans la Toile, la magie brute est bloquée et inaccessible ; même l'archimage le plus puissant ne peut allumer une bougie sans la magie d'une zone où la Toile est inaccessible. Mais baigné dans la Toile, un lanceur de sorts peut façonner la foudre pour pourfendre ses ennemis, se transporter sur des centaines de miles en un clin d'œil, ou même repousser sa propre mort.  
+  
+Toute la magie dépend de la Toile, mais chaque type de magie y accède de différentes manières. Les sorts des magiciens, occultistes, ensorceleurs et bardes sont communément appelés **magie des arcanes**. Ces sorts reposent sur une compréhension (apprise ou intuitive) du fonctionnement de la Toile. Le lanceur puise directement depuis les fils de la Toile pour créer l'effet désiré. Les chevaliers occultes et les escrocs arcaniques utilisent également la magie des arcanes. Les sorts de clercs, druides, paladins et rôdeurs sont appelés **magie divine**. Ces lanceurs de sorts accèdent à la Toile par l'intermédiaire de la puissance divine : des dieux, les forces divines de la nature ou le poids sacré du serment d'un paladin.  
+  
+À chaque fois qu'un effet magique est créé, les fils de la Toile s'entremêlent, se tordent, et se replient pour rendre l'effet possible. Lorsque des personnages utilisent des sorts de divination comme *détection de la magie* ou *identification*, ils entrevoient la Toile. Un sort comme *dissipation de la magie* aplanit la Toile. Un sort comme *champ antimagie* réorganise la Toile afin que la magie s'écoule tout autour, plutôt que par la zone affectée par le sort. Et dans les endroits où la Toile est endommagée ou déchirée, la magie fonctionne de façon imprévisible... voire pas du tout.
+
+L'effet d'un sort se développe en ligne droite depuis le point d'origine. Si aucune ligne droite non bloquée ne peut s'étendre du point d'origine vers un emplacement dans la zone d'effet, alors cet emplacement n'est pas compris dans la zone d'effet du sort. Pour bloquer l'une de ces lignes imaginaires, l'obstruction doit fournir un abri total (voir [[Combat]]).
+
+#### Cône
+
+Un cône s'étend dans la direction que vous choisissez à partir de son point d'origine. La largeur d'un cône en un point donné le long de sa longueur est égale à la distance de ce point depuis le point d'origine. La zone d'effet d'un cône précise sa longueur maximale. Le point d'origine d'un cône n'est pas compris dans la zone d'effet du cône, à moins que vous n'en décidiez autrement.
+
+#### Cube
+
+Vous sélectionnez le point d'origine d'un cube, qui peut être n'importe où sur une face du cube. La taille du cube est exprimée par la longueur de chaque arête. Le point d'origine d'un cube n'est pas compris dans la zone d'effet du cube, à moins que vous n'en décidiez autrement.
+
+#### Cylindre
+
+Le point d'origine d'un cylindre est le centre d'un rayon particulier du cercle, comme indiqué dans la description du sort. Le cercle doit être soit sur le sol, soit à hauteur de l'effet de sort. L'énergie dans un cylindre s'étend en ligne droite depuis le point d'origine vers le périmètre du cercle, formant la base du cylindre. L'effet du sort s'étend alors de la base ou depuis le haut, à une distance égale à la hauteur du cylindre. Le point d'origine d'un cylindre est inclus dans la zone d'effet du cylindre
+
+#### Ligne
+
+Une ligne s'étend depuis son point d'origine sur toute sa longueur et couvre une zone définie par sa largeur. Le point d'origine d'une ligne n'est pas compris dans la zone d'effet de la ligne, à moins que vous n'en décidiez autrement.
+
+#### Sphère
+
+Vous sélectionnez le point d'origine d'une sphère, et la sphère s'étend vers l'extérieur depuis ce point. Le rayon de la sphère est exprimé en mètres et s'étend à partir de ce point. Le point d'origine d'une sphère est compris dans la zone d'effet de la sphère.
+
+### [[Incantations\_1#sauvegarde|Jets de sauvegarde]]
+
+De nombreux sorts précisent que la cible peut faire un jet de sauvegarde pour éviter tout ou partie des effets d'un sort. Le sort précise la caractéristique que la cible utilise pour réaliser son jet de sauvegarde, et ce qui se passe en cas d'échec ou de succès.
+
+Le degré de difficultés pour résister à l'un de vos sorts est égal à 8 + le modificateur de votre caractéristique d'incantation + votre bonus de maîtrise + tout modificateur spécial.
+
+### [[Incantations\_1#attaque|Jets d'attaque]]
+
+Certains sorts exigent que le lanceur lance un jet d'attaque afin de déterminer si la cible visée a été touchée par l'effet du sort. Votre bonus d'attaque pour un sort offensif est égal au modificateur de votre caractéristique d'incantation + votre bonus de maîtrise.
+
+La plupart des sorts qui nécessitent un jet d'attaque impliquent des attaques à distance. Rappelez-vous que vous avez un désavantage aux jets d'attaque à distance si vous êtes à 1,50 mètre ou moins d'une créature hostile qui peut vous voir et qui n'est pas incapable d'agir (voir [[Combat]]).
+
+### [[Incantations\_1#combination|Combiner les effets magiques]]
+
+Les effets de différents sorts s'additionnent tant que leur durée se chevauchent, mais les effets d'un même sort lancé plusieurs fois ne se combinent pas. Au lieu de cela, le plus puissant effet (comme le bonus le plus élevé par exemple) de ces sorts s'applique tant que leur durée se chevauchent. Si les effets sont aussi puissants l'un que l'autre et que leur durée se chevauchent, appliquez l'effet le plus récent.
+
+Par exemple, si deux clercs lancent [*bénédiction*](dnd/sorts.php?vf=benediction) sur la même cible, le personnage a le bénéfice seulement d'un des deux sorts ; il ne peut pas lancer deux fois les dés de bonus.
+
+Traduit par lord annilhus

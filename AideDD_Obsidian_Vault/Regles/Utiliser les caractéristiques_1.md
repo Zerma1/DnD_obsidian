@@ -1,0 +1,325 @@
+---
+title: "Utiliser les caractéristiques"
+source: "https://www.aidedd.org/regles/caracteristiques"
+tags:
+  - dnd5
+  - regles
+---
+
+# Utiliser les caractéristiques
+
+# Utiliser les caractéristiques
+
+Six caractéristiques donnent une description rapide des capacités physiques et mentales de toute créature :
+
+- [[Utiliser les caractéristiques#for|Force]], mesure la puissance physique
+- [[Utiliser les caractéristiques#dex|Dextérité]], mesure l'agilité
+- [[Utiliser les caractéristiques#con|Constitution]], mesure l'endurance
+- [[Utiliser les caractéristiques#int|Intelligence]], mesure le raisonnement et la mémoire
+- [[Utiliser les caractéristiques#sag|Sagesse]], mesure la perception et l'intuition
+- [[Utiliser les caractéristiques#cha|Charisme]], mesurer la force de la personnalité
+
+Est-ce qu'un personnage est musclé et perspicace ? Brillant et charmant ? Agile et robuste ? Les valeurs des caractéristiques définissent les qualités et les faiblesses d'une créature. Les trois principaux jets de dés du jeu (le jet de caractéristique, le jet de sauvegarde et le jet d'attaque) se basent sur les six valeurs des caractéristiques. [[Introduction|L'introduction]] décrit la règle de base derrière ces jets : lancer un d20, ajouter un modificateur de caractéristique provenant d'une des six caractéristiques, et comparer le total à l'objectif. Ce chapitre se concentre sur la façon d'utiliser les jets de caractéristique et les jets de sauvegarde, qui couvrent les activités fondamentales que les créatures tentent durant le jeu. Les règles pour les jets d'attaque sont dans le chapitre [[Combat]].
+
+## [[Utiliser les caractéristiques\_1#modificateur|Valeurs et modificateurs de caractéristique]]
+
+Chaque caractéristique d'une créature a une valeur, un nombre qui définit l'ampleur de cette caractéristique. Une valeur de caractéristique est une mesure des capacités innées, mais englobe également la formation et la compétence d'une créature dans les activités liées à cette caractéristique.
+
+Une valeur de 10 ou 11 est la moyenne humaine normale, mais les aventuriers et de nombreux monstres sont un cran au-dessus de la moyenne dans la plupart des caractéristiques. Une valeur de 18 est généralement la plus élevée qu'une personne atteint. Les aventuriers peuvent avoir des valeurs qui montent jusqu'à 20, et certains monstres et êtres divins peuvent avoir des valeurs qui montent jusqu'à 30. Chaque caractéristique possède également un modificateur, qui va de -5 (pour une valeur de caractéristique de 1) à +10 (pour une valeur de caractéristique de 30). La table ci-dessous donne les modificateurs de caractéristique suivant la valeur de celle-ci.
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Valeur de Caractéristique** | 2-3 | 4-5 | 6-7 | 8-9 | 10-11 | 12-13 | 14-15 | 16-17 | 18-19 | 20-21 |
+| **Modificateur** | -4 | -3 | -2 | -1 | +0 | +1 | +2 | +3 | +4 | +5 |
+
+Pour déterminer le modificateur d'une caractéristique sans avoir à consulter cette table, rappelez-vous simplement de soustraire 10 à la valeur de la caractéristique, puis de diviser le total par 2 (arrondi à l'inférieur). Les modificateurs de caractéristiques influant presque tous les jets d'attaque, de caractéristique et de sauvegarde, ils sont plus souvent utilisés en jeu que la valeur même des caractéristiques.
+
+## [[Utiliser les caractéristiques\_1#avantage|Avantage et désavantage]]
+
+Parfois, une capacité spéciale ou un sort vous indique que vous avez un avantage ou un désavantage à un jet de caractéristique, un jet de sauvegarde ou un jet d'attaque. Lorsque cela se produit, lancez un second d20 et utilisez le plus élevé des deux jets si vous avez un avantage, ou le plus faible des deux jets si vous avez un désavantage. Par exemple, si vous avez un désavantage et obtenez un 17 et un 5 aux jets, vous devez utiliser le 5. Si au contraire vous aviez un avantage, vous devez utiliser le 17.
+
+Si plusieurs situations affectent un jet de dé et chacune d'elles donnent un avantage ou un désavantage, vous ne lancez pas plus d'un d20 supplémentaire. Si deux situations donnent un avantage par exemple, vous n'obtenez qu'un seul d20 supplémentaire. Si les circonstances donnent en même temps un avantage et un désavantage, les deux s'annulent, et vous ne lancez qu'un seul d20. Cela s'applique aussi si plusieurs circonstances imposent plusieurs désavantages et un seul avantage, ou vice et versa. Dans une telle situation, vous n'avez ni avantage ni désavantage.
+
+Lorsque vous avez un avantage ou un désavantage, et quelque chose dans le jeu qui, comme la capacité Chance du halfelin, vous permet de relancer ou remplacer le d20, vous ne pouvez relancer ou remplacer qu'un seul des dés, celui que vous voulez. Par exemple, si un halfelin a un avantage à un jet de caractéristique et obtient un 1 et un 13, le halfelin pourrait utiliser sa chance pour relancer le 1.
+
+Vous gagnez habituellement un avantage ou un désavantage grâce à l'utilisation de capacités spéciales, d'actions ou de sorts. L'[[Personnalité et Historique#inspiration|inspiration]] peut également donner un avantage au personnage pour les jets liés à son trait, son idéal ou ses liens. Le MD peut également décider que les circonstances influent sur un jet dans un sens ou dans l'autre, et accorder en conséquence un avantage ou un désavantage.
+
+## [[Utiliser les caractéristiques\_1#maitrise|Bonus de maîtrise]]
+
+Les personnages ont un bonus de maîtrise déterminé par leur niveau, comme indiqué dans le chapitre de [[Création de personnages|création de personnage]]. Les monstres possèdent également ce bonus, lequel est intégré dans leurs blocs de stat. Ce bonus est utilisé pour les jets de caractéristique, les jets de sauvegarde et les jets d'attaque.
+
+Votre bonus de maîtrise ne peut s'appliquer plus d'une fois à un même jet de dés ou à un autre numéro. Par exemple, si deux règles différentes disent que vous pouvez ajouter votre bonus de maîtrise à un jet de sauvegarde de Sagesse, vous ne pouvez en fait ajouter le bonus qu'une seule fois à ce jet de sauvegarde. Parfois, votre bonus de maîtrise peut être modifié (doublé ou divisé par deux, par exemple) avant d'être pris en compte. Par exemple, la capacité Expertise du roublard double son bonus de maîtrise pour certains jets de caractéristique. Si une situation semble suggérer que vous pouvez appliquer ou modifier votre bonus plus d'une fois, n'en tenez pas compte. Le bonus de maîtrise ne s'applique, ne se multiplie ou ne se divise qu'une seule fois.
+
+De la même façon, si une capacité ou effet vous permet de multiplier votre bonus de maîtrise lors d'un jet de caractéristique pour lequel votre bonus de maîtrise ne s'applique pas, vous n'ajoutez pas le bonus. Pour ce jet, votre bonus de maîtrise est 0, donc le multiplier donnera toujours 0. Par exemple, si vous n'avez pas la maîtrise de la compétence Histoire, vous ne gagnez aucun avantage d'une capacité qui vous permet de doubler votre bonus de maîtrise lors d'un jet d'Intelligence (Histoire). En général, vous ne multipliez pas votre bonus de maîtrise pour les jets d'attaque ou de sauvegarde, mais si une capacité ou effet vous permet de le faire, ces mêmes règles s'appliquent.
+
+## [[Utiliser les caractéristiques\_1#jets-de-carac|Jets de caractéristique]]
+
+![Utiliser les caractéristiques](/assets/regles/caracteristiques.jpg "Utiliser les caractéristiques")
+Un jet de caractéristique sert à vérifier le talent inné et la formation d'un personnage ou d'un monstre dans le but de relever un défi. Le MD demande un jet de caractéristique quand un personnage ou un monstre tente une action (autre qu'une attaque) qui a une chance d'échouer. Lorsque le résultat est incertain, les dés déterminent le résultat.
+
+Pour chaque jet de caractéristique, le MD décide quelle est la caractéristique la plus pertinente pour la tâche à accomplir, ainsi que la difficulté de la tâche, représentée par un Degré de Difficulté. Plus une tâche est difficile, plus son DD est haut. La table ci-dessous indique les DD les plus courants.
+
+|  |  |
+| --- | --- |
+| **Tâche** | **DD** |
+| Très facile | 5 |
+| Facile | 10 |
+| Moyenne | 15 |
+| Difficile | 20 |
+| Très difficile | 25 |
+| Quasi impossible | 30 |
+
+Pour effectuer un jet de caractéristique, lancez un d20 et ajoutez le modificateur de caractéristique adéquat. Comme pour les autres jets de d20, appliquez d'éventuels bonus et pénalités, et comparez le total avec le DD. Si ce total est égal ou supérieur au DD, le jet est un succès, la créature a réussi à surmonter le défi. Sinon, c'est un échec, ce qui signifie que le personnage ou le monstre ne progresse pas vers l'objectif, ou progresse mais subit aussi un revers déterminé par le MD.
+
+### Opposition
+
+Parfois, les efforts d'un monstre ou d'un personnage sont directement opposés à un autre. Cela peut se produire lorsque deux créatures essaient de faire la même chose mais qu'une seule peut réussir, comme pour essayer de récupérer un anneau magique qui vient de tomber au sol. Cette situation s'applique également lorsque l'une d'elles tente d'empêcher l'autre d'accomplir quelque chose, comme quand un monstre tente d'ouvrir une porte qu'un aventurier tient fermée. Dans de telles situations, le résultat est déterminé par une forme spéciale de jet de caractéristique appelé une opposition.
+
+Les deux participants à une opposition font les jets de caractéristique adéquats en fonction de l'effort. Ils appliquent tous les bonus et malus appropriés, mais au lieu de comparer le total à un DD, on compare les deux totaux. Le participant avec le total le plus élevé remporte l'opposition. Ce personnage ou monstre réussit alors son action ou empêche l'autre de réussir.
+
+Si l'opposition résulte en une égalité, la situation n'évolue pas. Ainsi, un participant peut gagner l'opposition par défaut. Par exemple, si deux personnages terminent à égalité lors d'une opposition pour récupérer un anneau au sol, aucun ne le saisit, mais dans une opposition entre un monstre essayant d'ouvrir une porte et un aventurier essayant de la garder fermée, une égalité signifie que la porte reste fermée.
+
+### Compétences
+
+Chaque caractéristique couvre un large éventail de capacités, y compris les compétences qu'un personnage ou un monstre peut maîtriser. Une compétence représente un aspect spécifique d'une valeur de caractéristique, et les compétences maîtrisées par un individu démontrent l'accent mis sur cet aspect spécifique (les compétences maîtrisées d'un personnage sont déterminées à la création de celui-ci, et les compétences maîtrisées d'un monstre apparaissent dans son bloc de stat).
+
+Par exemple, un jet de Dextérité peut refléter la tentative d'un personnage pour exécuter une cascade acrobatique, pour subtiliser un objet ou pour rester caché. Mais chacun de ces aspects de la Dextérité a une compétence associée : Acrobaties, Escamotage et Discrétion, respectivement. Ainsi, un personnage qui maîtrise la compétence Discrétion est particulièrement bon lors des jets liés à la Dextérité pour se faufiler et se cacher. Les compétences liées à chaque caractéristique sont présentées dans la liste suivante (aucune compétence n'est liée à la Constitution). Voir la description de la caractéristique dans les sections suivantes de ce chapitre pour savoir comment utiliser une compétence associée à une caractéristique.
+
+- **Force** : Athlétisme
+- **Dextérité** : Acrobaties, Discrétion, Escamotage
+- **Intelligence** : Arcanes, Investigation, Histoire, Nature, Religion
+- **Sagesse** : Dressage, Intuition, Médecine, Perception, Survie
+- **Charisme** : Intimidation, Persuasion, Représentation, Tromperie
+
+Parfois, le MD peut demander un jet de caractéristique pour une compétence spécifique, « faire un jet de Sagesse (Perception) ». D'autres fois, un joueur peut demander au MD si la maîtrise d'une compétence particulière applique au jet. Dans les deux cas, la maîtrise d'une compétence signifie qu'un individu peut ajouter son bonus de maîtrise aux jets de caractéristique qui impliquent cette compétence. Sans la maîtrise de la compétence, le jet est fait normalement. Par exemple, si un personnage tente de grimper une falaise dangereuse, le MD peut lui demander un jet de Force (Athlétisme). Si le personnage est compétent en Athlétisme, le bonus de maîtrise du personnage est ajouté au jet de Force. Si le personnage n'a pas cette compétence, il ou elle fait juste un jet de Force.
+
+#### Variante : Compétences avec des caractéristiques différentes
+
+Normalement, votre maîtrise d'une compétence s'applique uniquement à un type spécifique de jet de caractéristique. La maîtrise de l'athlétisme, par exemple, s'applique généralement aux jets de Force. Dans certaines situations, cependant, votre maîtrise peut raisonnablement s'appliquer à un autre type de jet. Dans de tels cas, le MD peut demander un jet qui utilise une combinaison inhabituelle de caractéristique et compétence, ou vous pouvez vous-même demander à votre MD s'il est possible d'appliquer une compétence à un jet différent. Par exemple, si vous devez nager d'une île au large jusqu'au continent, votre MD pourrait demander un jet de Constitution pour vérifier si vous avez l'endurance nécessaire pour cela. Et dans ce cas, il pourrait vous permettre d'appliquer votre maîtrise en Athlétisme. Donc, si vous maîtrisez la compétence Athlétisme, vous appliquez votre bonus de maîtrise au jet de Constitution tout comme vous le feriez normalement pour un jet de Force (Athlétisme). De même, lorsque votre guerrier nain utilise la force brute pour intimider un ennemi, votre MD pourrait demander un jet de Force (Intimidation), même si l'intimidation est normalement associée au Charisme.
+
+### Jets passifs
+
+Un jet passif est un jet de caractéristique spécial qui n'implique pas de jet de dés. Ce jet peut représenter la moyenne des résultats pour une tâche faite à plusieurs reprises, comme rechercher de portes secrètes, encore et encore. Il peut également être utilisé lorsque le MD veut déterminer secrètement si les personnages réussissent à faire quelque chose sans lancer de dés, comme pour détecter un monstre caché. Voici comment déterminer le total d'un personnage pour un jet passif :
+
+**10 + tous les modificateurs qui s'appliquent normalement au jet**
+
+Si le personnage a un avantage au jet, ajouter 5. En cas de désavantage, soustraire 5. Le jeu considère le Total de jet passif comme une valeur. Par exemple, si un personnage de niveau 1 a une Sagesse de 15 et maîtrise la compétence Perception, il a une valeur de Sagesse (Perception) passive de 14 (10 + 2 de modificateur de Sagesse + 2 de bonus de maîtrise au niveau 1).
+
+### Travailler ensemble
+
+Parfois, plusieurs personnages travaillent en équipe pour réaliser une tâche. Le personnage qui conduit l'effort principal, ou celui avec le plus fort modificateur de caractéristique, peut alors faire un jet de caractéristique avec un avantage, reflétant ainsi l'aide fournie par les autres personnages. En combat, cela se traduit par l'action Aider (voir [[Combat]]). Un personnage ne peut fournir de l'aide que s'il s'agit d'une tâche qu'il pourrait effectuer seul. Par exemple, tenter de crocheter une serrure exige la maîtrise des outils de voleur, donc un personnage qui n'a pas cette maîtrise ne peut pas aider un autre personnage dans cette tâche. En outre, un personnage ne peut aider que si deux ou plusieurs personnes travaillant ensemble sont effectivement productives. Certaines tâches, comme enfiler une aiguille, ne sont pas plus faciles avec de l'aide.
+
+#### Jet de groupe
+
+Quand un certain nombre de personnes tente d'accomplir quelque chose en tant que groupe, le MD peut demander un jet de caractéristique pour le groupe. Dans une telle situation, les personnages qui sont qualifiés pour une tâche particulière peuvent couvrir ceux qui ne le sont pas. Pour effectuer un jet de caractéristique de groupe, tout le monde dans le groupe réalise le jet. Si au moins la moitié du groupe réussit, l'ensemble du groupe réussit. Sinon, tout le groupe échoue. Les jets de groupe ne sont pas fréquents, et sont plus utiles quand tous les personnages réussissent ou échouent en tant que groupe. Par exemple, si des aventuriers s'aventurent dans un marais, le MD peut demander un jet de Sagesse (Survie) de groupe pour voir si les personnages peuvent éviter les sables mouvants, un gouffre ou tout autre piège naturel de l'environnement. Si au moins la moitié du groupe réussit, les personnages qui réussissent sont capables de guider leurs compagnons hors du danger. Sinon, le groupe tombe dans l'un de ces pièges.
+
+## [[Utiliser les caractéristiques\_1#utiliser-carac|Utiliser chaque caractéristique]]
+
+Chaque tâche qu'un personnage ou monstre peut tenter dans le jeu est couverte par l'une des six caractéristiques. Cette section explique plus en détail ce que signifient ces caractéristiques et la façon dont elles sont utilisées dans le jeu.
+
+### [[Utiliser les caractéristiques\_1#for|Force]]
+
+La Force détermine la puissance physique, l'entrainement sportif et la mesure dans laquelle vous pouvez exercer une force physique brute.
+
+#### Jets de Force
+
+Un jet de Force peut modéliser toute tentative de soulever, pousser, tirer ou casser quelque chose, de faire passer votre corps à travers un espace, ou bien d'appliquer la force brute à une situation. La compétence Athlétisme reflète une aptitude à certains types de jets de Force.
+
+**Athlétisme**. Un jet de Force (Athlétisme) couvre les situations difficiles que vous rencontrez en grimpant, en sautant ou nageant. Cela inclut les activités suivantes :
+
+- Vous essayez de grimper une falaise abrupte ou glissante, d'éviter les pièges tout en escaladant un mur, ou de vous accrocher à une surface alors que quelque chose essaie de vous faire lâcher.
+- Vous essayez de sauter une distance inhabituellement longue
+- Vous luttez pour nager ou rester à flot en présence de courants contraires, de vagues houleuses ou dans une zone avec d'épaisses algues. Ou bien une autre créature essaie de vous noyer ou de vous sortir de l'eau, ou toute autre chose qui peut interférer avec votre nage.
+
+**Autres jets de Force**. Le MD peut également demander un jet de Force lorsque vous essayez de réaliser l'une des tâches suivantes :
+
+- Ouvrir par la force une porte coincée ou verrouillée
+- Se libérer de liens
+- Passer à travers un tunnel qui est trop petit
+- S'accrocher à un chariot pour se faire traîner
+
+#### Jets d'attaque et de dégâts
+
+Vous ajoutez votre modificateur de Force à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de corps à corps comme une masse, une hache d'armes ou une javeline. Les armes de corps à corps sont utilisées pour faire des attaques au corps à corps, et certaines d'entre elles peuvent être jetées pour effectuer une attaque à distance.
+
+#### Poids
+
+Votre Force détermine le poids que vous pouvez porter. Les termes suivants définissent ce que vous pouvez soulever ou transporter.
+
+**Capacité de charge**. Votre capacité de charge est votre valeur de Force multipliée par 7,5. C'est le poids (en kg) que vous pouvez porter, ce qui est suffisamment élevé pour que la plupart des personnages n'aient généralement pas à s'inquiéter à ce sujet.
+
+**Pousser, Tirer, Soulever**. Vous pouvez pousser, tirer ou soulever un poids en kilogrammes jusqu'à deux fois votre capacité de charge (ou 15 fois votre valeur de Force). Pousser ou tirer un poids au-delà de votre capacité de charge fait passer votre vitesse à 1,50 mètre.
+
+**Taille et Force**. Les créatures de taille G peuvent supporter plus de poids, alors que les créatures de taille TP peuvent en transporter moins. Pour chaque catégorie de taille supérieure à la taille M, doubler la capacité de charge et le poids qu'elle peut pousser, tirer ou soulever. Pour une créature de taille TP, réduire de moitié ces poids.
+
+#### Variante : Encombrement
+
+Les règles pour soulever ou transporter sont volontairement simples. Mais voici une variante si vous êtes à la recherche de règles plus détaillées pour déterminer comment un personnage est entravé par le poids de son équipement. Lorsque vous utilisez cette variante, ignorer la colonne Force de la table des [[Armures et boucliers|armures]].
+
+Si vous portez un poids qui excède plus de 2,5 fois votre valeur de Force, vous êtes **encombré**, ce qui signifie que votre vitesse est diminuée de 3 mètres. Si vous portez un poids qui excède plus de 5 fois votre valeur de Force, sans dépasser votre capacité de charge maximale, vous êtes **fortement encombré**, ce qui signifie que votre vitesse est diminuée de 6 mètres et vous avez un désavantage aux jets caractéristique, d'attaque et de sauvegarde basés sur la Force, la Dextérité ou la Constitution.
+
+### [[Utiliser les caractéristiques\_1#dex|Dextérité]]
+
+La Dextérité détermine l'agilité, les réflexes et l'équilibre.
+
+#### Jets de Dextérité
+
+**SE CACHER**  
+  
+En premier lieu, le MD décide si les circonstances sont appropriées pour se cacher. Ensuite, si vous essayez de vous cacher, faites un jet de Dextérité (Discrétion). Tant que vous n'êtes pas découvert ou que vous n'arrêtez pas de vous cacher, le résultat de ce jet est celui qui sera pris en compte pour une opposition avec le jet de Sagesse (Perception) de toute créature qui recherche activement des signes de votre présence.  
+  
+Vous ne pouvez pas vous cacher d'une créature qui peut vous voir clairement, et vous révélez votre position si vous faites du bruit, comme crier ou renverser un vase. Une créature invisible ne peut pas être vue, elle peut donc toujours essayer de se cacher. Les signes de son passage peuvent toutefois être découverts et elle doit donc rester calme.   
+  
+En combat, la plupart des créatures sont attentives aux signes de danger autour d'elles, donc si vous sortez de votre cachette pour vous approcher d'une créature, elle va normalement vous voir. Toutefois, dans certaines circonstances, le MD peut vous permettre de rester caché si vous vous approchez d'une créature qui est distraite, vous permettant ainsi de gagner un avantage lors de votre attaque avant d'être vu.  
+  
+**Perception passive**. Lorsque vous êtes caché, il y a une chance que quelqu'un vous remarque même s'il n'est pas à votre recherche. Pour déterminer si une créature vous remarque, le MD compare votre jet de Dextérité (Discrétion) avec la valeur de Sagesse (Perception) passive de la créature, qui est égale à 10 + le modificateur de Sagesse de la créature, plus d'éventuels bonus ou malus. Si la créature a un avantage, ajoutez 5. Si elle a un désavantage, soustraire 5. Par exemple, si un personnage de niveau 1 (avec un bonus de maîtrise +2) a une Sagesse de 15 (et un modificateur +2) et maîtrise la compétence Perception, sa Sagesse (Perception) passive est de 14.  
+  
+**Que pouvez-vous voir ?** Pour déterminer si vous pouvez voir une créature ou un objet caché, il est important de savoir quelle est la visibilité dans la zone, qui peut être **réduite** ou **nulle** (voir [[Partir à l'aventure]]).
+
+Un jet de Dextérité peut modéliser toute tentative de se déplacer rapidement ou tranquillement, ou pour éviter de tomber dans un piège. Les compétences Acrobaties, Escamotage et Discrétion reflètent une aptitude à certains types de jets de Dextérité.
+
+**Acrobaties**. Un jet de Dextérité (Acrobaties) couvre votre tentative pour rester sur vos pieds dans une situation délicate, comme lorsque vous essayez de courir sur de la glace, de tenir en équilibre sur une corde raide, ou de rester debout sur le pont d'un navire chahuté. Le MD peut également demander un jet de Dextérité (Acrobaties) pour voir si vous pouvez effectuer des acrobaties, comme un plongeon, une roulade ou un saut périlleux.
+
+**Discrétion**. Faite un jet de Dextérité (Discrétion) lorsque vous essayez de vous cacher des ennemis, de vous glisser entre des gardes, filer sans vous faire remarquer, ou vous échapper sans être vu ou entendu.
+
+**Escamotage**. Chaque fois que vous tentez une manipulation ou une fourberie, comme prendre quelque chose à quelqu'un ou dissimuler un objet sur vous-même, faites un jet de Dextérité (Escamotage). Le MD peut également demander un jet de Dextérité (Escamotage) pour déterminer si vous pouvez dérober une bourse ou glisser quelque chose dans la poche de quelqu'un.
+
+**Autres jets de Dextérité**. Le MD peut également demander un jet de Dextérité lorsque vous essayez de réaliser l'une des tâches suivantes :
+
+- Contrôler un chariot lourdement chargé sur une pente raide
+- Manœuvrer un chariot dans un virage serré
+- Crocheter une serrure
+- Désarmer un piège
+- Ligoter un prisonnier
+- Détacher ses liens
+- Jouer d'un instrument
+- Fabriquer un petit objet ou un objet avec de petits détails
+
+#### Jets d'attaque et de dégâts
+
+Vous ajoutez votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme à distance, comme une fronde ou un arc. Vous pouvez également ajouter votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de corps à corps qui a la propriété finesse, comme une dague ou une rapière.
+
+#### Classe d'armure
+
+Selon l'armure que vous portez, vous pouvez ajouter tout ou partie de votre modificateur de Dextérité à votre classe d'armure (voir [[Armures et boucliers|Armures]]).
+
+#### Initiative
+
+Au début de chaque combat, vous lancez l'initiative en faisant un jet de Dextérité. L'initiative détermine l'ordre des tours des créatures en combat (voir [[Combat]]).
+
+### [[Utiliser les caractéristiques\_1#con|Constitution]]
+
+La Constitution détermine la santé, l'endurance et la force vitale.
+
+#### Jets de Constitution
+
+Les jets de Constitution sont rares, et aucune compétence n'applique à un jet de Constitution, car l'endurance que cette caractéristique représente est généralement passive et n'implique pas un effort particulier de la part d'un personnage ou monstre. Un jet de Constitution peut toutefois modéliser votre tentative d'aller au-delà de vos limites normales.
+
+- Le MD peut demander un jet de Constitution lorsque vous essayez d'accomplir des tâches comme :
+- Retenir votre souffle
+- Marcher ou travailler pendant des heures sans repos
+- Ne pas dormir
+- Survivre sans eau ni nourriture
+- Boire une chope de bière d'un trait
+
+#### Points de vie
+
+Votre modificateur de Constitution contribue à vos points de vie. En général, vous ajoutez votre modificateur de Constitution à chaque dé de vie jeté pour déterminer les points de vie.
+
+Si votre modificateur de Constitution change, votre maximum de points de vie change aussi, comme si vous aviez le nouveau modificateur dès le niveau 1. Par exemple, si vous augmentez votre valeur de Constitution lorsque vous atteignez le niveau 4 et que votre modificateur de Constitution passe de +1 à +2, vous ajustez votre maximum de points de vie comme si le modificateur avait toujours été +2. Vous ajoutez donc 3 points de vie pour vos trois premiers niveaux, puis lancez le dé pour vos points de vie du niveau 4 en utilisant votre nouveau modificateur. Ou bien, si vous êtes de niveau 7 et qu'un effet réduit votre valeur de Constitution avec comme conséquence de réduire votre modificateur de Constitution de 1, votre maximum de points de vie est réduit de 7.
+
+### [[Utiliser les caractéristiques\_1#int|Intelligence]]
+
+L'intelligence détermine l'acuité mentale, la précision de la mémoire et la capacité à raisonner.
+
+#### Jets d'Intelligence
+
+Un jet d'Intelligence est nécessaire lorsque vous avez besoin de vous appuyer sur la logique, l'éducation, la mémoire, le raisonnement ou la déduction. Les compétences Arcanes, Histoire, Investigation, Nature, et Religion reflètent une aptitude à certains types de jets d'Intelligence.
+
+**Arcanes**. Un jet d'Intelligence (Arcanes) évalue votre aptitude à vous rappeler des choses à propos de sorts, d'objets magiques, de symboles occultes, de traditions magiques, de plans d'existence ou des habitants de ces plans.
+
+**Histoire**. Un jet d'Intelligence (Histoire) évalue votre aptitude à vous rappeler des choses à propos d'événements historiques, de personnages légendaires, d'anciens royaumes, de conflits passés, de guerres récentes et de civilisations perdues.
+
+**Investigation**. Lorsque vous regardez autour de vous pour trouver des indices et faire des déductions sur la base de ces indices, vous faites un jet d'Intelligence (Investigation). Vous pouvez en déduire l'emplacement d'un objet caché, discerner en fonction de l'apparence d'une blessure le type d'arme utilisé, ou déterminer le point faible dans un tunnel pour causer son effondrement. Se pencher sur d'anciens manuscrits à la recherche d'informations cachées peut aussi demander un jet d'Intelligence (Investigation).
+
+**Nature**. Un jet d'Intelligence (Nature) évalue votre aptitude à vous rappeler des informations sur un type de terrain, des plantes ou des animaux, la météo et les cycles naturels.
+
+**Religion**. Un jet d'Intelligence (Religion) évalue votre aptitude à vous rappeler des choses à propos des dieux, des rites et des prières, la hiérarchie religieuse, les symboles sacrés et les pratiques de cultes secrets.
+
+**Autres jets d'Intelligence**. Le MD peut également demander un jet d'Intelligence lorsque vous essayez de réaliser l'une des tâches suivantes :
+
+- Communiquer avec une créature sans utiliser de mots
+- Estimer la valeur d'un objet précieux
+- Se déguiser pour tromper un garde de la ville
+- Falsifier un document
+- Connaître quelque chose à propos d'un métier ou d'un commerce
+- Gagner à un jeu de compétences
+
+#### Capacité de lancer de sorts
+
+Les magiciens utilisent l'Intelligence comme caractéristique d'incantation, ce qui permet de déterminer le DD des jets de sauvegarde des sorts qu'ils lancent.
+
+### [[Utiliser les caractéristiques\_1#sag|Sagesse]]
+
+La Sagesse reflète la façon dont vous êtes à l'écoute du monde autour de vous, ainsi que la perspicacité et l'intuition.
+
+#### Jets de Sagesse
+
+Un jet de Sagesse peut refléter l'effort pour lire le langage du corps, comprendre les sentiments de quelqu'un, noter quelque chose dans l'environnement ou soigner une personne blessée. Les compétences Dressage, Intuition, Médecine, Perception et Survie reflètent une aptitude à certains types de jets de Sagesse.
+
+**Dressage**. Quand il est question de savoir si vous pouvez calmer un animal domestique, faire qu'une monture ne s'effraye pas, ou deviner les intentions d'un animal, le MD peut demander un jet de Sagesse (Dressage). Vous pouvez également faire un jet de Sagesse (Dressage) pour contrôler votre monture lorsque vous tentez une manœuvre risquée.
+
+****TROUVER UN OBJET CACHÉ****Lorsque votre personnage recherche un objet caché, comme une porte secrète ou un piège, le MD vous demandera généralement de faire un jet de Sagesse (Perception). Ce jet peut être utilisé pour trouver des détails cachés ou d'autres informations et indices que vous pourriez autrement négliger.   
+  
+Dans la plupart des cas, vous devez décrire où vous cherchez afin que le MD puisse déterminer vos chances de succès. Par exemple, une clé est cachée sous des vêtements pliés dans le tiroir du haut d'un bureau. Si vous dites au MD que vous cherchez autour de la salle, en regardant les murs et les meubles pour trouver des indices, vous n'avez aucune chance de trouver la clé, quel que soit le résultat de votre jet de Sagesse (Perception). Vous devez spécifier que vous ouvrez les tiroirs ou que vous cherchez dans le bureau pour avoir une chance de succès.
+
+**Intuition**. Un jet de Sagesse (Intuition) détermine si vous pouvez déceler les véritables intentions d'une créature, comme lorsque vous tentez de savoir si elle ment ou pour prévoir son prochain mouvement. Cela implique de lire le langage du corps, détecter ses habitudes de langage et les changements dans ses manières.
+
+**Médecine**. Un jet de Sagesse (Médecine) permet d'essayer de stabiliser un compagnon mourant ou de diagnostiquer une maladie.
+
+**Perception**. Un jet de Sagesse (Perception) permet de repérer, entendre ou détecter la présence de quelque chose. Il mesure votre conscience de l'environnement et l'acuité de vos sens. Par exemple, vous pouvez essayer d'entendre une conversation à travers une porte fermée, espionner par une fenêtre ouverte, ou entendre des monstres se faufiler dans la forêt. Vous pouvez aussi essayer de repérer des choses qui sont cachées ou difficiles à déceler, que ce soient des orcs en embuscade sur une route, des voyous cachés dans l'ombre d'une ruelle ou la lueur d'une chandelle sous une porte secrète fermée.
+
+**Survie**. Le MD peut vous demander de faire un jet de Sagesse (Survie) pour suivre des traces, chasser du gibier sauvage, guider votre groupe sur un terrain gelé, identifier des traces indiquant qu'un ours-hibou vit à proximité, prévoir le temps ou éviter des sables mouvants et autres catastrophes naturelles.
+
+**Autres jets de Sagesse**. Le MD peut également demander un jet de Sagesse lorsque vous essayez de réaliser l'une des tâches suivantes :
+
+- Avoir un pressentiment sur le plan d'action à suivre
+- Discerner si une créature apparemment morte ou vivante est un mort-vivant
+
+#### Capacité de lancer de sorts
+
+Les clercs, les druides et les rôdeurs utilisent la Sagesse comme caractéristique d'incantation, ce qui permet de déterminer le DD des jets de sauvegarde des sorts qu'ils lancent.
+
+### [[Utiliser les caractéristiques\_1#cha|Charisme]]
+
+Le Charisme détermine votre capacité à interagir efficacement avec les autres. Il comprend des facteurs comme la confiance et l'éloquence, et peut représenter une personnalité charmante ou dominante.
+
+#### Jets de Charisme
+
+![Utiliser les caractéristiques](/assets/regles/caracteristiques2.jpg "Utiliser les caractéristiques")
+Un jet de Charisme peut être nécessaire lorsque vous essayez d'influencer ou de divertir les autres, lorsque vous essayez de faire impression ou de dire un mensonge de manière convaincante, ou lorsque vous êtes au milieu d'une situation sociale difficile. Les compétences de Tromperie, Intimidation, Représentation et Persuasion reflètent une aptitude à certains types de jets de Charisme.
+
+**Intimidation**. Lorsque vous essayez d'influencer les gens par des menaces ouvertes, des actions hostiles, ou de la violence physique, le MD peut vous demander de faire un jet de Charisme (Intimidation). Cela peut appliquer pour essayer de soutirer des informations à un prisonnier, convaincre des voyous de renoncer à une confrontation, ou utiliser un tesson de bouteille pour convaincre un vizir sarcastique de réexaminer sa décision.
+
+**Persuasion**. Lorsque vous essayez d'influencer quelqu'un ou un groupe de personnes avec tact, grâce, ou de bonnes manières, le MD peut vous demander de faire un jet de Charisme (Persuasion). En règle générale, vous utilisez la persuasion lorsque vous agissez de bonne foi, afin de favoriser l'amitié, faire des demandes cordiales, ou utiliser l'étiquette appropriée. Vous pouvez utiliser la persuasion pour convaincre un chambellan de laisser votre groupe voir le roi, négocier la paix entre deux tribus en guerre, ou motiver une foule de citadins.
+
+**Représentation**. Un jet de Charisme (Représentation) détermine la façon dont vous pouvez enchanter un public par la musique, la danse, le théâtre, le conte ou toute autre forme de divertissement.
+
+**Tromperie**. Un jet de Charisme (Tromperie) détermine si vous pouvez cacher la vérité avec efficacité, soit verbalement, soit par vos actions. La tromperie peut englober beaucoup de choses, depuis l'ambiguïté de ses dires jusqu'au mensonge pur et simple. Des situations typiques sont d'essayer d'embobiner un garde, duper un commerçant, gagner de l'argent au jeu, vous faire passer pour quelqu'un d'autre à l'aide d'un déguisement, apaiser les soupçons de quelqu'un avec une fausse assurance, ou maintenir un visage impassible tout en racontant un mensonge flagrant.
+
+**Autres jets de Charisme**. Le MD peut également demander un jet de Charisme lorsque vous essayez de réaliser l'une des tâches suivantes :
+
+- Trouver la meilleure personne pour obtenir des informations, des rumeurs, des ragots
+- Se fondre dans la foule pour obtenir une idée générale des sujets de conversations
+
+#### Capacité de lancer de sorts
+
+Les bardes, les ensorceleurs, les occultistes et les paladins utilisent le Charisme comme caractéristique d'incantation, ce qui permet de déterminer le DD des jets de sauvegarde des sorts qu'ils lancent.
+
+## [[Utiliser les caractéristiques\_1#sauvegarde|Jets de sauvegarde]]
+
+Un jet de sauvegarde (appelé aussi sauvegarde tout court) représente une tentative pour résister à un sort, un piège, un poison, une maladie ou autre menace similaire. Vous ne décidez normalement pas de faire un jet de sauvegarde, vous êtes obligé de le faire parce que votre personnage ou monstre est en danger. Pour faire un jet de sauvegarde, lancez un d20 et ajoutez le modificateur de caractéristique adéquat. Par exemple, vous utilisez votre modificateur de Dextérité pour un jet de sauvegarde de Dextérité. Un jet de sauvegarde peut être modifié par un bonus ou un malus de situation, et peut être affecté par un avantage ou un désavantage, selon ce que détermine le MD.
+
+Chaque classe donne la maîtrise d'au moins deux jets de sauvegarde. Le magicien, par exemple, maîtrise les jets de sauvegarde basés sur l'Intelligence. Comme pour la maîtrise des compétences la maîtrise d'un jet de sauvegarde permet à un personnage d'ajouter son bonus de maîtrise aux jets de sauvegarde pour une caractéristique donnée. Certains monstres ont également la maîtrise d'un jet de sauvegarde.
+
+Le Degré de Difficulté pour un jet de sauvegarde est déterminé par l'effet qu'il provoque. Par exemple, le DD pour un jet de sauvegarde d'un sort est déterminé par la caractéristique d'incantation du lanceur et son bonus de maîtrise. Le résultat d'un jet de sauvegarde, réussi ou non, est également détaillé dans l'effet qui permet la sauvegarde. Habituellement, une sauvegarde réussie signifie que la créature ne souffre d'aucun dégât, ou de dégâts réduits.

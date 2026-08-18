@@ -1,0 +1,107 @@
+---
+title: "Comparses"
+source: "https://www.aidedd.org/regles/comparses"
+tags:
+  - dnd5
+  - regles
+---
+
+# Comparses
+
+# Comparses
+
+Version officielle de l'**Essentials Kit** de cette règle mise en ligne par WotC lors de l'opération Stay at Home - Play at Home 2020.
+
+Lors des aventures, un personnage spécial, appelé un comparse, peut rejoindre un groupe. Cet article présente les statistiques de jeu des comparses, lesquels se répartissent en trois types :
+
+- **Compagnon d'armes**, un combattant spécialisé dans l'attaque des ennemis ou dans la défense de ses alliés.
+- **Expert**, agile et touche-à-tout.
+- **Incantateur**, un pratiquant de la magie qui peut lancer des sorts pour blesser les ennemis ou soigner ses alliés.
+
+Le MD décide du type de comparse ou laisse les joueurs le choisir. Ensuite le MD et les joueurs décident qui le contrôle en jeu.
+
+### Bloc de stat d'un comparse
+
+Les caractéristiques de jeu d'un comparse sont présentées dans ce que l'on appelle un bloc de stat, qui est en fait une mini-feuille de personnage. Un bloc de stat contient les valeurs de caractéristique et les points de vie, ainsi que les actions qu'un comparse est le plus susceptible de mener en combat, et fonctionne avec n'importe quelle race de personnage. Si les joueurs et le MD s'entendent, il est aussi possible d'améliorer un comparse avec les [[Races|traits raciaux]] des règles génériques. Pour plus d'informations sur les blocs de stat, voir la [[Monstres|description des créatures]] des règles génériques.
+
+- **[Compagnon d'armes](https://www.aidedd.org/dnd/monstres.php?vf=compagnon-d-armes-niv-1)** (niv 1)
+- **[Expert](https://www.aidedd.org/dnd/monstres.php?vf=expert-niv-1)** (niv 1)
+- **[Incantateur](https://www.aidedd.org/dnd/monstres.php?vf=incantateur-niv-1)** (niv 1)
+
+### Maîtrises
+
+Un comparse maîtrise toutes les armures, armes et outils inclus dans son bloc de stat. En outre, les **compagnons d'armes** maîtrisent les armes courantes et les armes de guerre, les boucliers et toutes les armures. Les **experts** maîtrisent les armes courantes, les rapières, les épées courtes et les armures légères. Les **incantateurs** maîtrisent les armes courantes et les armures légères.
+
+### Niveaux
+
+Un comparse commence comme un personnage de niveau 1. Au fur et à mesure des aventures, il gagne des points d'expérience et des niveaux comme un personnage joueur, en utilisant la [[Au-delà du niveau 1|progression]] des règles génériques. Lorsqu'un comparse gagne un niveau, consultez les tables ci-dessous pour obtenir le nouveau maximum de points de vie et les nouvelles capacités du comparse.
+
+Un MD peut faire commencer un comparse à un niveau supérieur au niveau 1, en utilisant le maximum de points de vie et les capacités qui correspondent à son niveau et aux niveaux antérieurs.
+
+#### [[Comparses\_1#compagnon-d-armes|Compagnon d'armes au-delà du niveau 1]]
+
+| Niv | Points  de vie | Capacités |
+| --- | --- | --- |
+| **[1](dnd/monstres.php?vf=compagnon-d-armes-niv-1)** | 13 (2d8 +4) | Rôle martial |
+| **[2](dnd/monstres.php?vf=compagnon-d-armes-niv-2)** | 19 (3d8 + 6) | Second souffle |
+| **[3](dnd/monstres.php?vf=compagnon-d-armes-niv-3)** | 26 (4d8 + 8) | Critique amélioré |
+| **[4](dnd/monstres.php?vf=compagnon-d-armes-niv-4)** | 32 (5d8 + 10) | Amélioration de caractéristique |
+| **[5](dnd/monstres.php?vf=compagnon-d-armes-niv-5)** | 39 (6d8 + 12) | Bonus de maîtrise |
+| **[6](dnd/monstres.php?vf=compagnon-d-armes-niv-6)** | 45 (7d8 + 14) | Attaque supplémentaire |
+
+**Second souffle**. Le compagnon d'armes peut utiliser une action bonus à son tour pour regagner des points de vie à raison de 1d10 + son niveau. Une fois qu'il a utilisé cette capacité, il doit finir un repos court ou long pour pouvoir l'utiliser à nouveau.
+
+**Critique amélioré**. Les attaques du compagnon d'armes sont considérées comme étant un coup critique sur un jet naturel de 19 ou 20.
+
+**Amélioration de caractéristiques**. Le compagnon d'armes peut augmenter une valeur de caractéristique de votre choix (normalement la Force) de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Il n'est pas possible d'augmenter une caractéristique au-delà de 20 par ce biais.
+
+**Bonus de maîtrise**. Le bonus de maîtrise du compagnon d'armes augmente de +1.
+
+**Attaque supplémentaire**. Le compagnon d'armes peut attaquer deux fois, au lieu d'une seule, chaque fois qu'il réalise l'action Attaquer durant son tour.
+
+#### [[Comparses\_1#expert|Expert au-delà du niveau 1]]
+
+| Niv | Points  de vie | Capacités |
+| --- | --- | --- |
+| **[1](dnd/monstres.php?vf=expert-niv-1)** | 11 (2d8 + 2) | Serviable, Outils |
+| **[2](dnd/monstres.php?vf=expert-niv-2)** | 16 (3d8 + 3) | Ruse |
+| **[3](dnd/monstres.php?vf=expert-niv-3)** | 22 (4d8 + 4) | Expertise |
+| **[4](dnd/monstres.php?vf=expert-niv-4)** | 27 (5d8 + 5) | Amélioration de caractéristique |
+| **[5](dnd/monstres.php?vf=expert-niv-5)** | 33 (6d8 + 6) | Bonus de maîtrise |
+| **[6](dnd/monstres.php?vf=expert-niv-6)** | 38 (7d8 + 7) | Attaque supplémentaire |
+
+**Ruse**. À son tour de combat, l'expert peut prendre l'action Foncer, Se désengager ou Se cacher en utilisant son action bonus.
+
+**Expertise**. Choisissez deux compétences que le comparse maîtrise. Le bonus de maîtrise est doublé pour tous les jets de caractéristique qu'il fait avec l'une de ces compétences.
+
+**Amélioration de caractéristique**. L'expert peut augmenter une valeur de caractéristique de votre choix (normalement la Dextérité) de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Il n'est pas possible d'augmenter une caractéristique au-delà de 20 par ce biais.
+
+**Bonus de maîtrise**. Le bonus de maîtrise de l'expert augmente de +1.
+
+**Attaque supplémentaire**. L'expert peut attaquer deux fois au lieu d'une lorsqu'il prend l'action Attaquer pendant son tour.
+
+#### [[Comparses\_1#incantateur|Incantateur au-delà du niveau 1]]
+
+|  |  |  | Sorts |  |  | |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Points |  | mineurs | Sorts | - Emplacements de sorts - | |
+| Niv | de vie | Capacités | connus | connus | 1 | 2 |
+| **[1](dnd/monstres.php?vf=incantateur-niv-1)** | 9 (2d8) | Rôle magique, Incantation | 2 | 1 | 2 | — |
+| **[2](dnd/monstres.php?vf=incantateur-niv-2)** | 13 (3d8) | Incantation | 2 | 2 | 2 | — |
+| **[3](dnd/monstres.php?vf=incantateur-niv-3)** | 18 (4d8) | Incantation | 2 | 3 | 3 | — |
+| **[4](dnd/monstres.php?vf=incantateur-niv-4)** | 22 (5d8) | Amélioration de caractéristique | 3 | 3 | 3 | — |
+| **[5](dnd/monstres.php?vf=incantateur-niv-5)** | 27 (6d8) | Bonus de maîtrise | 3 | 4 | 4 | 2 |
+| **[6](dnd/monstres.php?vf=incantateur-niv-6)** | 31 (7d8) | Sorts mineurs puissants | 3 | 4 | 4 | 2 |
+
+**Incantation**. Au niveau 2, l'incantateur apprend un nouveau sort de niveau 1 : *bénédiction* (guérisseur) ou *mains brûlantes (mage)*.  
+Au niveau 3, l'incantateur apprend un nouveau sort de niveau 1 : *bouclier de la foi* (guérisseur) ou *bouclier* (mage).  
+Au niveau 4, l'incantateur apprend un nouveau sort mineur : *résistance* (guérisseur) ou *main de mage* (mage).  
+Au niveau 5, l'incantateur apprend un nouveau sort de niveau 2 : *aide* (guérisseur) ou *invisibilité* (mage).
+
+**Amélioration de caractéristique**. L'incantateur peut augmenter une valeur de caractéristique de votre choix de +2 (normalement l'Intelligence pour un mage ou la Sagesse pour un soigneur), ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Il n'est pas possible d'augmenter une caractéristique au-delà de 20 par ce biais.
+
+**Bonus de maîtrise**. Le bonus de maîtrise de l'incantateur augmente de +1.
+
+**Sorts mineurs puissants**. L'incantateur peut ajouter son modificateur de caractéristique d'incantation aux dégâts de ses sorts mineurs.
+
+![SA-aventure](assets/intro/articles/SA/SA-aventure.jpg)
