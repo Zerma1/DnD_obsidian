@@ -16,10 +16,9 @@ import requests
 from bs4 import BeautifulSoup
 from markdownify import markdownify as md
 
-BASE_URL = "https://www.aidedd.org/regles/"
+BASE_URL = "https://www.aidedd.org/dnd-5/unearthed-arcana"
 ALLOWED_PREFIXES = [
-    "https://www.aidedd.org/regles/",
-    "https://www.aidedd.org/dnd-5/regles/"
+    "https://www.aidedd.org/dnd-5/unearthed-arcana/",
 ]
 
 OUTPUT_DIR = "./AideDD_Obsidian_Vault/Regles"

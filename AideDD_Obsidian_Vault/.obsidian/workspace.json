@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d49ff242a93f9e0",
+        "id": "4aef4ec8ef1204e8",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0bb3ee0cfb3b37",
+            "id": "02a503b7bfc792e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regles/1.1-suite.md",
+                "file": "Regles/12 Monstres/2-Description.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "1.1-suite"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9001299a5427abc1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b597760e43ba1c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regles/1.1-suite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1-suite"
+              "title": "2-Description"
             }
           }
         ]
@@ -75,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Regles/03 Classes/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regles/1.1-suite.md",
+                "file": "Regles/1.2-suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regles/1.1-suite.md",
+                "file": "Regles/1.2-suite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -181,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regles/1.1-suite.md",
+                "file": "Regles/1.2-suite.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,35 +188,43 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "dbe1fe49bf65a8dc",
+  "active": "02a503b7bfc792e2",
   "lastOpenFiles": [
-    "Regles/1.2-suite.md",
-    "Regles/1.1-suite.md",
-    "Regles/1.0-creation-de-perso.md",
-    "Regles/0-regles.md",
-    "Regles/26.0-comparses.md",
-    "Regles/25.0-temps-morts-xgte.md",
-    "Regles/24.0-pieges-xgte.md",
-    "Regles/23.0-folie.md",
-    "Regles/22.0-poisons.md",
-    "Regles/21.0-maladies.md",
-    "Regles/20.0-objets.md",
-    "Regles/19.0-temps-morts.md",
-    "Regles/18.0-pieges.md",
-    "Regles/17.0-liste-objets-magiques.md",
-    "Regles/16.4-creation.md",
-    "Regles/16.3-autres-recompenses.md",
-    "Regles/16.2-artefacts.md",
-    "Regles/16.1-intelligents.md",
-    "Regles/16.0-objets-magiques.md",
-    "Regles/15.0-rencontres.md",
-    "Regles/14.0-liste-monstres.md",
-    "Regles/13.0-monstres.md",
-    "Regles/12.0-etats.md",
-    "Regles/11.0-sorts.md",
-    "Regles/10.0-magie.md",
-    "Regles/9.0-combat.md",
-    "Regles",
-    "Regles.old"
+    "Regles/12 Monstres/1-liste-monstres.md",
+    "Regles/12 Monstres/0-monstres.md",
+    "Regles/06 Personalisation/2-dons.md",
+    "Regles/06 Personalisation/1-multiclassage.md",
+    "Regles/06 Personalisation/0-personnalisation.md",
+    "Regles/05 Equipement/4-armures.md",
+    "Regles/05 Equipement/3-babioles.md",
+    "Regles/05 Equipement/2-materiel.md",
+    "Regles/05 Equipement/1-outils.md",
+    "Regles/05 Equipement/0-equipement.md",
+    "Regles/05 Equipement/5-armes.md",
+    "Regles/05 Equipement/6-montures-et-marchandises.md",
+    "Regles/05 Equipement/7-depenses.md",
+    "Regles/05 Equipement/8-montures-et-marchandises.md",
+    "Regles/04 Historiques/4-charlatan.md",
+    "Regles/04 Historiques/3-artiste.md",
+    "Regles/04 Historiques/2-artisan-de-guilde.md",
+    "Regles/04 Historiques/1-acolyte.md",
+    "Regles/04 Historiques/0-historiques.md",
+    "Regles/04 Historiques/5-criminel.md",
+    "Regles/04 Historiques/6-enfant-des-rues.md",
+    "Regles/04 Historiques/7-ermite.md",
+    "Regles/04 Historiques/8-heros-du-peuple.md",
+    "Regles/04 Historiques/9-marin.md",
+    "Regles/04 Historiques/10-noble.md",
+    "Regles/04 Historiques/11-sage.md",
+    "Regles/03 Classes/3.35-paladin.md~",
+    "Regles/03 Classes/3.30-occultiste.md~",
+    "Regles/03 Classes/3.8-moine.md~",
+    "Regles/03 Classes/3.26-magicien.md~",
+    "Regles/03 Classes/3.23-ensorceleur.md~",
+    "Regles/03 Classes/3.20-druide.md~",
+    "Regles/03 Classes/3.18-clerc.md~",
+    "Regles/03 Classes/3.2-barde.md~",
+    "Regles/14 Objet Magique",
+    "Regles/12 Monstres"
   ]
 }
