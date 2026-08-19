@@ -1,0 +1,770 @@
+* 		{box-sizing:border-box; margin:0; padding:0}
+html  	{font-size:10px}
+body  	{font-family:Verdana, Arial, sans-serif}
+
+@media print {
+  html, body  {font-size:50%}
+}
+
+p	{margin-bottom:8px}
+input[type=checkbox] {position:relative; top:2px}
+div, textarea, select, input, span {font-family:Verdana, Arial, sans-serif}
+
+#txtsheet {
+  margin: 0 auto;
+  max-width: 900px;
+}
+#sheet_span1 {
+  background-image: url(sheet/header-sheet1.png);
+  background-position: top left;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  margin-bottom:40px;
+}
+#sheet_span2 {
+  background-image: url(sheet/header-sheet2.png);
+  background-position: top left;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  margin-bottom:40px;
+}
+#sheet_span3 {
+  background-image: url(sheet/header-sheet3.png);
+  background-position: top left;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  margin-bottom:40px;
+}
+
+@media print {
+  #sheet_span2, #sheet_span3 {margin:0; break-before:page}
+}
+
+.line {
+  padding-left: 4px;
+  background-color: transparent;
+  white-space: nowrap;
+}
+
+.divedit {
+  width: 96%;
+  display: block;
+  background: rgba(240, 240, 240, 0.15);
+  border: none;
+  margin:0 auto;
+  font-size: 1.1rem; 
+  padding:3%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  overflow:hidden;
+}
+
+.textinput {
+  width: 100%;
+  padding-left: 2px;
+  border-style: solid;
+  border-width: 0 0 1px 0;
+  border-bottom-color: #cccccc;
+  background-color: rgba(0, 0, 0, 0);
+  display: inline-block;
+}
+.block {
+  vertical-align: top;
+  display: inline-block;
+}
+.field {
+  padding-right: 8px;
+  padding-left: 4px;
+  white-space: normal;
+  display: inline-block;
+}
+
+/* FEUILLE 1 */
+
+.b2 {
+  margin: 9% 0 30px 7%;
+}
+.b2  .line1 .textinput,
+.b39 .line1 .textinput,
+.b50 .line1 .textinput {
+  font-size: 2rem;
+  font-weight: 700;
+}
+.b2 .line2,
+.b39 .line2,
+.b50 .line2 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.b2 .line2 {
+  margin-top: 7%;
+  margin-left: 12%;
+}
+
+.b3 {
+  margin: 7.5% 0 0 1.5%;
+}
+.b3 .field, .b40 .field {
+  font-size:0.9rem;
+  text-transform: uppercase;
+}
+.b3 .textinput, .b40 .textinput {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.b3 .line2, .b40 .line2 {
+  margin-top:2%;
+}
+
+.b4 {
+  margin-right:1%;
+}
+
+.b5 {
+  background-image: url(sheet/back2.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 95% 100%;
+}
+.b6, .b7, .b8 {
+  text-align: center;
+  margin: 3% 2% 4% 3%;
+  padding: 0 0 4% 0;
+  background-image: url(sheet/back3.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80% 100%;
+}
+.b6 {  
+  margin-top: 30%;
+}
+.b8 {  
+  margin-bottom: 28%;
+}
+.b6 .line1, .b7 .line1, .b8 .line1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-top: 6%;
+  margin-left: 3%;
+}
+.b6 .line2 .textinput, .b7 .line2 .textinput, .b8 .line2 .textinput {
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 8%;
+  border: 0;
+}
+.b6 .line3 .textinput, .b7 .line3 .textinput, .b8 .line3 .textinput {
+  text-align: center;
+  font-size: 1.8rem;
+  padding-top: 13%;
+  padding-bottom: 3%;
+  border: 0;
+}
+
+.b13 {
+  background-image: url(sheet/back4.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  padding:4% 0 8% 0;
+}
+.b14 {
+  background-image: url(sheet/back5.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  padding:6% 0 9% 0;
+}
+.b13, .b14 {
+  font-size: 1rem;
+}
+.b13 .textinput {
+  text-align: center;
+  border: 0;
+}
+.b13 .line, .b14 .line {
+  font-weight: 700;
+}  
+.b14 .textinput {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.5rem;
+  border: 0;
+}
+.b13 .field, .b14 .field {
+  margin-top:5%;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.b15, .b16 {
+  border: 1px solid black;
+  margin-top:3%;
+  padding: 4%;
+}
+.b15 .textinput, .b16 .textinput {
+  text-align: center;
+  font-size: 1.2rem;
+  width:15%;
+}
+
+.b15 .field, .b16 .field {
+  font-size: 1.1rem;
+  margin-top:4%;
+  width:85%;
+}
+
+.b15 {
+  background-image: url(sheet/back6.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  margin-top:2%;
+}
+.b16 {
+  background-image: url(sheet/back7.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+}
+.b15 .line3 .field, .b16 .line2 .field {
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding-top:3%;
+}
+
+.b17 {
+  background-image: url(sheet/back8.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  padding:6% 0 6% 0;
+}
+.b17 .line1 {
+  font-size: 1rem;
+}
+.b17 .line1 .textinput {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.5rem;
+  border: 0;
+}
+.b17 .line1 .field {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.b18 {
+  background-image: url(sheet/back15.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+}
+
+.b18 .line1 .divedit {
+  height:19rem;
+}
+
+.b18 .line2 .field {
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.b19 {
+  background-image: url(sheet/back1.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+
+.b21 {
+  background-image: url(sheet/back9.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  margin:0 1% 0 2%;
+  padding:4% 0 6% 0;
+}
+.b22, .b23 {
+  background-image: url(sheet/back10.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  margin:0 1% 0 1%;
+  padding:4% 0 6% 0;
+}
+.b21 .textinput,
+.b22 .textinput,
+.b23 .textinput {
+  font-size: 1.8rem;
+  text-align: center;
+  border: none;
+  margin-top: 18%;
+}
+.b21 .field,
+.b22 .field,
+.b23 .field {
+  padding-left:8px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.b24 {
+  background-image: url(sheet/back11.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 96% 100%;
+  border: none !important;
+  padding:3% 0 4% 0;
+}
+.b25 {
+  background-image: url(sheet/back13.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 96% 100%;
+  border: none !important;
+  padding:3% 0 4% 0;
+}
+.b24 .line1 {
+  font-size: 1rem;
+  padding-left:4%;
+  padding-right:8%;
+}
+.b24 .line1 .textinput {
+  text-align: center;
+}
+.b24 .line2 .textinput,
+.b25 .line2 .textinput {
+  font-size: 3rem;
+  text-align: center;
+  padding:2%;
+  border: none;
+}
+.b25 .line2 .textinput {
+   padding-top:4%;
+}
+.b24 .line3 .field,
+.b25 .line3 .field {
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.b26, .b27 {
+  background-image: url(sheet/back10.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  padding:3% 0 4% 0;
+  height:9rem;
+}
+.b26 .line1 {
+  font-size: 1rem;
+}
+.b26 .line1 {
+  margin: 2% 0 0 9%;
+}
+.b26 .line1 .textinput  {
+  text-align: center;
+}
+.b26 .line2 .textinput {
+  text-align: center;
+  font-size: 2.5rem;
+  padding-top:5%;
+  border:0;
+}
+.b27 .line1, .b27 .line2 {
+  font-size: 1rem;
+  margin: 4% 14% 0 0;
+  text-align: right;
+}
+.b26 .line3, .b27 .line3 {
+ text-align: center;
+ text-transform: uppercase;
+ font-size: .8rem;
+ margin-top:1%;
+}
+.b27 .line3 {
+ margin-top:9%;
+}
+.b28 {
+  background-image: url(sheet/back15.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  margin-top:2%;
+}
+.b28 .line1 {
+  font-size: 1rem;
+  padding: 3% 6% 0 3%;
+}
+.b28 .field {
+  text-transform: uppercase;
+}
+.b28 .line2 {
+  padding: 1% 6% 1% 4%;
+}
+.b28 .line2 .textinput {
+  font-size: 1rem;
+  background:#ddd;
+  padding:2% 0 2% 0;
+  margin:0 1% 0 1%;
+  text-align: center;
+}
+.b28 .line4 {
+  padding: 2% 6% 0 2%;
+  font-weight: 700;
+}
+.b28 .line3 .divedit {
+  height: 18.6rem;
+  padding: 2% 3% 0 2%;
+}
+.b28 .line4 .field {
+  font-size: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 3%;
+}
+
+.b29 {
+  background-image: url(sheet/back15.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  margin-top: 4%;
+}
+.b29 .line4 .field {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-top:1%;
+  margin-bottom: 2%;
+}
+
+.b30 .line {
+  background-image: url(sheet/back14.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  margin-top:10%;
+  padding: 12% 0 12% 0;
+}
+.b30 .line .field {
+  font-size: 1rem;
+  padding-left: 4%;
+  position: relative;
+  top: -2px;
+}
+.b30 .line .textinput {
+  font-size: 1.2rem;
+  padding-top: 2%;
+  border: none;
+  text-align: center;
+}
+
+.b31 .divedit {
+  height:25rem;
+  margin-top:1%;
+}
+
+.b32 {
+  margin-left:1%;
+}
+
+.b33 {
+  background-image: url(sheet/back1.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  padding:5% 3% 3% 3%;
+}
+.b34 {
+  background-image: url(sheet/back11.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+}
+.b35 {
+  background-image: url(sheet/back12.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+}
+.b37 {
+  background-image: url(sheet/back13.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+}
+
+.b34 .divedit {
+  height:9rem;
+}
+.b35 .divedit, .b37 .divedit {
+  height:6rem;
+  margin-top:1.6%;
+}
+.b34 .line, .b35 .line, .b37 .line {
+  font-size: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top:2%;
+  padding-bottom:4%;
+}
+
+.b38 .line {
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top:2%;
+  padding-bottom:4%;
+}
+.b38 {
+  background-image: url(sheet/back15.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 102% 100%;
+  border: none !important;
+  margin-top: 2%;
+  padding-top: 2%;
+}
+
+.b38 .divedit {
+  height:57rem;
+}
+
+/* FEUILLE 2 */
+
+.b39 {
+  margin: 8% 0 0 6%;
+}
+
+.b39 .line2 {
+  margin-top: 6%;
+  margin-left: 12%;
+}
+
+.b40 {
+  margin: 6% 0 3% 2%;
+}
+
+.b42 {
+  background-image: url(sheet/back16.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 98% 100%;
+  border: none !important;
+  padding-top: 5%;
+  padding-bottom: 1%;
+}
+.b42 .line2 {
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-top:2%;
+  padding-bottom:6%;
+}
+.b42 .divedit {
+  height:31rem;
+}
+
+.b43 {
+  background-image: url(sheet/back15.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.b43 .divedit {
+  height:61.5rem;
+}
+.b43 .line2 {
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-top:2%;
+  padding-bottom:0%;
+}
+
+.b44 {
+  margin-top:1.5%;
+}
+
+.b47, .b48, .b49 {
+  background-image: url(sheet/back18.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  padding-bottom: 1%;
+  margin-bottom:1%;
+}
+
+.b47 .divedit {
+  height:28em;
+}
+.b48 .divedit {
+  height:29rem;
+}
+.b49 .divedit {
+  height:30rem;
+}
+
+.b47 .line2, .b48 .line2, .b49 .line2 {
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-top:2%;
+  padding-bottom:0%;
+}
+/* FEUILLE 3 */
+
+.b50 {
+  margin: 8.5% 1% 0 6.5%;
+}
+
+.b50 .line2 {
+  margin-top: 7%;
+  margin-left: 10%;
+}
+
+.b51 {
+  margin-top: 6.7%;
+}
+.b51 .textinput {
+  font-size: 2rem;
+  text-align: center;
+  border: none;
+  margin-top:1%;
+}
+.b51 .field {
+  font-size: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top:4%;
+  padding:0 3% 0 3%
+}
+
+.b52 {
+  margin-left:2%;
+  margin-top:0%;
+}
+
+.b53 .line1 {
+  background-image: url(sheet/back20.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  margin-top:5%;
+  padding-top: 6%;
+  padding-bottom: 7%;
+}
+.b54 .line1 {
+  background-image: url(sheet/back19.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 100%;
+  border: none !important;
+  margin-top:5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.b54 .line0 + .line1 {
+  margin-top:0%;
+}
+
+.b53 .line1 .field,
+.b54 .line1 .field {
+  font-size: 1.8rem;
+  text-align: center;
+  font-weight: 700;
+}
+.b53 .line1 .cantrip {
+  width:62%;
+  font-size:1rem;
+  text-transform: uppercase;
+}
+.b54 .line0 .field {
+  font-size:.8rem;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top:5%;
+}
+
+.b53 .line1 .textinput,
+.b54 .line1 .textinput {
+  font-size: 1.8rem;
+  text-align: center;
+  font-weight: 700;
+  border: none;
+}
+
+.b54 .line0 .lvl {
+  text-align:center;
+  margin-left:-4%;
+  width:19%;
+}
+.b54 .line0 .slot {
+  width:24%;
+  padding:0;
+}
+.b54 .line0 .ext {
+  width:55%;
+}
+
+.b53 .line1 .lvl, .b54 .line1 .lvl {
+  width:11%;
+  padding-left:3%;
+}
+.b53 .line1 .slot, .b54 .line1 .slot {
+  width:27%;
+}
+.b54 .line1 .ext {
+  width:59%;
+}
+
+.b53 .line2 .textinput,
+.b54 .line2 .textinput {
+  font-size: 1.2rem;
+  padding-top:3%;
+  width:95%;
+}
