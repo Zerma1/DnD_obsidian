@@ -1,3 +1,11 @@
+---
+title: "fiche Personage"
+tags:
+  - dnd5
+  - crypteDweller
+  - perso
+  - joeur
+---
 # Fiche de Personnage : Esy der Adlige
 
 ---
@@ -22,8 +30,6 @@ Cependant, derrière la façade immaculée de ses appartements de noble, son obs
 
 Ses premières dissections clandestines sur des spécimens rares (puis sur des serviteurs disparus mystérieusement) ont commencé à éveiller les soupçons de la garde et de sa propre famille.
 
-Rejetant la faiblesse intrinsèque de la chair mortelle et l'hypocrisie de sa caste, il entama en secret sa propre métamorphose, greffant rouages, alliages d'argent et conduits de fluides spectraux directement sur ses organes pour devenir un Necramechanica. 
-
 Lorsque l'étau de la garde et les soupçons de sa famille menacèrent de faire éclater le scandale, **Esy** refusa l'infamie de l'asile ou de l'échafaud. Il vida les coffres de recherche du domaine et s'évanouit du jour au lendemain dans les entrailles de la métropole.
 
 Dans les ruelles sans loi au cœur du marché noir, il troqua la soie aristocratique pour des tabliers chirurgicaux tachés de sang et suintements arcaniques, il est devenu le chirurgien et biomécanicien le plus brillant et le plus redouté de la pègre. 
@@ -32,7 +38,7 @@ Recousant les assassins sans poser de questions et greffant des prothèses d'aci
 
 Par pure arrogance aristocratique, il n'a jamais daigné masquer son identité, signant ses factures clandestines et ses carnets anatomiques du nom d'« **Esy der Adlige** » pour savourer l'ironie de traîner un titre noble dans la fange du crime.
 
-Désormais trop à l'étroit dans sa clinique des bas-fonds, il arpente le monde en quête de monstruosités rares à disséquer et de reliques interdites pour achever son « **Grand Œuvre** ».
+Apres un accident dans sa clinique des bas-fonds, il tombe dans un profond coma. beaucoup d'année plus tard, il se réveille, le corp mutiler et momifier, intégrer dans une machine.
 
 
 | **Élément de personnalité** | **Description**                                                                                                                                                                                                                                                                                                                                    |
@@ -52,9 +58,8 @@ Désormais trop à l'étroit dans sa clinique des bas-fonds, il arpente le monde
 | 19ans | fin d'étude dans l'académie royale de médecine et magie |
 | 20ans | début expérimentation humaine |
 | 26ans | fuite dans les bas quartier |
-| 32ans | mise du corp complet dans le formol - vrai Necramechanica |
-| 57ans | renommer auprès de tout le monde du crime de la capitale |
-| 225ans| début des aventures |
+| 32ans | renommer auprès de tout le monde du crime de la capitale |
+| XXXans| début des aventures |
 
 ### Apparence
 
