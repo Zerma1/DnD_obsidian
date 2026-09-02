@@ -4,7 +4,7 @@ tags:
   - dnd5
   - crypteDweller
   - perso
-  - joeur
+  - joueur
 ---
 # Fiche de Personnage : Esy der Adlige
 
@@ -12,13 +12,13 @@ tags:
 
 ## Informations Générales
 
-* **Nom :** Esy der Adlige
-* **Race :** Necramechanica - *Shadowsworn* (*Crypt Dweller Codex*)
-* **Classe :** Artificier (Niveau 1) *(Objectif Multiclasse : Thanatomancien - Path of the Fleshweaver)*
-* **Historique :** Chirurgien des Bas-Fonds *(Origine Noble Déchue)*
-* **Alignement :** Chaotique Mauvais (CM)
-* **Niveau Global :** 1
-* **Bonus de Maîtrise :** +2
+ **Nom :** Esy der Adlige
+- **Race :** Necramechanica - *Shadowsworn* (*Crypt Dweller Codex*)
+- **Classe :** Artificier (Niveau 1) *(Objectif Multiclasse : Thanatomancien - Path of the Fleshweaver)*
+- **Historique :** Chirurgien des Bas-Fonds *(Origine Noble Déchue)*
+- **Alignement :** Chaotique Mauvais (CM)
+- **Niveau Global :** 1
+- **Bonus de Maîtrise :** +2
 
 ---
 
@@ -53,17 +53,29 @@ Apres un accident dans sa clinique des bas-fonds, il tombe dans un profond coma.
 
 ### Frise chronologique
 
-| Age | évènement |
-| --- | --- |
-| 19ans | fin d'étude dans l'académie royale de médecine et magie |
-| 20ans | début expérimentation humaine |
-| 26ans | fuite dans les bas quartier |
-| 32ans | renommer auprès de tout le monde du crime de la capitale |
-| XXXans| début des aventures |
+| Age    | évènement                                                         |
+| ------ | ----------------------------------------------------------------- |
+| 19ans  | fin d'étude dans l'académie royale de médecine et magie           |
+| 20ans  | début expérimentation humaine                                     |
+| 26ans  | fuite dans les bas quartier                                       |
+| 32ans  | renommer auprès de tout le monde du crime de la capitale          |
+| 34ans  | disparition et transformation en Necramechanica par les Mechanika |
+|        |                                                                   |
+| XXXans | début des aventures                                               |
 
 ### Apparence
 
+[[description 1]]
 
+[[description 2]]
+
+[[description 3]] moyen en lien avec le fait qu'il ai été pieger involontairement dans ce corp
+
+[[description 4]]donne l'impression que c'est une autre race
+
+[[description 5]]
+
+[[description 6]]
 
 ---
 
@@ -81,50 +93,50 @@ Apres un accident dans sa clinique des bas-fonds, il tombe dans un profond coma.
 *(Répartition par achat de points standard : FOR 8 [0 pt], DEX 13 [5 pts] + 1 racial, CON 14 [6 pts] + 2 racial, INT 15 [7 pts], SAG 12 [4 pts], CHA 10 [2 pts] = 27 points).*
 
 ### Statistiques Secondaires
-* **Points de Vie (PV) :** **11** *(8 de base + 3 CON)*
-* **Dés de Vie :** 1d8
-* **Classe d'Armure (CA) :** 18 *(Armure d'écailles : 14 + DEX max 2 + Écu renforcé : +2)*
-* **Vitesse de déplacement :** 9 mètres (30 ft)
-* **Initiative :** +2
-* **Perception Passive :** 11
-* **Investigation Passive :** 14
+- **Points de Vie (PV) :** **11** *(8 de base + 3 CON)*
+- **Dés de Vie :** 1d8
+- **Classe d'Armure (CA) :** 18 *(Armure d'écailles : 14 + DEX max 2 + Écu renforcé : +2)*
+- **Vitesse de déplacement :** 9 mètres (30 ft)
+- **Initiative :** +2
+- **Perception Passive :** 11
+- **Investigation Passive :** 14
 
 ---
 
 ## Maîtrises & Aptitudes
 
 ### Compétences
-* **Arcanes (INT) :** +4
-* **Discrétion (DEX) :** +4 *(accordé par la sous-race Shadowsworn)*
-* **Escamotage (DEX) :** +4
-* **Investigation (INT) :** +4
-* **Médecine (SAG) :** +3
+- **Arcanes (INT) :** +4
+- **Discrétion (DEX) :** +4 *(accordé par la sous-race Shadowsworn)*
+- **Escamotage (DEX) :** +4
+- **Investigation (INT) :** +4
+- **Médecine (SAG) :** +3
 
 ### Maîtrises d'Équipement & Outils
-* **Armures :** Armures légères, armures moyennes, boucliers
-* **Armes :** Armes courantes, arbalètes de poing, arbalètes lourdes
-* **Outils :** Outils de bricoleur, Outils de voleur, Matériel d'alchimie, Trousse d'empoisonneur
-* **Langues :** Commun, Elemental, Abyssal
+- **Armures :** Armures légères, armures moyennes, boucliers
+- **Armes :** Armes courantes, arbalètes de poing, arbalètes lourdes
+- **Outils :** Outils de bricoleur, Outils de voleur, Matériel d'alchimie, Trousse d'empoisonneur
+- **Langues :** Commun, Elemental, Abyssal
 
 ---
 
 ## Traits Raciaux & Capacités de Classe
 
 ### Traits Raciaux : Necramechanica (*Crypt Dweller Codex*)
-* **Type de créature :** Humanoïde (aussi considéré comme Artificiel).
-* **Physiologie Techno-Nécromantique :** Avantage aux jets de sauvegarde contre le poison et résistance aux dégâts de poison. Immunité contre les maladies d'origine naturelle. N'a pas besoin de manger, boire ou respirer.
-* **Maintenance & Repos Inorganique :** 4 heures d'inactivité suffisent pour un repos long tout en restant conscient de votre environnement.
-* **Amélioration Mécanique — Expansion Sensorielle :** Vision dans le noir à 18 mètres (60 ft) + discernement dans l'obscurité magique à 3 mètres (10 ft) comme en lumière faible.
+- **Type de créature :** Humanoïde (aussi considéré comme Artificiel).
+- **Physiologie Techno-Nécromantique :** Avantage aux jets de sauvegarde contre le poison et résistance aux dégâts de poison. Immunité contre les maladies d'origine naturelle. N'a pas besoin de manger, boire ou respirer.
+- **Maintenance & Repos Inorganique :** 4 heures d'inactivité suffisent pour un repos long tout en restant conscient de votre environnement.
+- **Amélioration Mécanique — Expansion Sensorielle :** Vision dans le noir à 18 mètres (60 ft) + discernement dans l'obscurité magique à 3 mètres (10 ft) comme en lumière faible.
 
 ### Sous-Race : Lié-à-l'ombre (*Shadowsworn*)
-* **Fantôme dans la machine :** Maîtrise de la compétence Discrétion.
-* **Voile d'ombre :** Dans une zone de lumière faible ou d'obscurité, vous pouvez utiliser une **action bonus** pour devenir invisible jusqu'à votre prochaine attaque, le lancement d'un sort ou votre entrée dans une zone de lumière vive (1×/repos long).
-* **Précision Prédatrice :** Une fois par tour, lorsque vous touchez une créature surprise ou qui n'a pas encore agi au premier round de combat, vous lui infligez **+4 dégâts nécrotiques** supplémentaires (modificateur de DEX + bonus de maîtrise) et elle ne peut plus prendre de réaction jusqu'au début de son prochain tour.
+- **Fantôme dans la machine :** Maîtrise de la compétence Discrétion.
+- **Voile d'ombre :** Dans une zone de lumière faible ou d'obscurité, vous pouvez utiliser une **action bonus** pour devenir invisible jusqu'à votre prochaine attaque, le lancement d'un sort ou votre entrée dans une zone de lumière vive (1×/repos long).
+- **Précision Prédatrice :** Une fois par tour, lorsque vous touchez une créature surprise ou qui n'a pas encore agi au premier round de combat, vous lui infligez **+4 dégâts nécrotiques** supplémentaires (modificateur de DEX + bonus de maîtrise) et elle ne peut plus prendre de réaction jusqu'au début de son prochain tour.
 
 ### Capacités d'Artificier (Niveau 1)
-* **Bricolage Magique (*Magical Tinkering*) :** 
-	* **Au niveau 1**, vous apprenez à imprégner une étincelle de magie dans des objets ordinaires. Pour utiliser cette capacité, vous devez avoir en main des outils de bricoleur ou tout autre outil d'artisan. Vous touchez ensuite par une action un objet non magique de taille TP et lui conférez une propriété magique de votre choix parmi la liste suivante : L'objet émet une lumière vive dans un rayon de 1,50 mètre et une lumière faible sur 1,50 mètre supplémentaire. Lorsqu'une créature le tapote, l'objet émet un message enregistré qui peut être entendu jusqu'à 3 mètres. Vous prononcez le message lorsque vous conférez cette propriété à l'objet, et l'enregistrement ne peut durer plus de 6 secondes. L'objet émet continuellement, au choix, une odeur ou un son non verbal (bruit de vent, de vagues, gazouillis, etc). L'effet choisi est perceptible jusqu'à 3 mètres. Un effet visuel statique apparaît sur l'une des surfaces de l'objet. Cet effet peut être une image, un texte (jusqu'à 25 mots), des lignes et des formes, ou encore un mélange à votre guise de ces éléments. La propriété choisie dure indéfiniment. Par une action, vous pouvez toucher l'objet et mettre fin à la propriété prématurément. Vous pouvez appliquer la magie de cette capacité à plusieurs objets à la fois, en touchant un objet différent chaque fois que vous utilisez cette capacité, mais un objet donné ne peut porter qu'une seule propriété à la fois. Le nombre maximum d'objets que vous pouvez affecter de manière simultanée avec cette capacité est égal à votre modificateur d'Intelligence (minimum 1 objet). Si vous essayez de dépasser ce maximum, la propriété la plus ancienne prend fin immédiatement et la nouvelle propriété s'applique.
-* **Incantation d'Artificier :** Focaliseur obligatoire constitué d'outils d'artisan, de bricoleur ou de voleur tenus en main.
+- **Bricolage Magique (*Magical Tinkering*) :** 
+	- **Au niveau 1**, vous apprenez à imprégner une étincelle de magie dans des objets ordinaires. Pour utiliser cette capacité, vous devez avoir en main des outils de bricoleur ou tout autre outil d'artisan. Vous touchez ensuite par une action un objet non magique de taille TP et lui conférez une propriété magique de votre choix parmi la liste suivante : L'objet émet une lumière vive dans un rayon de 1,50 mètre et une lumière faible sur 1,50 mètre supplémentaire. Lorsqu'une créature le tapote, l'objet émet un message enregistré qui peut être entendu jusqu'à 3 mètres. Vous prononcez le message lorsque vous conférez cette propriété à l'objet, et l'enregistrement ne peut durer plus de 6 secondes. L'objet émet continuellement, au choix, une odeur ou un son non verbal (bruit de vent, de vagues, gazouillis, etc). L'effet choisi est perceptible jusqu'à 3 mètres. Un effet visuel statique apparaît sur l'une des surfaces de l'objet. Cet effet peut être une image, un texte (jusqu'à 25 mots), des lignes et des formes, ou encore un mélange à votre guise de ces éléments. La propriété choisie dure indéfiniment. Par une action, vous pouvez toucher l'objet et mettre fin à la propriété prématurément. Vous pouvez appliquer la magie de cette capacité à plusieurs objets à la fois, en touchant un objet différent chaque fois que vous utilisez cette capacité, mais un objet donné ne peut porter qu'une seule propriété à la fois. Le nombre maximum d'objets que vous pouvez affecter de manière simultanée avec cette capacité est égal à votre modificateur d'Intelligence (minimum 1 objet). Si vous essayez de dépasser ce maximum, la propriété la plus ancienne prend fin immédiatement et la nouvelle propriété s'applique.
+- **Incantation d'Artificier :** Focaliseur obligatoire constitué d'outils d'artisan, de bricoleur ou de voleur tenus en main.
 
 ---
 
@@ -284,12 +296,12 @@ Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4
 
 ## Équipement & Inventaire
 
-* **Protection :** Armure d'écailles noircie aux inserts d'argent, Écu en acier renforcé de plaques osseuses gravées.
-* **Armement :** Arbalète légère avec carquois de 20 carreaux, 2 scalpels lourds équilibrés (dagues).
-* **Outillage d'expert :** Sacoche d'outils de bricoleur de précision dorés (focaliseur principal), Sacoche de matériel d'alchimie, Trousse d'empoisonneur, Outils de voleur.
-* **Matériel de terrain :** Sac d'explorateur, 3 fioles de fluide de conservation d'organes, carnet d'anatomie et de croquis chiffré.
-* **Bijou :** Chevalière aristocratique en argent au sceau brisé de la Maison der Adlige.
-* **Richesse :** 15 pièces d'or (po).
+- **Protection :** Armure d'écailles noircie aux inserts d'argent, Écu en acier renforcé de plaques osseuses gravées.
+- **Armement :** Arbalète légère avec carquois de 20 carreaux, 2 scalpels lourds équilibrés (dagues).
+- **Outillage d'expert :** Sacoche d'outils de bricoleur de précision dorés (focaliseur principal), Sacoche de matériel d'alchimie, Trousse d'empoisonneur, Outils de voleur.
+- **Matériel de terrain :** Sac d'explorateur, 3 fioles de fluide de conservation d'organes, carnet d'anatomie et de croquis chiffré.
+- **Bijou :** Chevalière aristocratique en argent au sceau brisé de la Maison der Adlige.
+- **Richesse :** 15 pièces d'or (po).
 
 ---
 

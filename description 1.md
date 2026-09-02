@@ -1,0 +1,6 @@
+#### description 1
+> **Esy der Adlige** est désormais un corps momifié, mutilé, sans bras ni jambes, flottant dans une cuve de formol magique. Des câbles et des tuyaux sortent tout au long de sa colonne vertébrale à nu, le relient à un exosquelette biomécanique. 
+> 
+> Ce nouveau corps artificiel est majoritairement composé de cette cuve contenant le cadavre momifié d'**Esy der Adlige**, auquel sont fixés des membres hybrides formés de composants mécaniques et de morceaux de chair. Des yeux y sont implantés ainsi que des organes sonores, permettant à **Esy der Adlige** de voir, parler et entendre.
+> 
+> Dans l'obscurité, sa silhouette d'acier et d'os dégage une aura profondément troublante. Des runes arcaniques luisent faiblement le long des joints de ses articulations mécaniques, pulsant d'une énergie occulte, tandis qu'un réseau de circuits arcaniques et de veines mécaniques transparaît sous des plaques de métal patiné par les siècles. Son cadre émet en permanence le bourdonnement étouffé d'une machinerie invisible en activité.
