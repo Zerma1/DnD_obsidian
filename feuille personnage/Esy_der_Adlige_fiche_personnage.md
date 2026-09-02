@@ -130,23 +130,143 @@ Apres un accident dans sa clinique des bas-fonds, il tombe dans un profond coma.
 
 ## Magie & Sorts
 
-* **Caractéristique d'Incantation :** Intelligence (INT)
-* **Degré de Difficulté (DD) des Sauvegardes :** **12** *(8 + 2 maîtrise + 2 INT)*
-* **Modificateur d'Attaque de Sort :** **+4** *(2 maîtrise + 2 INT)*
-* **Emplacements de Sorts de Niveau 1 :** 2 *(modificateur INT 2 + 0)*
+- **Caractéristique d'Incantation :** Intelligence (INT)
+- **Degré de Difficulté (DD) des Sauvegardes :** **12** *(8 + 2 maîtrise + 2 INT)*
+- **Modificateur d'Attaque de Sort :** **+4** *(2 maîtrise + 2 INT)*
+- [[grimoir_Artilleur.pdf]]
+- **Emplacements de Sorts de Niveau 1 :** 2 *(modificateur INT 2 + 0)*
 
-| Sort 1 | Sort 2 |
-| ------ | ------ |
-|        |        |
+### Tableau :
+- Artificier :
+
+| Niv | Bonus de maîtrise | Capacités                                      | Imprégnations connues | Objets imprégnés | Sorts mineurs connus | sorts nv 1 | sorts nv 2 | sorts nv 3 | sorts nv 4 | sorts nv 5 |
+| --- | ----------------- | ---------------------------------------------- | --------------------- | ---------------- | -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|     |                   |                                                |                       |                  |                      |            |            |            |            |            |
+| 1   | +2                | Incantation, Bricolage magique                 | -                     | -                | 2                    | 2          | -          | -          | -          | -          |
+| 2   | +2                | Imprégnation d'objet                           | 4                     | 2                | 2                    | 2          | -          | -          | -          | -          |
+| 3   | +2                | Spécialité d'artificier, Outil de circonstance | 4                     | 2                | 2                    | 3          | -          | -          | -          | -          |
+| 4   | +2                | Amélioration de caractéristiques               | 4                     | 2                | 2                    | 3          | -          | -          | -          | -          |
+| 5   | +3                | Capacité de la spécialité d'artificier         | 4                     | 2                | 2                    | 4          | 2          | -          | -          | -          |
+| 6   | +3                | Expertise de l'outillage                       | 6                     | 3                | 2                    | 4          | 2          | -          | -          | -          |
+| 7   | +3                | Trait de génie                                 | 6                     | 3                | 2                    | 4          | 3          | -          | -          | -          |
+| 8   | +3                | Amélioration de caractéristiques               | 6                     | 3                | 2                    | 4          | 3          | -          | -          | -          |
+| 9   | +4                | Capacité de la spécialité d'artificier         | 6                     | 3                | 2                    | 4          | 3          | 2          | -          | -          |
+| 10  | +4                | Adepte des objets magiques                     | 8                     | 4                | 3                    | 4          | 3          | 2          | -          | -          |
+| 11  | +4                | Objet de stockage de sort                      | 8                     | 4                | 3                    | 4          | 3          | 3          | -          | -          |
+| 12  | +4                | Amélioration de caractéristiques               | 8                     | 4                | 3                    | 4          | 3          | 3          | -          | -          |
+| 13  | +5                | -                                              | 8                     | 4                | 3                    | 4          | 3          | 3          | 1          | -          |
+| 14  | +5                | Érudit des objets magiques                     | 10                    | 5                | 4                    | 4          | 3          | 3          | 1          | -          |
+| 15  | +5                | Capacité de la spécialité d'artificier         | 10                    | 5                | 4                    | 4          | 3          | 3          | 2          | -          |
+| 16  | +5                | Amélioration de caractéristiques               | 10                    | 5                | 4                    | 4          | 3          | 3          | 2          | -          |
+| 17  | +6                | -                                              | 10                    | 5                | 4                    | 4          | 3          | 3          | 3          | 1          |
+| 18  | +6                | Maître des objets magiques                     | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 1          |
+| 19  | +6                | Amélioration de caractéristiques               | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 2          |
+| 20  | +6                | Âme de l'artifice                              | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 2          |
+
+- Thanatomancien :
+
+| Niv | Bonus de maîtrise | Capacités                                      | Imprégnations connues | Objets imprégnés | Sorts mineurs connus | sorts nv 1 | sorts nv 2 | sorts nv 3 | sorts nv 4 | sorts nv 5 | sorts nv 6 | sorts nv 7 | sorts nv 8 | sorts nv 9 |
+| --- | ----------------- | ---------------------------------------------- | --------------------- | ---------------- | -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 1   | +2                | Spellcasting, Veil Techniques                  | 2                     | 3                | 2                    | 2          | -          | -          | -          | -          | -          | -          | -          | -          |
+| 2   | +2                | Deathlike Reflexes                             | 2                     | 3                | 3                    | 3          | -          | -          | -          | -          | -          | -          | -          | -          |
+| 3   | +2                | Thanatology Path                               | 3                     | 3                | 4                    | 4          | 2          | -          | -          | -          | -          | -          | -          | -          |
+| 4   | +2                | Ability Score Improvement                      | 4                     | 4                | 5                    | 4          | 3          | -          | -          | -          | -          | -          | -          | -          |
+| 5   | +3                | Soul Reservoir                                 | 5                     | 4                | 6                    | 4          | 3          | 2          | -          | -          | -          | -          | -          | -          |
+| 6   | +3                | Thanatomancer Path Feature                     | 6                     | 4                | 7                    | 4          | 3          | 3          | -          | -          | -          | -          | -          | -          |
+| 7   | +3                | Veil Technique                                 | 7                     | 4                | 8                    | 4          | 3          | 3          | 1          | -          | -          | -          | -          | -          |
+| 8   | +3                | Ability Score Improvement                      | 8                     | 4                | 9                    | 4          | 3          | 3          | 2          | -          | -          | -          | -          | -          |
+| 9   | +4                | Gravebound Form                                | 9                     | 4                | 10                   | 4          | 3          | 3          | 3          | 1          | -          | -          | -          | -          |
+| 10  | +4                | Thanatomancer Path Feature                     | 10                    | 5                | 11                   | 4          | 3          | 3          | 3          | 2          | -          | -          | -          | -          |
+| 11  | +4                | Veil Technique                                 | 11                    | 5                | 12                   | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
+| 12  | +4                | Ability Score Improvement                      | 12                    | 5                | 12                   | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
+| 13  | +5                | -                                              | 13                    | 5                | 13                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
+| 14  | +5                | Veil Dominion                                  | 14                    | 5                | 13                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
+| 15  | +5                | Veil Technique                                 | 15                    | 5                | 14                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
+| 16  | +5                | Ability Score Improvement                      | 16                    | 5                | 14                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
+| 17  | +6                | -                                              | 17                    | 5                | 15                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | 1          |
+| 18  | +6                | Thanatomancer Path Feature                     | 18                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 1          | 1          | 1          | 1          |
+| 19  | +6                | Ability Score Improvement                      | 19                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 2          | 1          | 1          | 1          |
+| 20  | +6                | Avatar of Thanatos                             | 20                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 2          | 2          | 1          | 1          |
+
 
 ### Tours de Magie (Sorts mineurs - Niveau 0)
-* **Réparation (*Mending*) :** Répare instantanément rouages, armures et pièces métalliques.
-* **Contact Glacial (*Chill Touch*) :** Attaque à distance (+4 au toucher, 1d8 dégâts nécrotiques, empêche la régénération de PV).
+ #### **Réparation (*Mending*) :**
+- **Temps d'incantation** : 1 minute
+- **Portée** : contact	
+- **Composantes** : V, S, M (deux aimants)	
+- **Durée** : instantanée	
+- Ce sort répare une simple fissure, déchirure ou fêlure sur un objet que vous touchez, comme un maillon de chaîne cassé, une clé brisée en deux morceaux, un accroc sur un manteau ou une fuite sur une outre. Tant que la fissure ou l'accroc n'excède pas 30 cm dans toutes les dimensions, vous le réparez, ne laissant aucune trace de la détérioration passée. Ce sort peut réparer physiquement un objet magique ou un artificiel, mais ne peut pas rendre sa magie à un objet.
 
-### Sorts Préparés (2 sorts par jour : Modificateur d'INT 2 + Niv. 0)
-1. **Absorption des Éléments :** Réaction de défense élémentaire emmagasinant l'énergie pour la prochaine frappe.
-2. **Catapulte :** Projection à grande vitesse d'un scalpel lourd, d'un os ou d'une fiole (3d8 dégâts).
-*(Note : Le sort Identification peut être préparé en remplacement pour être lancé en rituel).*
+ #### **Trait de feux (*Chill Touch*) :**
+- **Temps d'incantation** : 1 action
+- **Portée** : 36 mètres
+- **Composantes** : V, S
+- **Durée** : instantanée
+Vous lancez un trait de feu sur une créature ou un objet à portée. Faites une attaque à distance avec un sort contre la cible. En cas de réussite, la cible prend 1d10 dégâts de feu. Un objet inflammable touché par ce sort prend feu s'il n'est pas porté.  
+Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4d10).
+Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4d10).
+
+### Sorts
+
+
+| Sort preparé |
+| ------------ |
+|              |
+|              |
+
+
+#### **Sorts niveau 1**
+##### **Alarme** 
+- [ ] abjuration ( #rituel )
+	- **Temps d'incantation** : 1 minute
+	- **Portée** : 9 mètres
+	- **Composantes** : V, S, M (une petite clochette et un morceau de fil d'argent fin)
+	- **Durée** : 8 heures
+	
+> Vous mettez en place une alarme contre les intrusions indésirables. Choisissez une porte, une fenêtre, ou une zone à portée qui ne dépasse pas un cube de 6 mètres d'arête. Jusqu'à la fin du sort, une alarme vous alerte lorsqu'une créature de taille TP ou supérieure touche ou pénètre la zone surveillée. Lorsque vous lancez ce sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez également choisir si l'alarme est audible ou juste mentale.  
+
+> Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1,5 km maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi. Une alarme audible produit le son d'une clochette à main, pendant 10 secondes, pouvant être entendue à 18 mètres.
+
+##### **Graisse**
+- [ ] niveau 1 - #invocation
+	- **Temps d'incantation** : 1 action
+	- **Portée** : 18 mètres
+	- **Composantes** : V, S, M (une noix de beurre ou un peu de couenne de porc)
+	- **Durée** : 1 minute
+
+> Une graisse visqueuse recouvre le sol sur un carré de 3 mètres de côté centré sur un point à portée, transformant cette zone en terrain difficile.  
+
+> Lorsque la graisse apparaît, chaque créature se tenant debout dans la zone doit réussir un jet de sauvegarde de Dextérité sous peine de tomber à terre. Une créature qui entre dans la zone ou y termine son tour doit également réussir un jet de sauvegarde de Dextérité si elle ne veut pas tomber à terre.
+
+##### **Catapulte**
+- [ ] niveau 1 - #transmutation
+	- **Temps d'incantation** : 1 action
+	- **Portée** : 18 mètres
+	- **Composantes** : S
+	- **Durée** : instantanée
+	
+> Choisissez un objet pesant de 500 g à 2,5 kg à portée et qui n'est ni porté ni transporté. L'objet vole en ligne droite jusqu'à 27 mètres dans une direction que vous choisissez avant de tomber au sol, s'arrêtant plus tôt s'il rencontre une surface solide. Si l'objet va frapper une créature, cette créature doit faire un jet de sauvegarde de Dextérité. En cas d'échec à la sauvegarde, l'objet frappe la cible et arrête sa course. Lorsque l'objet heurte quelque chose, l'objet et ce qu'il frappe subissent chacun 3d8 dégâts contondants.  
+
+> **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le poids maximal de l'objet que vous pouvez cibler avec ce sort augmente de 2,5 kg et les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.
+
+##### **Identification**
+- [ ] niveau 1 - #divination ( #rituel )
+	- **Temps d'incantation** : 1 minute
+	- **Portée** : contact
+	- **Composantes** : V, S, M (une perle d'une valeur d'au moins 100 po et une plume de hibou)
+	- **Durée** : instantanée
+	
+> Vous choisissez un objet que vous devez toucher durant toute la durée du sort. Si l'objet est magique ou imprégné de magie, vous apprenez ses propriétés et comment les utiliser, s'il requiert un lien pour être utilisé et le nombre de charges qu'il contient, le cas échéant. Vous apprenez si des sorts affectent l'objet et quels sont ces sorts. Si l'objet a été créé par un ou plusieurs sorts, vous apprenez quels sorts ont permis de le créer.  
+> Si vous touchez une créature durant toute la durée du sort, au lieu d'un objet, vous apprenez quels sorts l'affectent actuellement, le cas échéant.
+
+#### **Sorts niveau 2**
+#### **Sorts niveau 3**
+#### **Sorts niveau 4**
+#### **Sorts niveau 5**
+#### **Sorts niveau 6**
+#### **Sorts niveau 7**
+#### **Sorts niveau 8**
+#### **Sorts niveau 9**
 
 ---
 
