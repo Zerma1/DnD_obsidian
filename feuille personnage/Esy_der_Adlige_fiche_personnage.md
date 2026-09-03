@@ -63,7 +63,7 @@ Apres un accident dans sa clinique des bas-fonds, il tombe dans un profond coma.
 |        |                                                                   |
 | XXXans | début des aventures                                               |
 
-### Apparence
+## Apparence
 
 Esy der Adlige n'est plus véritablement un homme. Son corps est désormais celui d'un cadavre momifié, mutilé et profondément altéré par des années de stase et d'expérimentations biomécaniques.
 
@@ -87,7 +87,7 @@ L'ensemble produit une impression profondément dérangeante et furtive : un **c
 
 Esy considère cet état non comme une mutilation, mais comme une étape de son Grand Œuvre. Son ancien corps n'est plus qu'un matériau biologique expérimental. L'exosquelette, la cuve et les systèmes qui le maintiennent en fonction représentent pour lui les premières réussites concrètes d'une transformation destinée à dépasser définitivement les limites de la chair.
 
-#### **Détails physiques distinctifs :**
+### **Détails physiques distinctifs :**
 - Corps humain entièrement momifié, extrêmement desséché et à la peau parcheminée.
 - Absence totale de bras et de jambes naturels.
 - Corps maintenu dans un réservoir étanche fusiforme rempli de formol magique, conçu pour glisser sans un bruit.
@@ -146,7 +146,7 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 
 ---
 
-## Traits Raciaux & Capacités de Classe
+## Traits Raciaux
 
 ### Traits Raciaux : Necramechanica (*Crypt Dweller Codex*)
 - **Type de créature :** Humanoïde (aussi considéré comme Artificiel).
@@ -158,6 +158,10 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 - **Fantôme dans la machine :** Maîtrise de la compétence Discrétion.
 - **Voile d'ombre :** Dans une zone de lumière faible ou d'obscurité, vous pouvez utiliser une **action bonus** pour devenir invisible jusqu'à votre prochaine attaque, le lancement d'un sort ou votre entrée dans une zone de lumière vive (1×/repos long).
 - **Précision Prédatrice :** Une fois par tour, lorsque vous touchez une créature surprise ou qui n'a pas encore agi au premier round de combat, vous lui infligez **+4 dégâts nécrotiques** supplémentaires (modificateur de DEX + bonus de maîtrise) et elle ne peut plus prendre de réaction jusqu'au début de son prochain tour.
+
+---
+
+## Capacités de Classe
 
 ### Capacités d'Artificier (Niveau 1)
 - **Bricolage Magique (*Magical Tinkering*) :** 
@@ -340,25 +344,25 @@ Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4
 
 
 ## Inventaire
-### Sac a dos
-20 carreaux d'arbalète
-Outil de bricoleur
-Kit d'empoisonneur
-Outil de voleur
-Matériel d'alchimie
-Corde de 15m
-Boite d'allume feu
-10 Torches
-10 Rations
-3 Fioles de liquide de conservation
-Carnet d'anatomie et de croquis chiffrés
 
-### Equiper
-Bouclier
-Armure d'écailles
-Vêtements communs
-Gourde
-Sac à dos
-Sac de couchage
-2 Scalpels lourds
-Arbalète légère
+| Equiper | Inventaire                               | nombre | poid unitaire |
+| ------- | ---------------------------------------- | ------ | ------------- |
+| [ ]     | 20 carreaux d'arbalète                   | 20     | 0.68          |
+| [ ]     | Outil de bricoleur                       | 1      | 4.54          |
+| [ ]     | Kit d'empoisonneur                       | 1      | 0.91          |
+| [ ]     | Outil de voleur                          | 1      | 0.45          |
+| [ ]     | Matériel d'alchimie                      | 1      | 3.63          |
+| [ ]     | Corde de 15m                             | 1      | 4.54          |
+| [ ]     | Boite d'allume feu                       | 1      | 0.45          |
+| [ ]     | 10 Torches                               | 10     | 4.54          |
+| [ ]     | 10 Rations                               | 10     | 9.07          |
+| [ ]     | 3 Fioles de liquide de conservation      | 3      | 0.14          |
+| [ ]     | Carnet d'anatomie et de croquis chiffrés | 1      | 1.36          |
+| [x]     | Bouclier                                 | 1      | 2.72          |
+| [x]     | Armure d'écailles                        | 1      | 20.41         |
+| [x]     | Vêtements communs                        | 1      | 1.36          |
+| [x]     | Gourde (plein [x])                       | 1      | 2.27          |
+| [x]     | Sac à dos                                | 1      | 2.27          |
+| [x]     | Sac de couchage                          | 1      | 3.18          |
+| [x]     | 2 Scalpels lourds                        | 2      | 0.91          |
+| [x]     | Arbalète légère                          | 1      | 2.27          |
