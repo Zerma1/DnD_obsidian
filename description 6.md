@@ -1,4 +1,4 @@
-#### description 5 (Version Shadowsworn)
+### Apparence
 
 Esy der Adlige n'est plus véritablement un homme. Son corps est désormais celui d'un cadavre momifié, mutilé et profondément altéré par des années de stase et d'expérimentations biomécaniques.
 
@@ -14,7 +14,7 @@ Ses mouvements sont entièrement dépendants de cette machine. Lorsqu'il se dép
 
 Son visage reste la partie la plus reconnaissable de l'ancien Esy. La peau y est pâle, sèche et étroitement plaquée contre le crâne. Ses joues sont creusées, ses lèvres desséchées et ses yeux profondément enfoncés dans leurs orbites. Une faible lueur artificielle peut être aperçue derrière ses pupilles, témoignage de l'énergie biomécanique qui maintient encore son esprit actif.
 
-Ses cheveux, autrefois soigneusement entretenus selon les usages de la noblesse, sont désormais longs, ternes et clairsemés. Ils flottent lentement dans le formol magique autour de son visage, donnant à son apparence quelque chose d'à la fois aristocratique et funéraire.
+Ses cheveux, autrefois soigneusement entretenus selon les usages de la noblesse, sont désormais longs, ternes. Ils flottent lentement dans le formol magique autour de son visage, donnant à son apparence quelque chose d'à la fois aristocratique et funéraire.
 
 Esy conserve cependant certains vestiges de son ancienne identité. Des éléments de vêtements nobles sont intégrés directement à l'exosquelette : fragments de manteau, col haut, tissus sombres et ornements métalliques rappelant les symboles de la maison der Adlige. Ces éléments, désormais délavés, usés et tachés par les années, contrastent volontairement avec l'horreur de son corps.
 
@@ -22,18 +22,18 @@ L'ensemble produit une impression profondément dérangeante et furtive : un **c
 
 Esy considère cet état non comme une mutilation, mais comme une étape de son Grand Œuvre. Son ancien corps n'est plus qu'un matériau biologique expérimental. L'exosquelette, la cuve et les systèmes qui le maintiennent en fonction représentent pour lui les premières réussites concrètes d'une transformation destinée à dépasser définitivement les limites de la chair.
 
-**Détails physiques distinctifs :**
-- Corps humain entièrement momifié et extrêmement desséché.
+#### **Détails physiques distinctifs :**
+- Corps humain entièrement momifié, extrêmement desséché et à la peau parcheminée.
 - Absence totale de bras et de jambes naturels.
 - Corps maintenu dans un réservoir étanche fusiforme rempli de formol magique, conçu pour glisser sans un bruit.
 - Colonne vertébrale entièrement exposée.
 - Câbles, tuyaux et connecteurs directement fixés aux vertèbres.
 - Exosquelette biomécanique furtif servant à la fois de squelette, de système de locomotion et de support vital.
 - Bras et jambes artificiels entièrement dépendants de l'exosquelette.
-- Visage encore reconnaissable comme celui d'un ancien noble, malgré son état cadavérique.
-- Yeux profondément enfoncés avec une faible lueur artificielle.
-- Longs cheveux ternes flottant dans le liquide de conservation.
-- Vestiges de vêtements aristocratiques incorporés à l'exosquelette.
+- Visage aux joues creusées, encore reconnaissable comme celui d'un ancien noble malgré son état cadavérique.
+- Yeux profondément enfoncés avec une faible lueur artificielle derrière les pupilles.
+- Longs cheveux ternes flottant dans le formol magique.
+- Vestiges de vêtements aristocratiques délabrés et ornements de la maison der Adlige incorporés à l'exosquelette.
 - Forte odeur de produits alchimiques, de métal, de formol et de vieux sang.
 - Mécanismes totalement insonorisés, gainés et magnétisés, réduisant les bruits de fonctionnement à un silence quasi absolu.
 - Plaques métalliques sombres aux finitions mates, conçues pour absorber la lumière et accentuer l'effet de furtivité propre aux *Shadowsworn*.
