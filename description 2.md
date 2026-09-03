@@ -1,6 +1,0 @@
-#### description 2
-> **Esy der Adlige** incarne une hantise de chair desséchée et d'ingénierie mécanique de précision. Son corps momifié et mutilé, dépourvu de membres organiques d'origine, est maintenu en vie et intégré au cœur d'un châssis biomécanique svelte et sombre, taillé pour l'infiltration et la discrétion propre aux *Shadowsworn*. 
-> 
-> Des câbles et des tuyaux s'écoulent le long de sa colonne vertébrale à nu pour le relier directement à une armature d'acier ténébreux et d'os. Ses membres prothétiques, conçus avec une rigueur chirurgicale, combinent des alliages sombres et des composants mécaniques affûtés qui semblent se dissoudre dans les ténèbres. Des optiques arcaniques luisent faiblement au fond de ses orbites creuses, tandis que des organes sonores artificiels lui permettent de projeter une voix châtiée, glaciale et chuchotée. 
-> 
-> Sa silhouette évoque un véritable « fantôme de stahl et d'os », dont la présence inconfortable unsettle les vivants. Un bourdonnement mécanique étouffé accompagne ses rares mouvements, bien que son exosquelette glisse dans l'obscurité avec une précision silencieuse et mortelle.
