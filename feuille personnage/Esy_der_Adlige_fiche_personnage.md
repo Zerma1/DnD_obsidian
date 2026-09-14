@@ -335,15 +335,10 @@ Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4
 
 ---
 
-## Feuille de Route d'Évolution (Multiclassage)
 
-1. **Niveau 2 (Artificier 2) :** Déblocage des *Infusions d'Artificier* (création d'objets magiques personnalisés).
-2. **Niveau 3 (Artificier 3) :** Choix de spécialité d'Artificier (*Artilleur* ou *Alchimiste*).
-3. **Niveau 4+ (Thanatomancien 1+) :** Début de l'étude des âmes, des *Points de Mortis* et des techniques du voile (*Crypt Dweller Codex*).
-4. **Niveau 6 Global (Artificier 3 / Thanatomancien 3) :** Choix de la voie *Path of the Fleshweaver* et application du système complet de *Greffes (Grafting)*.
+### Inventaire
 
-
-## Inventaire
+**Richesse (PO) :** 15
 
 | Equiper | Inventaire                               | nombre | poid unitaire |
 | ------- | ---------------------------------------- | ------ | ------------- |
@@ -366,3 +361,12 @@ Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4
 | [x]     | Sac de couchage                          | 1      | 3.18          |
 | [x]     | 2 Scalpels lourds                        | 2      | 0.91          |
 | [x]     | Arbalète légère                          | 1      | 2.27          |
+
+---
+## Feuille de Route d'Évolution (Multiclassage)
+
+1. **Niveau 2 (Artificier 2) :** Déblocage des *Infusions d'Artificier* (création d'objets magiques personnalisés).
+2. **Niveau 3 (Artificier 3) :** Choix de spécialité d'Artificier (*Artilleur* ou *Alchimiste*).
+3. **Niveau 4+ (Thanatomancien 1+) :** Début de l'étude des âmes, des *Points de Mortis* et des techniques du voile (*Crypt Dweller Codex*).
+4. **Niveau 6 Global (Artificier 3 / Thanatomancien 3) :** Choix de la voie *Path of the Fleshweaver* et application du système complet de *Greffes (Grafting)*.
+
