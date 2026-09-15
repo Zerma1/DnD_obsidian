@@ -62,14 +62,19 @@ tags:
 
 | Caractéristique        | Valeur totale | Modificateur | Jet de Sauvegarde |
 | ---------------------- | ------------- | ------------ | ----------------- |
-| **Force (FOR)**        | 10            | +0           | +0                |
-| **Dextérité (DEX)**    | 10            | +0           | +0                |
-| **Constitution (CON)** | 10            | +0           | +0                |
-| **Intelligence (INT)** | 10            | +0           | +0                |
-| **Sagesse (SAG)**      | 10            | +0           | +0                |
-| **Charisme (CHA)**     | 10            | +0           | +0                |
+| **Force (FOR)**        | 8             | -1           | +0                |
+| **Dextérité (DEX)**    | 8             | -1           | +0                |
+| **Constitution (CON)** | 8             | -1           | +0                |
+| **Intelligence (INT)** | 8             | -1           | +0                |
+| **Sagesse (SAG)**      | 8             | -1           | +0                |
+| **Charisme (CHA)**     | 8             | -1           | +0                |
 
-*(Préciser ici la méthode de génération : Achat de points / Lancer de dés / Tableau standard)*
+*(Répartition par achat de points standard : FOR 8 [0 pt], DEX 13 [5 pts] + 1 racial, CON 14 [6 pts] + 2 racial, INT 15 [7 pts], SAG 12 [4 pts], CHA 10 [2 pts] = 27 points)*
+>chaque monter de point valent :
+>de 8-12 : 1pt par point
+>13-14 : 2pt par point
+>15-16 : 3pt par point
+>max 15 hors point racial 
 
 ### Statistiques Secondaires
 - **Points de Vie (PV) :** **[X]** *([X] max)*
