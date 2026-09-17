@@ -29,7 +29,7 @@ Créer un magicien demande un historique dominé par au moins un événement ext
 
 #### Création rapide
 
-Vous pouvez concevoir rapidement un magicien en suivant ces quelques suggestions. En premier lieu, l'Intelligence devrait être votre plus haute valeur de caractéristique, suivie par la Constitution ou la Dextérité. Ensuite, choisissez l'historique [[11-sage|sage]]. Enfin, choisissez les sorts mineurs [[3.25-magicien-dnd-sorts|lumière]], *main de mage* et [[3.25-magicien-dnd-sorts|rayon de givre]] en plus des sorts de niveau 1 *[[3.25-magicien-dnd-sorts|armure de mage]], [[3.25-magicien-dnd-sorts|bouclier]], [[3.25-magicien-dnd-sorts|charme-personne]], [[3.25-magicien-dnd-sorts|mains brûlantes]], [[3.25-magicien-dnd-sorts|projectile magique]]* et [[3.25-magicien-dnd-sorts|sommeil]] pour votre grimoire.
+Vous pouvez concevoir rapidement un magicien en suivant ces quelques suggestions. En premier lieu, l'Intelligence devrait être votre plus haute valeur de caractéristique, suivie par la Constitution ou la Dextérité. Ensuite, choisissez l'historique [[11-sage|sage]]. Enfin, choisissez les sorts mineurs [[10.1-sorts|lumière]], *main de mage* et [[10.1-sorts|rayon de givre]] en plus des sorts de niveau 1 *[[10.1-sorts|armure de mage]], [[10.1-sorts|bouclier]], [[10.1-sorts|charme-personne]], [[10.1-sorts|mains brûlantes]], [[10.1-sorts|projectile magique]]* et [[10.1-sorts|sommeil]] pour votre grimoire.
 
 ## Capacités de classe
 
@@ -269,7 +269,7 @@ Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous dev
 
 #### Illusion mineure améliorée
 
-Au niveau 2, vous apprenez le sort mineur [[3.25-magicien-dnd-sorts|illusion mineure]]. Si vous connaissez déjà ce sort mineur, vous apprenez un autre sort mineur de magicien de votre choix. Le sort mineur ne compte pas dans votre nombre de sorts mineurs connus. Quand vous lancez *illusion mineure*, vous pouvez créer à la fois un son et une image avec un seul sort.
+Au niveau 2, vous apprenez le sort mineur [[10.1-sorts|illusion mineure]]. Si vous connaissez déjà ce sort mineur, vous apprenez un autre sort mineur de magicien de votre choix. Le sort mineur ne compte pas dans votre nombre de sorts mineurs connus. Quand vous lancez *illusion mineure*, vous pouvez créer à la fois un son et une image avec un seul sort.
 
 #### Illusions malléables
 
@@ -321,7 +321,7 @@ Au niveau 2, vous gagnez la possibilité de récolter l'énergie de la vie des c
 
 #### Serviteurs morts-vivants
 
-Au niveau 6, vous ajoutez le sort [[3.25-magicien-dnd-sorts|animation des morts]] à votre grimoire s’il n'y est pas déjà. Quand vous lancez animation des morts, vous pouvez cibler un cadavre ou un tas d'os supplémentaire, créant un autre zombi ou squelette, le cas échéant. Chaque fois que vous créez un mort-vivant en utilisant un sort de nécromancie, il obtient des avantages supplémentaires :
+Au niveau 6, vous ajoutez le sort [[10.1-sorts|animation des morts]] à votre grimoire s’il n'y est pas déjà. Quand vous lancez animation des morts, vous pouvez cibler un cadavre ou un tas d'os supplémentaire, créant un autre zombi ou squelette, le cas échéant. Chaque fois que vous créez un mort-vivant en utilisant un sort de nécromancie, il obtient des avantages supplémentaires :
 
 - Le maximum de points de vies de la créature est augmenté d'un montant égal à votre niveau de magicien.
 - La créature ajoute votre bonus de maîtrise à ses jets de dégâts avec une arme.
@@ -361,14 +361,14 @@ Chaque fois que vous lancez un sort de transmutation de niveau 1 ou plus, vous p
 
 #### Métamorphe
 
-Au niveau 10, vous ajoutez le sort *[[3.25-magicien-dnd-sorts|métamorphose]]* dans votre livre de sorts, s'il n'y est pas déjà inscrit. Vous pouvez lancer*métamorphose* sans dépenser d'emplacement de sort. En lançant le sort de cette manière, vous ne pouvez que vous cibler vous-même et vous transformer en une bête dont le facteur puissance est de 1 ou moins. Après avoir lancé*métamorphose* de cette manière, vous ne pouvez plus le faire jusqu'à ce que vous terminiez un repos court ou long, bien que vous puissiez le lancer normalement en utilisant un emplacement de sort disponible.
+Au niveau 10, vous ajoutez le sort *[[10.1-sorts|métamorphose]]* dans votre livre de sorts, s'il n'y est pas déjà inscrit. Vous pouvez lancer*métamorphose* sans dépenser d'emplacement de sort. En lançant le sort de cette manière, vous ne pouvez que vous cibler vous-même et vous transformer en une bête dont le facteur puissance est de 1 ou moins. Après avoir lancé*métamorphose* de cette manière, vous ne pouvez plus le faire jusqu'à ce que vous terminiez un repos court ou long, bien que vous puissiez le lancer normalement en utilisant un emplacement de sort disponible.
 
 #### Maître transmutateur
 
 À partir du niveau 14, vous pouvez utiliser votre action pour consumer la réserve de magie de transmutation stockée dans votre pierre du transmutateur en une seule explosion d'énergie. En agissant ainsi, choisissez l'un des effets suivants. Votre pierre du transmutateur est alors détruite et ne peut être recréée avant que vous ne terminiez un repos long.
 
 **Jouvence**. Vous touchez avec la pierre du transmutateur une créature consentante, et l'âge apparent de cette créature est réduit de 3d10 années, jusqu'à un minimum de 13 ans d'âge. Cet effet n'augmente pas l’espérance de vie de la créature. **Panacée**. Vous mettez fin à toutes les maladies, malédictions et poisons qui affectent une créature en contact avec la pierre du transmutateur. La créature regagne également tous ses points de vie.  
-**Restitution de vie**. Vous lancez le sort [[3.25-magicien-dnd-sorts|rappel à la vie]] sur une créature que vous touchez au moyen de la pierre du transmutateur, sans avoir besoin d'utiliser un emplacement de sort ou d'avoir le sort écrit dans votre livre de sorts.  
+**Restitution de vie**. Vous lancez le sort [[10.1-sorts|rappel à la vie]] sur une créature que vous touchez au moyen de la pierre du transmutateur, sans avoir besoin d'utiliser un emplacement de sort ou d'avoir le sort écrit dans votre livre de sorts.  
 **Transformation majeure**. Vous pouvez transmuter un objet non-magique (pas plus grand qu'un cube de 1,50 mètre d'arêtes) en un autre objet non-magique d'une taille et d'une masse similaires et d'une valeur égale ou inférieure. Vous devez passer 10 minutes à manipuler l'objet pour pouvoir le transformer.
 
 Traduit par 5hAmAhS, blueace et Pils

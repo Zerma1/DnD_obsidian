@@ -171,11 +171,11 @@ Les dieux de la duperie (comme Tymora, Beshaba, Olidammara, le Voyageur, [Garl B
 |  |  |
 | --- | --- |
 | **Niveau de clerc** | **Sorts** |
-| 1 | *[[3.19-clerc-dnd-sorts|charme-personne]], [[3.19-clerc-dnd-sorts|déguisement]]* |
-| 3 | *[[3.19-clerc-dnd-sorts|image miroir]], [[3.19-clerc-dnd-sorts|passage sans trace]]* |
-| 5 | *[[3.19-clerc-dnd-sorts|clignotement]], [[3.19-clerc-dnd-sorts|dissipation de la magie]]* |
-| 7 | *[[3.19-clerc-dnd-sorts|métamorphose]], [[3.19-clerc-dnd-sorts|porte dimensionnelle]]* |
-| 9 | *[[3.19-clerc-dnd-sorts|domination de personne]], [[3.19-clerc-dnd-sorts|modification de mémoire]]* |
+| 1 | *[[10.1-sorts|charme-personne]], [[10.1-sorts|déguisement]]* |
+| 3 | *[[10.1-sorts|image miroir]], [[10.1-sorts|passage sans trace]]* |
+| 5 | *[[10.1-sorts|clignotement]], [[10.1-sorts|dissipation de la magie]]* |
+| 7 | *[[10.1-sorts|métamorphose]], [[10.1-sorts|porte dimensionnelle]]* |
+| 9 | *[[10.1-sorts|domination de personne]], [[10.1-sorts|modification de mémoire]]* |
 
 #### Bénédiction de l'escroc
 
@@ -208,11 +208,11 @@ La guerre se manifeste de plusieurs façons. Elle peut transformer des personnes
 |  |  |
 | --- | --- |
 | **Niveau de clerc** | **Sorts** |
-| 1 | *[[3.19-clerc-dnd-sorts|bouclier de la foi]], [[3.19-clerc-dnd-sorts|faveur divine]]* |
-| 3 | *[[3.19-clerc-dnd-sorts|arme magique]], [[3.19-clerc-dnd-sorts|arme spirituelle]]* |
-| 5 | *[[3.19-clerc-dnd-sorts|aura du croisé]], [[3.19-clerc-dnd-sorts|esprits gardiens]]* |
-| 7 | *[[3.19-clerc-dnd-sorts|liberté de mouvement]], [[3.19-clerc-dnd-sorts|peau de pierre]]* |
-| 9 | *[[3.19-clerc-dnd-sorts|colonne de flamme]], [[3.19-clerc-dnd-sorts|immobilisation de monstre]]* |
+| 1 | *[[10.1-sorts|bouclier de la foi]], [[10.1-sorts|faveur divine]]* |
+| 3 | *[[10.1-sorts|arme magique]], [[10.1-sorts|arme spirituelle]]* |
+| 5 | *[[10.1-sorts|aura du croisé]], [[10.1-sorts|esprits gardiens]]* |
+| 7 | *[[10.1-sorts|liberté de mouvement]], [[10.1-sorts|peau de pierre]]* |
+| 9 | *[[10.1-sorts|colonne de flamme]], [[10.1-sorts|immobilisation de monstre]]* |
 
 #### Maîtrises supplémentaires
 
@@ -247,15 +247,15 @@ Les dieux de la lumière (y compris Helm, [Lathandre](/univers/pantheon/lathandr
 |  |  |
 | --- | --- |
 | **Niveau de clerc** | **Sorts** |
-| 1 | *[[3.19-clerc-dnd-sorts|lueurs féeriques]], [[3.19-clerc-dnd-sorts|mains brûlantes]]* |
-| 3 | *[[3.19-clerc-dnd-sorts|rayon ardent]], [[3.19-clerc-dnd-sorts|sphère de feu]]* |
-| 5 | *[[3.19-clerc-dnd-sorts|boule de feu]], [[3.19-clerc-dnd-sorts|lumière du jour]]* |
-| 7 | *[[3.19-clerc-dnd-sorts|gardien de la foi]], [[3.19-clerc-dnd-sorts|mur de feu]]* |
-| 9 | *[[3.19-clerc-dnd-sorts|colonne de flamme]], [[3.19-clerc-dnd-sorts|scrutation]]* |
+| 1 | *[[10.1-sorts|lueurs féeriques]], [[10.1-sorts|mains brûlantes]]* |
+| 3 | *[[10.1-sorts|rayon ardent]], [[10.1-sorts|sphère de feu]]* |
+| 5 | *[[10.1-sorts|boule de feu]], [[10.1-sorts|lumière du jour]]* |
+| 7 | *[[10.1-sorts|gardien de la foi]], [[10.1-sorts|mur de feu]]* |
+| 9 | *[[10.1-sorts|colonne de flamme]], [[10.1-sorts|scrutation]]* |
 
 #### Sort mineur supplémentaire
 
-Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le sort mineur [[3.19-clerc-dnd-sorts|lumière]] si vous ne le connaissez pas déjà. Ce sort mineur ne compte pas dans le nombre de sorts mineurs de clerc que vous connaissez.
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le sort mineur [[10.1-sorts|lumière]] si vous ne le connaissez pas déjà. Ce sort mineur ne compte pas dans le nombre de sorts mineurs de clerc que vous connaissez.
 
 #### Illumination protectrice
 
@@ -286,11 +286,11 @@ Les dieux de la nature sont aussi variés que le monde naturel lui-même, qu'ils
 |  |  |
 | --- | --- |
 | **Niveau de clerc** | **Sorts** |
-| 1 | *[[3.19-clerc-dnd-sorts|amitié avec les animaux]], [[3.19-clerc-dnd-sorts|communication avec les animaux]]* |
-| 3 | *[[3.19-clerc-dnd-sorts|croissance d'épines]], [[3.19-clerc-dnd-sorts|peau d'écorce]]* |
-| 5 | *[[3.19-clerc-dnd-sorts|croissance végétale]], [[3.19-clerc-dnd-sorts|mur de vent]]* |
-| 7 | *[[3.19-clerc-dnd-sorts|domination de bête]], [[3.19-clerc-dnd-sorts|liane avide]]* |
-| 9 | *[[3.19-clerc-dnd-sorts|fléau d'insectes]], [[3.19-clerc-dnd-sorts|passage par les arbres]]* |
+| 1 | *[[10.1-sorts|amitié avec les animaux]], [[10.1-sorts|communication avec les animaux]]* |
+| 3 | *[[10.1-sorts|croissance d'épines]], [[10.1-sorts|peau d'écorce]]* |
+| 5 | *[[10.1-sorts|croissance végétale]], [[10.1-sorts|mur de vent]]* |
+| 7 | *[[10.1-sorts|domination de bête]], [[10.1-sorts|liane avide]]* |
+| 9 | *[[10.1-sorts|fléau d'insectes]], [[10.1-sorts|passage par les arbres]]* |
 
 #### Acolyte de la nature
 
@@ -325,11 +325,11 @@ Les dieux du savoir (comme [Oghma](/univers/pantheon/oghma/), Boccob, Giléan, A
 |  |  |
 | --- | --- |
 | **Niveau de clerc** | **Sorts** |
-| 1 | *[[3.19-clerc-dnd-sorts|identification]], [[3.19-clerc-dnd-sorts|injonction]]* |
-| 3 | *[[3.19-clerc-dnd-sorts|augure]], [[3.19-clerc-dnd-sorts|suggestion]]* |
-| 5 | *[[3.19-clerc-dnd-sorts|antidétection]], [[3.19-clerc-dnd-sorts|communication avec les morts]]* |
-| 7 | *[[3.19-clerc-dnd-sorts|confusion]], [[3.19-clerc-dnd-sorts|œil magique]]* |
-| 9 | *[[3.19-clerc-dnd-sorts|mythes et légendes]], [[3.19-clerc-dnd-sorts|scrutation]]* |
+| 1 | *[[10.1-sorts|identification]], [[10.1-sorts|injonction]]* |
+| 3 | *[[10.1-sorts|augure]], [[10.1-sorts|suggestion]]* |
+| 5 | *[[10.1-sorts|antidétection]], [[10.1-sorts|communication avec les morts]]* |
+| 7 | *[[10.1-sorts|confusion]], [[10.1-sorts|œil magique]]* |
+| 9 | *[[10.1-sorts|mythes et légendes]], [[10.1-sorts|scrutation]]* |
 
 #### Bénédictions du savoir
 
@@ -341,7 +341,7 @@ Au niveau 1, vous apprenez deux langues de votre choix. Vous obtenez aussi la ma
 
 #### Conduit divin : lecture des pensées
 
-Au niveau 6, vous pouvez utiliser votre Conduit divin pour lire les pensées d’une créature. Vous pouvez ensuite avoir accès à l’esprit de la créature et la commander. Par une action, choisissez une créature que vous pouvez voir située à 18 mètres ou moins de vous. La créature doit effectuer un jet de sauvegarde de Sagesse. Si la créature le réussi, vous ne pouvez réutiliser cette capacité sur la créature qu’après avoir terminé un repos long. Si la créature échoue, vous pouvez lire la surface de ses pensées (celles les plus en vue dans son esprit, représentant ses émotions et ce à quoi elle pense actuellement) lorsqu’elle est à 18 mètres ou moins de vous. Cet effet dure une minute. Pendant cette durée, vous pouvez utiliser votre action pour mettre fin à cet effet et lancer le sort [[3.19-clerc-dnd-sorts|suggestion]] à la créature sans consommer d’emplacement de sort. La créature échoue automatiquement son jet de sauvegarde contre ce sort.
+Au niveau 6, vous pouvez utiliser votre Conduit divin pour lire les pensées d’une créature. Vous pouvez ensuite avoir accès à l’esprit de la créature et la commander. Par une action, choisissez une créature que vous pouvez voir située à 18 mètres ou moins de vous. La créature doit effectuer un jet de sauvegarde de Sagesse. Si la créature le réussi, vous ne pouvez réutiliser cette capacité sur la créature qu’après avoir terminé un repos long. Si la créature échoue, vous pouvez lire la surface de ses pensées (celles les plus en vue dans son esprit, représentant ses émotions et ce à quoi elle pense actuellement) lorsqu’elle est à 18 mètres ou moins de vous. Cet effet dure une minute. Pendant cette durée, vous pouvez utiliser votre action pour mettre fin à cet effet et lancer le sort [[10.1-sorts|suggestion]] à la créature sans consommer d’emplacement de sort. La créature échoue automatiquement son jet de sauvegarde contre ce sort.
 
 #### Incantation puissante
 
@@ -364,11 +364,11 @@ Les dieux dont les domaines incluent celui de la tempête (comme [Talos](/univer
 |  |  |
 | --- | --- |
 | **Niveau de clerc** | **Sorts** |
-| 1 | *[[3.19-clerc-dnd-sorts|nappe de brouillard]], [[3.19-clerc-dnd-sorts|vague tonnante]]* |
-| 3 | *[[3.19-clerc-dnd-sorts|bourrasque]], [[3.19-clerc-dnd-sorts|fracassement]]* |
-| 5 | *[[3.19-clerc-dnd-sorts|appel de la foudre]], [[3.19-clerc-dnd-sorts|tempête de neige]]* |
-| 7 | *[[3.19-clerc-dnd-sorts|contrôle de l’eau]], [[3.19-clerc-dnd-sorts|tempête de grêle]]* |
-| 9 | *[[3.19-clerc-dnd-sorts|fléau d’insectes]], [[3.19-clerc-dnd-sorts|vague destructrice]]* |
+| 1 | *[[10.1-sorts|nappe de brouillard]], [[10.1-sorts|vague tonnante]]* |
+| 3 | *[[10.1-sorts|bourrasque]], [[10.1-sorts|fracassement]]* |
+| 5 | *[[10.1-sorts|appel de la foudre]], [[10.1-sorts|tempête de neige]]* |
+| 7 | *[[10.1-sorts|contrôle de l’eau]], [[10.1-sorts|tempête de grêle]]* |
+| 9 | *[[10.1-sorts|fléau d’insectes]], [[10.1-sorts|vague destructrice]]* |
 
 #### Maîtrises supplémentaires
 
@@ -403,11 +403,11 @@ Le domaine de la vie se concentre sur l'énergie positive vibrante, une des forc
 |  |  |
 | --- | --- |
 | **Niveau de clerc** | **Sorts** |
-| 1 | *[[3.19-clerc-dnd-sorts|bénédiction]], [[3.19-clerc-dnd-sorts|soins]]* |
-| 3 | *[[3.19-clerc-dnd-sorts|arme spirituelle]], [[3.19-clerc-dnd-sorts|restauration partielle]]* |
-| 5 | *[[3.19-clerc-dnd-sorts|lueur d'espoir]], [retour à la vie](https://www.aidedd.org/dnd/sorts.php?vf=retour-a-la-vie)* |
-| 7 | *[[3.19-clerc-dnd-sorts|gardien de la foi]], [[3.19-clerc-dnd-sorts|protection contre la mort]]* |
-| 9 | *[[3.19-clerc-dnd-sorts|rappel à la vie]], [[3.19-clerc-dnd-sorts|soins de groupe]]* |
+| 1 | *[[10.1-sorts|bénédiction]], [[10.1-sorts|soins]]* |
+| 3 | *[[10.1-sorts|arme spirituelle]], [[10.1-sorts|restauration partielle]]* |
+| 5 | *[[10.1-sorts|lueur d'espoir]], [retour à la vie](https://www.aidedd.org/dnd/sorts.php?vf=retour-a-la-vie)* |
+| 7 | *[[10.1-sorts|gardien de la foi]], [[10.1-sorts|protection contre la mort]]* |
+| 9 | *[[10.1-sorts|rappel à la vie]], [[10.1-sorts|soins de groupe]]* |
 
 #### Maîtrise supplémentaire
 
@@ -444,11 +444,11 @@ Les dieux de la forge sont les patrons des artisans qui travaillent le métal, d
 |  |  |
 | --- | --- |
 | **Niveau** **de clerc** | **Sorts** |
-| 1 | *[[3.19-clerc-dnd-sorts|châtiment calcinant]], [[3.19-clerc-dnd-sorts|identification]]* |
-| 3 | *[[3.19-clerc-dnd-sorts|arme magique]], [[3.19-clerc-dnd-sorts|métal brûlant]]* |
-| 5 | *[[3.19-clerc-dnd-sorts|arme élémentaire]], [[3.19-clerc-dnd-sorts|protection contre une énergie]]* |
-| 7 | *[[3.19-clerc-dnd-sorts|fabrication]], [[3.19-clerc-dnd-sorts|mur de feu]]* |
-| 9 | *[[3.19-clerc-dnd-sorts|animation d'objets]], [[3.19-clerc-dnd-sorts|création]]* |
+| 1 | *[[10.1-sorts|châtiment calcinant]], [[10.1-sorts|identification]]* |
+| 3 | *[[10.1-sorts|arme magique]], [[10.1-sorts|métal brûlant]]* |
+| 5 | *[[10.1-sorts|arme élémentaire]], [[10.1-sorts|protection contre une énergie]]* |
+| 7 | *[[10.1-sorts|fabrication]], [[10.1-sorts|mur de feu]]* |
+| 9 | *[[10.1-sorts|animation d'objets]], [[10.1-sorts|création]]* |
 
 #### Maîtrises supplémentaires
 

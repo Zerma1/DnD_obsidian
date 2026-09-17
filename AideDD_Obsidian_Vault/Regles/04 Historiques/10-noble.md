@@ -75,7 +75,7 @@ Si votre personnage a l'historique noble, vous pouvez choisir cette capacité au
   
 Vous avez à votre service trois domestiques fidèles à votre famille. Ces domestiques peuvent être des serviteurs ou des messagers, et l'un d'eux peut être un majordome. Vos domestiques sont des roturiers qui peuvent effectuer des tâches banales, mais ils ne se battront pas pour vous, ne vous suivront pas dans des zones de toute évidence dangereuses (comme les souterrains), et partiront s'ils sont fréquemment menacés ou maltraités.
 
-#### [[23-noble|Variante : Chevalier]]
+#### [[19-noble|Variante : Chevalier]]
 
 Le titre de chevalier est parmi les plus bas de la noblesse dans la plupart des sociétés, mais il peut être la voie vers un statut plus élevé. Si vous souhaitez être un chevalier, choisissez la capacité Domestiques (voir ci-contre) à la place de la capacité Position de privilège. Un de vos serviteurs est remplacé par un noble qui vous sert d'écuyer, vous aidant en échange d'une formation pour son propre chemin vers la chevalerie. Vos deux suivants restants pourraient inclure un palefrenier pour prendre soin de votre cheval et un serviteur pour polir votre armure (et vous aider à la mettre). En tant qu'emblème de la chevalerie et des idéaux de l'amour courtois, vous pouvez inclure parmi votre équipement une bannière ou un autre signe d'un noble seigneur ou d'une noble dame à qui vous avez donné votre cœur dans une sorte de dévotion chaste (cette personne pourrait même être votre lien).
 

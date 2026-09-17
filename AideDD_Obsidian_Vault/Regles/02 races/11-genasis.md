@@ -79,7 +79,7 @@ En tant que génasi de l’air, vous êtes le descendant d’un djinn. Aussi cha
 
 **Souffle sans fin**. Vous pouvez retenir votre respiration indéfiniment tant que vous n’êtes pas incapable d'agir.
 
-**Se mêler au vent**. Vous pouvez lancer le sort [[2.18-genasis-dnd-sorts|lévitation]] une fois, sans composante matérielle, et vous regagnez la capacité de le relancer ainsi après un repos long. La Constitution est votre caractéristique d'incantation pour ce sort.
+**Se mêler au vent**. Vous pouvez lancer le sort [[10.1-sorts|lévitation]] une fois, sans composante matérielle, et vous regagnez la capacité de le relancer ainsi après un repos long. La Constitution est votre caractéristique d'incantation pour ce sort.
 
 #### Génasi de la terre
 
@@ -89,7 +89,7 @@ En tant que génasi de la terre, vous êtes le descendant du cruel et avide Dao,
 
 **Marche de la terre**. Vous pouvez vous déplacer sur des terrains difficiles faits de pierre ou de terre sans dépenser de mouvement supplémentaire.
 
-**Fusionner avec la pierre**. Vous pouvez lancer le sort [[2.18-genasis-dnd-sorts|passage sans trace]] une fois, sans composante matérielle, et vous regagnez la capacité de le relancer ainsi après un repos long. La Constitution est votre caractéristique d'incantation pour ce sort.
+**Fusionner avec la pierre**. Vous pouvez lancer le sort [[10.1-sorts|passage sans trace]] une fois, sans composante matérielle, et vous regagnez la capacité de le relancer ainsi après un repos long. La Constitution est votre caractéristique d'incantation pour ce sort.
 
 #### Génasi du feu
 
@@ -101,7 +101,7 @@ En tant que génasi du feu, vous avez hérité de l’humeur instable et de l’
 
 **Résistance au feu**. Vous avez la résistance aux dégâts de feu.
 
-**Atteindre le brasier**. Vous pouvez lancer le sort mineur *[flammes](https://www.aidedd.org/dnd/sorts.php?vf=flammes)*. Une fois le niveau 3 atteint, vous pouvez lancer le sort [[2.18-genasis-dnd-sorts|mains brûlantes]] une fois comme un sort de niveau 1 et vous regagnez la capacité de le relancer ainsi après un repos long. La Constitution est votre caractéristique d'incantation pour ce sort.
+**Atteindre le brasier**. Vous pouvez lancer le sort mineur *[flammes](https://www.aidedd.org/dnd/sorts.php?vf=flammes)*. Une fois le niveau 3 atteint, vous pouvez lancer le sort [[10.1-sorts|mains brûlantes]] une fois comme un sort de niveau 1 et vous regagnez la capacité de le relancer ainsi après un repos long. La Constitution est votre caractéristique d'incantation pour ce sort.
 
 #### Génasi de l’eau
 
@@ -115,7 +115,7 @@ Le clapotis des vagues, les embruns de la mer portés par le vent, les profondeu
 
 **Nage**. Votre vitesse de nage est de 9 mètres.
 
-**Appeler la vague**. Vous pouvez lancer le sort mineur [[2.18-genasis-dnd-sorts|façonnage de l’eau]]. Une fois le niveau 3 atteint, vous pouvez lancer le sort [[2.18-genasis-dnd-sorts|création ou destruction d’eau]] une fois comme un sort de niveau 2 et vous regagnez la capacité de le relancer ainsi après un repos long. La Constitution est votre caractéristique d'incantation pour ce sort.
+**Appeler la vague**. Vous pouvez lancer le sort mineur [[10.1-sorts|façonnage de l’eau]]. Une fois le niveau 3 atteint, vous pouvez lancer le sort [[10.1-sorts|création ou destruction d’eau]] une fois comme un sort de niveau 2 et vous regagnez la capacité de le relancer ainsi après un repos long. La Constitution est votre caractéristique d'incantation pour ce sort.
 
 ![Génasis](assets/regles/races/genasis.jpg "Génasis")
 

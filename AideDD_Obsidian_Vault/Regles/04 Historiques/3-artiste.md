@@ -85,7 +85,7 @@ Les artistes qui ont du succès se doivent d'être capables de capturer et conse
 | 5 | J'ai des difficultés à garder mes vrais sentiments pour moi. Ma langue acérée me cause beaucoup de problèmes. |
 | 6 | En dépit de mes efforts, mes amis ont peu confiance en moi. |
 
-#### [[20-artiste|Variante : Gladiateur]]
+#### [[19-artiste|Variante : Gladiateur]]
 
 Un gladiateur est autant un artiste qu'un ménestrel ou qu'un membre d'un cirque, entraîné à faire des combats de véritables spectacles aptes à divertir le peuple. Ce genre de combats éblouissants est votre domaine artistique, bien que vous puissiez également avoir des compétences d'acteur et d'acrobate. En utilisant votre capacité À la demande générale, vous pouvez trouver un endroit pour faire une représentation de type combat, comme une arène de gladiateurs ou un local secret où se déroulent des combats. Vous pouvez remplacer l'instrument de musique de votre équipement par une arme bon marché mais inhabituelle, comme un trident ou un filet.
 

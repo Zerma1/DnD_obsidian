@@ -72,7 +72,7 @@ Les gnomes des forêts se réunissent dans des communautés cachées au sein des
 
 **Augmentation de caractéristiques.** Votre Dextérité augmente de 1.
 
-**Illusionniste-né.** Vous connaissez le sort mineur[[2.16-gnome-dnd-sorts|illusion mineure]]. L'Intelligence est votre caractéristique d'incantation pour ce sort.
+**Illusionniste-né.** Vous connaissez le sort mineur[[10.1-sorts|illusion mineure]]. L'Intelligence est votre caractéristique d'incantation pour ce sort.
 
 **Communication avec les petits animaux**. À l'aide de sons et de gestes, vous pouvez communiquer des idées simples à des bêtes de taille P ou plus petite. Les gnomes des forêts aiment les animaux et traitent de manière bienveillante comme un animal domestique tout animal qu'ils peuvent trouver (écureuils, blaireaux, lapins, taupes, picidés, etc.).
 

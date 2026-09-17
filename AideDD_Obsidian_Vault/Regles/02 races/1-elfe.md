@@ -118,7 +118,7 @@ Le culte de la déesse Lolth, la Reine des araignées, a corrompu certaines des 
 
 **Sensibilité au soleil**. Vous avez un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur ​​la vue quand vous, la cible de l'attaque ou ce que vous essayez de détecter est exposé à la lumière du soleil.
 
-**Magie drow**. Vous connaissez le sort mineur [[2.14-elfe-dnd-sorts|lumières dansantes]]. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort *[[2.14-elfe-dnd-sorts|lueurs féeriques]]* une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort [[2.14-elfe-dnd-sorts|ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Magie drow**. Vous connaissez le sort mineur [[10.1-sorts|lumières dansantes]]. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort *[[10.1-sorts|lueurs féeriques]]* une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort [[10.1-sorts|ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 **Entraînement aux armes drows.** Vous obtenez la maîtrise des rapières, des épées courtes et des arbalètes de poing.
 

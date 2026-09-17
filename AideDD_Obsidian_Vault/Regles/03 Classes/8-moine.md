@@ -174,7 +174,7 @@ Au niveau 15, votre ki vous sustente, ce qui fait que vous ne souffrez plus des 
 
 ### Désertion de l'âme
 
-À partir du niveau 18, vous pouvez utiliser votre action pour dépenser 4 points ki et ainsi devenir invisible pendant 1 minute. Au cours de cette période, vous obtenez également la résistance à tous les dégâts, à l'exception des dégâts de force. De plus, vous pouvez dépenser 8 points de ki pour lancer le sort [[3.27-moine-dnd-sorts|projection astral]], sans avoir besoin des composantes matérielles. De cette manière, vous ne pouvez pas prendre d'autres créatures avec vous.
+À partir du niveau 18, vous pouvez utiliser votre action pour dépenser 4 points ki et ainsi devenir invisible pendant 1 minute. Au cours de cette période, vous obtenez également la résistance à tous les dégâts, à l'exception des dégâts de force. De plus, vous pouvez dépenser 8 points de ki pour lancer le sort [[10.1-sorts|projection astral]], sans avoir besoin des composantes matérielles. De cette manière, vous ne pouvez pas prendre d'autres créatures avec vous.
 
 ### Perfection de l'être
 
@@ -208,7 +208,7 @@ Au niveau 6, vous gagnez la capacité de vous soigner vous-même. Par une action
 
 #### Tranquillité
 
-À partir du niveau 11, vous pouvez entrer dans une méditation spéciale qui vous enveloppe dans une aura de paix. À la fin d'un repos long, vous gagnez l'effet du sort [[3.27-moine-dnd-sorts|sanctuaire]] jusqu'au début de votre prochain repos long (le sort peut se terminer prématurément comme n'importe quel sort de sanctuaire). Le DD de sauvegarde pour ce sort est égal à 8 + votre modificateur de Sagesse + votre bonus de maîtrise.
+À partir du niveau 11, vous pouvez entrer dans une méditation spéciale qui vous enveloppe dans une aura de paix. À la fin d'un repos long, vous gagnez l'effet du sort [[10.1-sorts|sanctuaire]] jusqu'au début de votre prochain repos long (le sort peut se terminer prématurément comme n'importe quel sort de sanctuaire). Le DD de sauvegarde pour ce sort est égal à 8 + votre modificateur de Sagesse + votre bonus de maîtrise.
 
 #### Paume frémissante
 
@@ -220,7 +220,7 @@ Les moines de la voie de l'ombre suivent une tradition qui valorise la discréti
 
 #### Arts des ombres
 
-Dès que vous choisissez cette voie au niveau 3, vous pouvez utiliser votre ki pour reproduire les effets de certains sorts. Par une action, vous pouvez dépenser 2 points ki pour lancer [[3.27-moine-dnd-sorts|ténèbres]], [[3.27-moine-dnd-sorts|vision dans le noir]], [[3.27-moine-dnd-sorts|passage sans trace]] ou [[3.27-moine-dnd-sorts|silence]], sans avoir besoin de fournir les composantes matérielles. De plus, vous gagnez le sort mineur [[3.27-moine-dnd-sorts|illusion mineure]] si vous ne le connaissez pas déjà.
+Dès que vous choisissez cette voie au niveau 3, vous pouvez utiliser votre ki pour reproduire les effets de certains sorts. Par une action, vous pouvez dépenser 2 points ki pour lancer [[10.1-sorts|ténèbres]], [[10.1-sorts|vision dans le noir]], [[10.1-sorts|passage sans trace]] ou [[10.1-sorts|silence]], sans avoir besoin de fournir les composantes matérielles. De plus, vous gagnez le sort mineur [[10.1-sorts|illusion mineure]] si vous ne le connaissez pas déjà.
 
 #### Foulée d'ombre
 
@@ -260,21 +260,21 @@ Les disciplines élémentaires sont présentées par ordre alphabétique. Si l'u
 
 **Crochets du serpent de feu**. Lorsque vous utilisez l'action Attaquer durant votre tour, vous pouvez dépenser 1 point ki pour créer des vrilles de flammes qui prolongent vos poings et vos pieds. Votre allonge avec vos attaques à mains nues augmente de 3 mètres pour cette action, ainsi que pour le reste du tour. Si vous touchez lors d'une telle attaque, vous infligez des dégâts de feu à la place de dégâts contondants, et si vous dépensez 1 point ki lorsque votre attaque touche, elle inflige également 1d10 dégâts de feu supplémentaires.
 
-**Défense de la montagne éternelle (niveau 17 requis)**. Vous pouvez dépenser 5 points ki pour lancer sur vous-même le sort [[3.27-moine-dnd-sorts|peau de pierre]].
+**Défense de la montagne éternelle (niveau 17 requis)**. Vous pouvez dépenser 5 points ki pour lancer sur vous-même le sort [[10.1-sorts|peau de pierre]].
 
-**Destrier des vents (niveau 11 requis)**. Vous pouvez dépenser 4 points ki pour lancer le sort [[3.27-moine-dnd-sorts|vol]], en vous ciblant.
+**Destrier des vents (niveau 11 requis)**. Vous pouvez dépenser 4 points ki pour lancer le sort [[10.1-sorts|vol]], en vous ciblant.
 
-**Étreinte du vent du nord (niveau 6 requis)**. Vous pouvez dépenser 3 points ki pour lancer [[3.27-moine-dnd-sorts|immobilisation de personne]].
+**Étreinte du vent du nord (niveau 6 requis)**. Vous pouvez dépenser 3 points ki pour lancer [[10.1-sorts|immobilisation de personne]].
 
 **Façonnage de la rivière**. Par une action, vous pouvez dépenser 1 point ki pour choisir une zone de glace ou d'eau, large de 9 mètres de côté maximum, se trouvant à 36 mètres de vous. Vous pouvez changer l'eau dans la zone en glace, et vice versa, et vous pouvez remodeler la glace dans la zone de la façon dont vous le souhaitez. Vous pouvez augmenter ou réduire le niveau d'élévation de la glace, créer ou remplir une tranchée, ériger ou abattre un mur, ou créer un pilier. L'ampleur de tous ces changements ne peut pas dépasser la moitié de la plus grande dimension de la zone ciblée. Par exemple, si vous ciblez une surface carrée de 9 mètres de côté, vous pouvez créer un pilier allant jusqu'à 4,50 mètres de haut, augmenter ou réduire le niveau d'élévation de ce carré de 4,50 mètres, creuser une tranchée profonde de 4,50 mètres, etc. Vous ne pouvez pas modeler la glace de sorte à créer un piège ou à bloquer une créature dans la zone.
 
-**Flammes du phénix (niveau 11 requis)**. Vous pouvez dépenser 4 points ki pour lancer le sort [[3.27-moine-dnd-sorts|boule de feu]].
+**Flammes du phénix (niveau 11 requis)**. Vous pouvez dépenser 4 points ki pour lancer le sort [[10.1-sorts|boule de feu]].
 
 **Fouet de l'onde**. Vous pouvez dépenser 2 points ki par une action pour créer un fouet d'eau qui bouscule et tire une créature pour la déséquilibrer. Une créature que vous pouvez voir, située à 9 mètres ou moins de vous, doit effectuer un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit 3d10 dégâts contondants, plus 1d10 dégâts contondants supplémentaires pour chaque point ki supplémentaire que vous dépensez, et vous pouvez soit la faire tomber à terre, soit la tirer de 7,50 mètres vers vous. Si elle réussit son jet de sauvegarde, la créature ne subit que la moitié des dégâts, et vous ne la tirez ni ne la faites tomber par terre.
 
-**Frappe de cendres**. Vous pouvez dépenser 2 points ki pour lancer le sort *[[3.27-moine-dnd-sorts|mains brûlantes]]*.
+**Frappe de cendres**. Vous pouvez dépenser 2 points ki pour lancer le sort *[[10.1-sorts|mains brûlantes]]*.
 
-**Gong du sommet (niveau 6 requis)**. Vous pouvez dépenser 3 points ki pour lancer le sort [[3.27-moine-dnd-sorts|fracassement]].
+**Gong du sommet (niveau 6 requis)**. Vous pouvez dépenser 3 points ki pour lancer le sort [[10.1-sorts|fracassement]].
 
 **Lien élémentaire**. Vous pouvez utiliser votre action pour contrôler brièvement les forces élémentaires dans un rayon de 9 mètres autour de vous, provoquant l'un des effets suivants de votre choix :
 
@@ -289,12 +289,12 @@ Les disciplines élémentaires sont présentées par ordre alphabétique. Si l'u
 
 **Posture de brume (niveau 11 requis)**. Vous pouvez dépenser 4 points ki pour lancer sur vous-même le sort *forme gazeuse*.
 
-**Ruée des esprits du vent**. Vous pouvez dépenser 2 points ki pour lancer le sort [[3.27-moine-dnd-sorts|bourrasque]].
+**Ruée des esprits du vent**. Vous pouvez dépenser 2 points ki pour lancer le sort [[10.1-sorts|bourrasque]].
 
-**Souffle de l'hiver (niveau 17 requis)**. Vous pouvez dépenser 6 points ki pour lancer [[3.27-moine-dnd-sorts|cône de froid]].
+**Souffle de l'hiver (niveau 17 requis)**. Vous pouvez dépenser 6 points ki pour lancer [[10.1-sorts|cône de froid]].
 
-**Torrent de flammes voraces (niveau 17 requis)**. Vous pouvez dépenser 5 points ki pour lancer le sort [[3.27-moine-dnd-sorts|mur de feu]].
+**Torrent de flammes voraces (niveau 17 requis)**. Vous pouvez dépenser 5 points ki pour lancer le sort [[10.1-sorts|mur de feu]].
 
-**Vague de terre grondante (niveau 17 requis)**. Vous pouvez dépenser 6 points ki pour lancer le sort [[3.27-moine-dnd-sorts|mur de pierre]].
+**Vague de terre grondante (niveau 17 requis)**. Vous pouvez dépenser 6 points ki pour lancer le sort [[10.1-sorts|mur de pierre]].
 
 Traduit par boblebuter

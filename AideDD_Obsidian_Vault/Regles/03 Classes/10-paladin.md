@@ -85,7 +85,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ### Sens divin
 
-Une forte présence maléfique éveille vos sens, comme une odeur nocive, et un bien puissant fait résonner dans vos oreilles une musique céleste. Par une action, vous pouvez éveiller votre conscience pour détecter de telles forces. Jusqu'à la fin de votre prochain tour, vous connaissez l'emplacement de toute créature céleste, fiélon ou mort-vivante dans un rayon de 18 mètres autour de vous, et qui ne se trouve pas derrière un abri total. Vous connaissez le type (céleste, fiélon ou mort-vivant) et le nombre de tous les êtres dont vous sentez la présence, mais pas leur identité (le vampire comte Strahd von Zarovich, par exemple). Dans ce même rayon, vous détectez également la présence d'un lieu ou d'un objet qui a été consacré ou profané, comme avec le sort [[3.34-paladin-dnd-sorts|sanctification]].
+Une forte présence maléfique éveille vos sens, comme une odeur nocive, et un bien puissant fait résonner dans vos oreilles une musique céleste. Par une action, vous pouvez éveiller votre conscience pour détecter de telles forces. Jusqu'à la fin de votre prochain tour, vous connaissez l'emplacement de toute créature céleste, fiélon ou mort-vivante dans un rayon de 18 mètres autour de vous, et qui ne se trouve pas derrière un abri total. Vous connaissez le type (céleste, fiélon ou mort-vivant) et le nombre de tous les êtres dont vous sentez la présence, mais pas leur identité (le vampire comte Strahd von Zarovich, par exemple). Dans ce même rayon, vous détectez également la présence d'un lieu ou d'un objet qui a été consacré ou profané, comme avec le sort [[10.1-sorts|sanctification]].
 
 Vous pouvez utiliser cette capacité un nombre de fois égal à 1 + votre modificateur de Charisme. Lorsque vous terminez un repos long, vous récupérez toutes les utilisations dépensées.
 
@@ -215,11 +215,11 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 |  |  |
 | --- | --- |
 | **Niveau  de paladin** | **Sorts** |
-| 3 | *[[3.34-paladin-dnd-sorts|protection contre le mal et le bien]], [[3.34-paladin-dnd-sorts|sanctuaire]]* |
-| 5 | *[[3.34-paladin-dnd-sorts|restauration partielle]], [[3.34-paladin-dnd-sorts|zone de vérité]]* |
-| 9 | *[[3.34-paladin-dnd-sorts|dissipation de la magie]], [[3.34-paladin-dnd-sorts|lueur d'espoir]]* |
-| 13 | *[[3.34-paladin-dnd-sorts|gardien de la foi]], [[3.34-paladin-dnd-sorts|liberté de mouvement]]* |
-| 17 | *[[3.34-paladin-dnd-sorts|colonne de flamme]], [[3.34-paladin-dnd-sorts|communion]]* |
+| 3 | *[[10.1-sorts|protection contre le mal et le bien]], [[10.1-sorts|sanctuaire]]* |
+| 5 | *[[10.1-sorts|restauration partielle]], [[10.1-sorts|zone de vérité]]* |
+| 9 | *[[10.1-sorts|dissipation de la magie]], [[10.1-sorts|lueur d'espoir]]* |
+| 13 | *[[10.1-sorts|gardien de la foi]], [[10.1-sorts|liberté de mouvement]]* |
+| 17 | *[[10.1-sorts|colonne de flamme]], [[10.1-sorts|communion]]* |
 
 #### Conduit divin
 
@@ -235,7 +235,7 @@ Quand vous prêtez votre serment au niveau 3, vous gagnez les deux options suiva
 
 #### Pureté de l'esprit
 
-À partir du niveau 15, vous êtes en permanence sous l'effet d'un sort de [[3.34-paladin-dnd-sorts|protection contre le mal et le bien]].
+À partir du niveau 15, vous êtes en permanence sous l'effet d'un sort de [[10.1-sorts|protection contre le mal et le bien]].
 
 #### Nimbe sacré
 
@@ -263,11 +263,11 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 |  |  |
 | --- | --- |
 | **Niveau de paladin** | **Sorts** |
-| 3 | *[[3.34-paladin-dnd-sorts|communication avec les animaux]], frappe piégeuse* |
-| 5 | *[[3.34-paladin-dnd-sorts|foulée brumeuse]], [[3.34-paladin-dnd-sorts|rayon de lune]]* |
-| 9 | *[[3.34-paladin-dnd-sorts|croissance végétale]], [[3.34-paladin-dnd-sorts|protection contre une énergie]]* |
-| 13 | *[[3.34-paladin-dnd-sorts|peau de pierre]], [[3.34-paladin-dnd-sorts|tempête de grêle]]* |
-| 17 | *[[3.34-paladin-dnd-sorts|communion avec la nature]], [[3.34-paladin-dnd-sorts|passage par les arbres]]* |
+| 3 | *[[10.1-sorts|communication avec les animaux]], frappe piégeuse* |
+| 5 | *[[10.1-sorts|foulée brumeuse]], [[10.1-sorts|rayon de lune]]* |
+| 9 | *[[10.1-sorts|croissance végétale]], [[10.1-sorts|protection contre une énergie]]* |
+| 13 | *[[10.1-sorts|peau de pierre]], [[10.1-sorts|tempête de grêle]]* |
+| 17 | *[[10.1-sorts|communion avec la nature]], [[10.1-sorts|passage par les arbres]]* |
 
 #### Conduit divin
 
@@ -316,11 +316,11 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 |  |  |
 | --- | --- |
 | **Niveau de paladin** | **Sorts** |
-| 3 | *[[3.34-paladin-dnd-sorts|fléau]], [[3.34-paladin-dnd-sorts|marque du chasseur]]* |
-| 5 | *[[3.34-paladin-dnd-sorts|foulée brumeuse]], [[3.34-paladin-dnd-sorts|immobilisation de personne]]* |
-| 9 | *[[3.34-paladin-dnd-sorts|hâte]], [[3.34-paladin-dnd-sorts|protection contre une énergie]]* |
-| 13 | *[[3.34-paladin-dnd-sorts|bannissement]], [[3.34-paladin-dnd-sorts|porte dimensionnelle]]* |
-| 17 | *[[3.34-paladin-dnd-sorts|immobilisation de monstre]], [[3.34-paladin-dnd-sorts|scrutation]]* |
+| 3 | *[[10.1-sorts|fléau]], [[10.1-sorts|marque du chasseur]]* |
+| 5 | *[[10.1-sorts|foulée brumeuse]], [[10.1-sorts|immobilisation de personne]]* |
+| 9 | *[[10.1-sorts|hâte]], [[10.1-sorts|protection contre une énergie]]* |
+| 13 | *[[10.1-sorts|bannissement]], [[10.1-sorts|porte dimensionnelle]]* |
+| 17 | *[[10.1-sorts|immobilisation de monstre]], [[10.1-sorts|scrutation]]* |
 
 #### Conduit divin
 

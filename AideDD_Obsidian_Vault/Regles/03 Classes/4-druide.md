@@ -200,7 +200,7 @@ Au niveau 10, vous pouvez dépenser deux utilisations de Forme sauvage en même 
 
 #### Mille formes
 
-Au niveau 14, vous avez appris à utiliser la magie pour améliorer votre forme physique de façon plus subtile. Vous pouvez lancer le sort [[3.21-druide-dnd-sorts|modification d'apparence]] à volonté.
+Au niveau 14, vous avez appris à utiliser la magie pour améliorer votre forme physique de façon plus subtile. Vous pouvez lancer le sort [[10.1-sorts|modification d'apparence]] à volonté.
 
 ### [[4-druide|Cercle de la terre]]
 
@@ -223,84 +223,84 @@ Arctique
 |  |  |
 | --- | --- |
 | **Niveau de druide** | **Sorts de cercle** |
-| 3 | *[[3.21-druide-dnd-sorts|croissance d'épines]], [[3.21-druide-dnd-sorts|immobilisation de personne]]* |
-| 5 | *[[3.21-druide-dnd-sorts|lenteur]], [[3.21-druide-dnd-sorts|tempête de neige]]* |
-| 7 | *[[3.21-druide-dnd-sorts|liberté de mouvement]], [[3.21-druide-dnd-sorts|tempête de grêle]]* |
-| 9 | *[[3.21-druide-dnd-sorts|communion avec la nature]], [[3.21-druide-dnd-sorts|cône de froid]]* |
+| 3 | *[[10.1-sorts|croissance d'épines]], [[10.1-sorts|immobilisation de personne]]* |
+| 5 | *[[10.1-sorts|lenteur]], [[10.1-sorts|tempête de neige]]* |
+| 7 | *[[10.1-sorts|liberté de mouvement]], [[10.1-sorts|tempête de grêle]]* |
+| 9 | *[[10.1-sorts|communion avec la nature]], [[10.1-sorts|cône de froid]]* |
 
 Désert
 
 |  |  |
 | --- | --- |
 | **Niveau de druide** | **Sorts de cercle** |
-| 3 | *[[3.21-druide-dnd-sorts|flou]], [[3.21-druide-dnd-sorts|silence]]* |
-| 5 | *[[3.21-druide-dnd-sorts|création de nourriture et d'eau]], [[3.21-druide-dnd-sorts|protection contre une énergie]]* |
-| 7 | *[[3.21-druide-dnd-sorts|flétrissement]], [[3.21-druide-dnd-sorts|terrain hallucinatoire]]* |
-| 9 | *[[3.21-druide-dnd-sorts|fléau d'insectes]], [[3.21-druide-dnd-sorts|mur de pierre]]* |
+| 3 | *[[10.1-sorts|flou]], [[10.1-sorts|silence]]* |
+| 5 | *[[10.1-sorts|création de nourriture et d'eau]], [[10.1-sorts|protection contre une énergie]]* |
+| 7 | *[[10.1-sorts|flétrissement]], [[10.1-sorts|terrain hallucinatoire]]* |
+| 9 | *[[10.1-sorts|fléau d'insectes]], [[10.1-sorts|mur de pierre]]* |
 
 Forêt
 
 |  |  |
 | --- | --- |
 | **Niveau de druide** | **Sorts de cercle** |
-| 3 | *[[3.21-druide-dnd-sorts|pattes d'araignée]], [[3.21-druide-dnd-sorts|peau d'écorce]]* |
-| 5 | *[[3.21-druide-dnd-sorts|appel de la foudre]], [[3.21-druide-dnd-sorts|croissance végétale]]* |
-| 7 | *[[3.21-druide-dnd-sorts|divination]], [[3.21-druide-dnd-sorts|liberté de mouvement]]* |
-| 9 | *[[3.21-druide-dnd-sorts|communion avec la nature]], [[3.21-druide-dnd-sorts|passage par les arbres]]* |
+| 3 | *[[10.1-sorts|pattes d'araignée]], [[10.1-sorts|peau d'écorce]]* |
+| 5 | *[[10.1-sorts|appel de la foudre]], [[10.1-sorts|croissance végétale]]* |
+| 7 | *[[10.1-sorts|divination]], [[10.1-sorts|liberté de mouvement]]* |
+| 9 | *[[10.1-sorts|communion avec la nature]], [[10.1-sorts|passage par les arbres]]* |
 
 Littoral
 
 |  |  |
 | --- | --- |
 | **Niveau de druide** | **Sorts de cercle** |
-| 3 | *[foulée brumeuse](https://www.aidedd.org/dnd/sorts.php?vf=foulee-brumeuse),[[3.21-druide-dnd-sorts|image miroir]]* |
-| 5 | *[[3.21-druide-dnd-sorts|marche sur l'eau]], [[3.21-druide-dnd-sorts|respiration aquatique]]* |
-| 7 | *[[3.21-druide-dnd-sorts|contrôle de l'eau]], [[3.21-druide-dnd-sorts|liberté de mouvement]]* |
-| 9 | *[[3.21-druide-dnd-sorts|invocation d'élémentaire]], [[3.21-druide-dnd-sorts|scrutation]]* |
+| 3 | *[foulée brumeuse](https://www.aidedd.org/dnd/sorts.php?vf=foulee-brumeuse),[[10.1-sorts|image miroir]]* |
+| 5 | *[[10.1-sorts|marche sur l'eau]], [[10.1-sorts|respiration aquatique]]* |
+| 7 | *[[10.1-sorts|contrôle de l'eau]], [[10.1-sorts|liberté de mouvement]]* |
+| 9 | *[[10.1-sorts|invocation d'élémentaire]], [[10.1-sorts|scrutation]]* |
 
 Marais
 
 |  |  |
 | --- | --- |
 | **Niveau de druide** | **Sorts de cercle** |
-| 3 | *[[3.21-druide-dnd-sorts|flèche acide de Melf]], [[3.21-druide-dnd-sorts|ténèbres]]* |
-| 5 | *[[3.21-druide-dnd-sorts|marche sur l'eau]], [[3.21-druide-dnd-sorts|nuage nauséabond]]* |
-| 7 | *[[3.21-druide-dnd-sorts|liberté de mouvement]], [[3.21-druide-dnd-sorts|localisation de créature]]* |
-| 9 | *[[3.21-druide-dnd-sorts|fléau d'insectes]], [[3.21-druide-dnd-sorts|scrutation]]* |
+| 3 | *[[10.1-sorts|flèche acide de Melf]], [[10.1-sorts|ténèbres]]* |
+| 5 | *[[10.1-sorts|marche sur l'eau]], [[10.1-sorts|nuage nauséabond]]* |
+| 7 | *[[10.1-sorts|liberté de mouvement]], [[10.1-sorts|localisation de créature]]* |
+| 9 | *[[10.1-sorts|fléau d'insectes]], [[10.1-sorts|scrutation]]* |
 
 Montagne
 
 |  |  |
 | --- | --- |
 | **Niveau de druide** | **Sorts de cercle** |
-| 3 | *[[3.21-druide-dnd-sorts|croissance d'épines]], [[3.21-druide-dnd-sorts|pattes d'araignée]]* |
-| 5 | *[[3.21-druide-dnd-sorts|éclair]], [[3.21-druide-dnd-sorts|fusion dans la pierre]]* |
-| 7 | *[[3.21-druide-dnd-sorts|façonnage de la pierre]], [[3.21-druide-dnd-sorts|peau de pierre]]* |
-| 9 | *[[3.21-druide-dnd-sorts|mur de pierre]], [[3.21-druide-dnd-sorts|passe-muraille]]* |
+| 3 | *[[10.1-sorts|croissance d'épines]], [[10.1-sorts|pattes d'araignée]]* |
+| 5 | *[[10.1-sorts|éclair]], [[10.1-sorts|fusion dans la pierre]]* |
+| 7 | *[[10.1-sorts|façonnage de la pierre]], [[10.1-sorts|peau de pierre]]* |
+| 9 | *[[10.1-sorts|mur de pierre]], [[10.1-sorts|passe-muraille]]* |
 
 Outreterre
 
 |  |  |
 | --- | --- |
 | **Niveau de druide** | **Sorts de cercle** |
-| 3 | *[[3.21-druide-dnd-sorts|pattes d'araignée]], [[3.21-druide-dnd-sorts|toile d'araignée]]* |
-| 5 | *[[3.21-druide-dnd-sorts|forme gazeuse]], [[3.21-druide-dnd-sorts|nuage nauséabond]]* |
-| 7 | *[[3.21-druide-dnd-sorts|façonnage de la pierre]], [[3.21-druide-dnd-sorts|invisibilité supérieure]]* |
-| 9 | *[brume mortelle](https://www.aidedd.org/dnd/sorts.php?vf=brume-mortelle), [[3.21-druide-dnd-sorts|fléau d'insectes]]* |
+| 3 | *[[10.1-sorts|pattes d'araignée]], [[10.1-sorts|toile d'araignée]]* |
+| 5 | *[[10.1-sorts|forme gazeuse]], [[10.1-sorts|nuage nauséabond]]* |
+| 7 | *[[10.1-sorts|façonnage de la pierre]], [[10.1-sorts|invisibilité supérieure]]* |
+| 9 | *[brume mortelle](https://www.aidedd.org/dnd/sorts.php?vf=brume-mortelle), [[10.1-sorts|fléau d'insectes]]* |
 
 Plaine
 
 |  |  |
 | --- | --- |
 | **Niveau de druide** | **Sorts de cercle** |
-| 3 | *[[3.21-druide-dnd-sorts|invisibilité]], [[3.21-druide-dnd-sorts|passage sans trace]]* |
-| 5 | *[[3.21-druide-dnd-sorts|hâte]], [[3.21-druide-dnd-sorts|lumière du jour]]* |
-| 7 | *[[3.21-druide-dnd-sorts|divination]], [[3.21-druide-dnd-sorts|liberté de mouvement]]* |
-| 9 | *[[3.21-druide-dnd-sorts|fléau d'insectes]], [[3.21-druide-dnd-sorts|songe]]* |
+| 3 | *[[10.1-sorts|invisibilité]], [[10.1-sorts|passage sans trace]]* |
+| 5 | *[[10.1-sorts|hâte]], [[10.1-sorts|lumière du jour]]* |
+| 7 | *[[10.1-sorts|divination]], [[10.1-sorts|liberté de mouvement]]* |
+| 9 | *[[10.1-sorts|fléau d'insectes]], [[10.1-sorts|songe]]* |
 
 #### Foulée tellurique
 
-À partir du niveau 6, vous déplacer sur un terrain difficile non magique ne vous coûte pas de déplacement supplémentaire. Vous pouvez également traverser la végétation non magique sans être ralenti et sans subir de dégâts si elle est constituée d'épines, de pointes ou d'autres inconvénients similaires. De plus, vous avez un avantage aux jets de sauvegarde contre les plantes qui ont été créées magiquement ou manipulées pour empêcher les mouvements, comme celles créées par le sort [[3.21-druide-dnd-sorts|enchevêtrement]].
+À partir du niveau 6, vous déplacer sur un terrain difficile non magique ne vous coûte pas de déplacement supplémentaire. Vous pouvez également traverser la végétation non magique sans être ralenti et sans subir de dégâts si elle est constituée d'épines, de pointes ou d'autres inconvénients similaires. De plus, vous avez un avantage aux jets de sauvegarde contre les plantes qui ont été créées magiquement ou manipulées pour empêcher les mouvements, comme celles créées par le sort [[10.1-sorts|enchevêtrement]].
 
 #### Protégé de dame Nature
 

@@ -40,7 +40,7 @@ Comment vous sentez-vous alors qu’une puissance magique vous habite ? L’embr
 
 #### Création rapide
 
-Vous pouvez concevoir rapidement un ensorceleur en suivant ces quelques suggestions. En premier lieu, le Charisme devrait être votre plus haute valeur de caractéristique, suivie par la Constitution. Ensuite, choisissez l'historique [[7-ermite|ermite]]. Enfin, choisissez les sorts mineurs [[3.22-ensorceleur-dnd-sorts|lumière]], *poigne électrique*, [[3.22-ensorceleur-dnd-sorts|prestidigitation]] et [[3.22-ensorceleur-dnd-sorts|rayon de givre]]en plus des sorts de niveau 1 [[3.22-ensorceleur-dnd-sorts|bouclier]] et [[3.22-ensorceleur-dnd-sorts|projectile magique]].
+Vous pouvez concevoir rapidement un ensorceleur en suivant ces quelques suggestions. En premier lieu, le Charisme devrait être votre plus haute valeur de caractéristique, suivie par la Constitution. Ensuite, choisissez l'historique [[7-ermite|ermite]]. Enfin, choisissez les sorts mineurs [[10.1-sorts|lumière]], *poigne électrique*, [[10.1-sorts|prestidigitation]] et [[10.1-sorts|rayon de givre]]en plus des sorts de niveau 1 [[10.1-sorts|bouclier]] et [[10.1-sorts|projectile magique]].
 
 ## Capacités de classe
 
@@ -174,7 +174,7 @@ Lorsque vous lancez un sort qui oblige une créature à faire un jet de sauvegar
 
 Quand vous lancez un sort qui a pour cible une seule créature et qui n'a pas une portée personnelle, vous pouvez dépenser un nombre de points de sorcellerie égal au niveau du sort pour viser une deuxième créature à portée avec le même sort (1 point de sorcellerie si le sort est un sort mineur).
 
-Pour pouvoir utiliser cette option de métamagie, le sort doit être incapable de cibler plus d'une créature au niveau auquel il est lancé. Par exemple, *[[3.22-ensorceleur-dnd-sorts|rayon de givre]]* fonctionne avec cette option mais pas [[3.22-ensorceleur-dnd-sorts|projectile magique]] ni [[3.22-ensorceleur-dnd-sorts|rayon ardent]].
+Pour pouvoir utiliser cette option de métamagie, le sort doit être incapable de cibler plus d'une créature au niveau auquel il est lancé. Par exemple, *[[10.1-sorts|rayon de givre]]* fonctionne avec cette option mais pas [[10.1-sorts|projectile magique]] ni [[10.1-sorts|rayon ardent]].
 
 #### Sort prévenant
 

@@ -75,6 +75,6 @@ Si votre MD permet l'utilisation des dons, votre gnome des profondeurs a accès 
 
 *Prérequis : gnome (gnome des profondeurs)*
 
-Vous avez hérité de la capacité innée de lanceur de sorts de vos ancêtres. Cette capacité vous permet de lancer sur vous-même *antidétection*[[2.19-gnome-des-profondeurs-dnd-sorts|2.19-gnome-des-profondeurs-dnd-sorts]]à volonté, sans avoir besoin d'une composante matérielle. Vous pouvez aussi lancer une fois chacun des sorts suivants grâce à cette capacité : [[2.19-gnome-des-profondeurs-dnd-sorts|cécité/surdité]], [[2.19-gnome-des-profondeurs-dnd-sorts|flou]] et [[2.19-gnome-des-profondeurs-dnd-sorts|déguisement]]. Vous retrouvez la capacité de lancer ces sorts lorsque vous avez terminé un repos long. L'Intelligence est votre caractéristique d'incantation pour ces sorts et vous les lancez toujours au plus bas niveau possible.
+Vous avez hérité de la capacité innée de lanceur de sorts de vos ancêtres. Cette capacité vous permet de lancer sur vous-même *antidétection*[[10.1-sorts|10.1-sorts]]à volonté, sans avoir besoin d'une composante matérielle. Vous pouvez aussi lancer une fois chacun des sorts suivants grâce à cette capacité : [[10.1-sorts|cécité/surdité]], [[10.1-sorts|flou]] et [[10.1-sorts|déguisement]]. Vous retrouvez la capacité de lancer ces sorts lorsque vous avez terminé un repos long. L'Intelligence est votre caractéristique d'incantation pour ces sorts et vous les lancez toujours au plus bas niveau possible.
 
 Traduit par Garruth

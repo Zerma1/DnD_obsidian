@@ -39,7 +39,7 @@ Comment votre patron communique-t-il avec vous ? Si vous possédez un familier, 
 
 #### Création rapide
 
-Vous pouvez concevoir rapidement un occultiste en suivant ces quelques suggestions. En premier lieu, le Charisme devrait être votre plus haute valeur de caractéristique, suivie par la Constitution. Ensuite, choisissez l'historique [[4-charlatan|charlatan]]. Enfin, choisissez les sorts mineurs [[3.29-occultiste-dnd-sorts|décharge occulte]] et [[3.29-occultiste-dnd-sorts|contact glacial]], en plus des sorts de niveau 1 [[3.29-occultiste-dnd-sorts|charme-personne]] et [[3.29-occultiste-dnd-sorts|trait ensorcelé]].
+Vous pouvez concevoir rapidement un occultiste en suivant ces quelques suggestions. En premier lieu, le Charisme devrait être votre plus haute valeur de caractéristique, suivie par la Constitution. Ensuite, choisissez l'historique [[4-charlatan|charlatan]]. Enfin, choisissez les sorts mineurs [[10.1-sorts|décharge occulte]] et [[10.1-sorts|contact glacial]], en plus des sorts de niveau 1 [[10.1-sorts|charme-personne]] et [[10.1-sorts|trait ensorcelé]].
 
 ## Capacités de classe
 
@@ -146,7 +146,7 @@ Chaque Faveur de pacte produit une créature spéciale ou un objet qui reflète 
   
 **Pacte du grimoire**. Votre Livre des Ombres pourrait être un bel ouvrage enluminé comportant de nombreux enchantements et sorts d’illusions octroyés par votre Archifée. Ce pourrait être un lourd grimoire relié de cuir démoniaque clouté de fer, contenant des sorts d'invocation ainsi qu’une mine sur les us et les coutumes interdites relatifs à de sinistres régions du cosmos, présent du Fiélon. Ou ce pourrait être le journal en lambeaux d’un lunatique rendu fou par le contact avec le Grand Ancien, renfermant des fragments de sorts que seule votre folie naissante vous permet de comprendre et de lancer.
 
-Vous apprenez le sort [[3.29-occultiste-dnd-sorts|appel de familier]] et pouvez le lancer sous forme de rituel. Ce sort n’est pas comptabilisé comme un sort connu. Lorsque vous lancez le sort, vous pouvez choisir une forme normale pour votre familier (voir le sort) ou bien une des formes spéciales suivantes : [[3.31-occultiste-dnd-monstres|esprit follet]], [[3.31-occultiste-dnd-monstres|diablotin]], [[3.31-occultiste-dnd-monstres|pseudodragon]] ou [[3.31-occultiste-dnd-monstres|quasit]].
+Vous apprenez le sort [[10.1-sorts|appel de familier]] et pouvez le lancer sous forme de rituel. Ce sort n’est pas comptabilisé comme un sort connu. Lorsque vous lancez le sort, vous pouvez choisir une forme normale pour votre familier (voir le sort) ou bien une des formes spéciales suivantes : [[2-Description|esprit follet]], [[2-Description|diablotin]], [[2-Description|pseudodragon]] ou [[2-Description|quasit]].
 
 En outre, quand vous choisissez l’action Attaquer, vous pouvez renoncer à une de vos attaques pour permettre à votre familier d’attaquer. Lorsque vous laissez votre familier attaquer, il le fait avec sa réaction.
 
@@ -193,11 +193,11 @@ L'archifée vous permet de choisir parmi une liste étendue de sorts lorsque vou
 |  |  |
 | --- | --- |
 | **Niveau de sort** | **Sorts** |
-| 1 | *[[3.29-occultiste-dnd-sorts|lueurs féeriques]], [[3.29-occultiste-dnd-sorts|sommeil]]* |
-| 2 | *[[3.29-occultiste-dnd-sorts|apaisement des émotions]], [[3.29-occultiste-dnd-sorts|force fantasmagorique]]* |
-| 3 | *[[3.29-occultiste-dnd-sorts|clignotement]], [[3.29-occultiste-dnd-sorts|croissance végétale]]* |
-| 4 | *[[3.29-occultiste-dnd-sorts|domination de bête]], [[3.29-occultiste-dnd-sorts|invisibilité supérieure]]* |
-| 5 | *[[3.29-occultiste-dnd-sorts|apparence trompeuse]], [[3.29-occultiste-dnd-sorts|domination de personne]]* |
+| 1 | *[[10.1-sorts|lueurs féeriques]], [[10.1-sorts|sommeil]]* |
+| 2 | *[[10.1-sorts|apaisement des émotions]], [[10.1-sorts|force fantasmagorique]]* |
+| 3 | *[[10.1-sorts|clignotement]], [[10.1-sorts|croissance végétale]]* |
+| 4 | *[[10.1-sorts|domination de bête]], [[10.1-sorts|invisibilité supérieure]]* |
+| 5 | *[[10.1-sorts|apparence trompeuse]], [[10.1-sorts|domination de personne]]* |
 
 #### Présence féerique
 
@@ -217,7 +217,7 @@ L'archifée vous permet de choisir parmi une liste étendue de sorts lorsque vou
 
 ### [[9-occultiste|Le Fiélon]]
 
-Vous avez conclu un pacte avec un démon des plans inférieurs de l'existence, un être aux objectifs maléfiques, même si vous luttez contre ces objectifs. Ces êtres désirent la corruption ou la destruction de toutes choses, de vous y compris. Des fiélons assez puissants pour forger un pacte comprennent les seigneurs démons (CM) tels que [Démogorgon](/univers/plans/abysses/#Demogorgon), [Orcus](/univers/plans/abysses/#Orcus), [Fraz'Urb-Luu](/univers/plans/abysses/#Fraz-UrbLuu) et [Baphomet](/univers/plans/abysses/#Baphomet) ; des archidiables (LM) tels qu'[Asmodée](/univers/plans/neuf-enfers/#asmodee), [Dispater](/univers/plans/neuf-enfers/#dispater), [Méphistophélès](/univers/plans/neuf-enfers/#mephistopheles) et [Bélial](/univers/plans/neuf-enfers/#fierna) ; des [[3.31-occultiste-dnd-monstres|diantrefosses]] et des [[3.31-occultiste-dnd-monstres|balors]] particulièrement puissants ; et des [[3.31-occultiste-dnd-monstres|ultroloths]] et autres seigneurs yugoloths.
+Vous avez conclu un pacte avec un démon des plans inférieurs de l'existence, un être aux objectifs maléfiques, même si vous luttez contre ces objectifs. Ces êtres désirent la corruption ou la destruction de toutes choses, de vous y compris. Des fiélons assez puissants pour forger un pacte comprennent les seigneurs démons (CM) tels que [Démogorgon](/univers/plans/abysses/#Demogorgon), [Orcus](/univers/plans/abysses/#Orcus), [Fraz'Urb-Luu](/univers/plans/abysses/#Fraz-UrbLuu) et [Baphomet](/univers/plans/abysses/#Baphomet) ; des archidiables (LM) tels qu'[Asmodée](/univers/plans/neuf-enfers/#asmodee), [Dispater](/univers/plans/neuf-enfers/#dispater), [Méphistophélès](/univers/plans/neuf-enfers/#mephistopheles) et [Bélial](/univers/plans/neuf-enfers/#fierna) ; des [[2-Description|diantrefosses]] et des [[2-Description|balors]] particulièrement puissants ; et des [[2-Description|ultroloths]] et autres seigneurs yugoloths.
 
 #### Liste de sorts étendue
 
@@ -226,11 +226,11 @@ Le Fiélon vous permet de choisir parmi une liste étendue de sorts lorsque vous
 |  |  |
 | --- | --- |
 | **Niveau de sort** | **Sorts** |
-| 1 | *[[3.29-occultiste-dnd-sorts|injonction]]*, *[[3.29-occultiste-dnd-sorts|mains brûlantes]]* |
-| 2 | *[[3.29-occultiste-dnd-sorts|cécité/surdité]], [[3.29-occultiste-dnd-sorts|rayon ardent]]* |
-| 3 | *[[3.29-occultiste-dnd-sorts|boule de feu]], nuage nauséabond* |
-| 4 | *[[3.29-occultiste-dnd-sorts|bouclier de feu]], [[3.29-occultiste-dnd-sorts|mur de feu]]* |
-| 5 | *[[3.29-occultiste-dnd-sorts|colonne de flamme]], [[3.29-occultiste-dnd-sorts|sanctification]]* |
+| 1 | *[[10.1-sorts|injonction]]*, *[[10.1-sorts|mains brûlantes]]* |
+| 2 | *[[10.1-sorts|cécité/surdité]], [[10.1-sorts|rayon ardent]]* |
+| 3 | *[[10.1-sorts|boule de feu]], nuage nauséabond* |
+| 4 | *[[10.1-sorts|bouclier de feu]], [[10.1-sorts|mur de feu]]* |
+| 5 | *[[10.1-sorts|colonne de flamme]], [[10.1-sorts|sanctification]]* |
 
 #### Bénédiction du ténébreux
 
@@ -259,11 +259,11 @@ Le Grand Ancien vous permet de choisir parmi une liste étendue de sorts lorsque
 |  |  |
 | --- | --- |
 | **Niveau de sort** | **Sorts** |
-| 1 | *[[3.29-occultiste-dnd-sorts|fou rire de Tasha]], [[3.29-occultiste-dnd-sorts|murmures dissonants]]* |
-| 2 | *[[3.29-occultiste-dnd-sorts|détection des pensées]], [[3.29-occultiste-dnd-sorts|force fantasmagorique]]* |
-| 3 | *[[3.29-occultiste-dnd-sorts|clairvoyance]], [[3.29-occultiste-dnd-sorts|communication à distance]]* |
-| 4 | *[[3.29-occultiste-dnd-sorts|domination de bête]], [[3.29-occultiste-dnd-sorts|tentacules noirs d'Evard]]* |
-| 5 | *[[3.29-occultiste-dnd-sorts|domination de personne]], [[3.29-occultiste-dnd-sorts|télékinésie]]* |
+| 1 | *[[10.1-sorts|fou rire de Tasha]], [[10.1-sorts|murmures dissonants]]* |
+| 2 | *[[10.1-sorts|détection des pensées]], [[10.1-sorts|force fantasmagorique]]* |
+| 3 | *[[10.1-sorts|clairvoyance]], [[10.1-sorts|communication à distance]]* |
+| 4 | *[[10.1-sorts|domination de bête]], [[10.1-sorts|tentacules noirs d'Evard]]* |
+| 5 | *[[10.1-sorts|domination de personne]], [[10.1-sorts|télékinésie]]* |
 
 #### Esprit éveillé
 

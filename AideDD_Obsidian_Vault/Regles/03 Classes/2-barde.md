@@ -35,7 +35,7 @@ Les bardes se nourrissent d’histoires, qu’elles soient véridiques ou pas. L
 
 #### Création rapide
 
-Vous pouvez concevoir rapidement un barde en suivant ces quelques suggestions. En premier lieu, le Charisme devrait être votre plus haute valeur de caractéristique, suivie par la Dextérité. Ensuite, choisissez l'historique [[3-artiste|artiste]]. Enfin, choisissez les sorts mineurs *[[3.16-barde-dnd-sorts|lumières dansantes]]* et *moquerie cruelle*, en plus des sorts de niveau 1 *[[3.16-barde-dnd-sorts|charme-personne]], [[3.16-barde-dnd-sorts|détection de la magie]], [[3.16-barde-dnd-sorts|mot de guérison]]* et *vague tonnante*.
+Vous pouvez concevoir rapidement un barde en suivant ces quelques suggestions. En premier lieu, le Charisme devrait être votre plus haute valeur de caractéristique, suivie par la Dextérité. Ensuite, choisissez l'historique [[3-artiste|artiste]]. Enfin, choisissez les sorts mineurs *[[10.1-sorts|lumières dansantes]]* et *moquerie cruelle*, en plus des sorts de niveau 1 *[[10.1-sorts|charme-personne]], [[10.1-sorts|détection de la magie]], [[10.1-sorts|mot de guérison]]* et *vague tonnante*.
 
 ## Capacités de classe
 

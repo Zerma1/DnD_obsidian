@@ -72,7 +72,7 @@ Dans l’univers de Dragonlance, les adeptes de la déesse du mal Takhisis ont a
 
 **Langues**. Vous pouvez parler, lire et écrire le commun et le draconique. Le draconique passe pour être l'une des plus anciennes langues et est souvent utilisé dans l'étude de la magie. La langue semble cassante pour la plupart des autres créatures, et comprend de nombreuses consonnes dures et sifflantes.
 
-## [[15-drakeide|Drakéide métallique]]
+## [[14-drakeide|Drakéide métallique]]
 
 Version officielle du **Fizban’s Treasury of Dragons** de cette sous-race mise en ligne par WotC lors du D&D Celebration 2021.
 

@@ -62,7 +62,7 @@ Les tieffelins partagent certains traits raciaux comme résultat de leur ascenda
 
 **Résistance infernale.** Vous avez la résistance aux dégâts de feu.
 
-**Ascendance infernale.** Vous connaissez le sort mineur *[[2.17-tieffelin-dnd-sorts|thaumaturgie]].*Quand vous atteignez le niveau 3, vous pouvez lancer le sort [[2.17-tieffelin-dnd-sorts|représailles infernales]]comme un sort de niveau 2 une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Quand vous atteignez le niveau 5, vous pouvez lancer le sort [[2.17-tieffelin-dnd-sorts|ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Ascendance infernale.** Vous connaissez le sort mineur *[[10.1-sorts|thaumaturgie]].*Quand vous atteignez le niveau 3, vous pouvez lancer le sort [[10.1-sorts|représailles infernales]]comme un sort de niveau 2 une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Quand vous atteignez le niveau 5, vous pouvez lancer le sort [[10.1-sorts|ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 **Langues.** Vous pouvez parler, lire et écrire le commun et l'infernal.
 

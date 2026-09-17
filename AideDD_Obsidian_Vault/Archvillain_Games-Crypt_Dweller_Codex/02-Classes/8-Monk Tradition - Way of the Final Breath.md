@@ -1,0 +1,39 @@
+# Tradition Monastique : Voie du Dernier Souffle 
+
+> *La plupart des traditions martiales glorifient l'expiration — le cri, la frappe, la libération violente . Ces moines vénèrent la pause qui précède . Leur pouvoir n'est pas tiré de ce qui quitte le corps, mais de ce qui y est retenu, suspendu et aiguisé comme une lame entre deux battements de cœur .*
+
+Les moines qui suivent la Voie du Dernier Souffle demeurent sur le fil du rasoir entre la vie et la mort . Ils cherchent l'illumination non pas à travers le raffinement infini du mouvement, mais à travers l'immobilité — le moment entre une respiration et la suivante . Leur entraînement les mène sur les plus hauts sommets montagneux, où l'air raréfié les force à contrôler chaque inspiration, et dans les profondeurs de l'océan, où ils doivent retenir leur souffle aussi longtemps que leur discipline le permet . Pour eux, le souffle est le pont entre les vivants et les morts, et ce n'est qu'en le maîtrisant qu'ils peuvent transcender la mortalité .
+
+On dit que les plus grands moines de cette tradition ne respirent pas du tout . Leurs corps sont préservés comme les saints momifiés d'ordres oubliés, pourtant ils marchent et frappent toujours avec une précision mortelle . Pour les étrangers, ils apparaissent comme des cadavres vivants — les visages émaciés, la peau sèche et cendrée, et des voix murmurant comme le dernier soupir des mourants . Leur souffle est une arme, une force invisible qui peut voler l'air de leurs ennemis, réduire au silence les lanceurs de sorts, et même porter des murmures de l'au-delà .
+
+Ceux qui empruntent cette voie doivent embrasser la solitude, car leur entraînement les isole des conforts mortels . Ils passent des mois en méditation, refusant la nourriture, la boisson et l'air jusqu'à ce que leurs corps s'adaptent à l'immobilité de la mort elle-même . Leurs monastères sont des lieux silencieux, cachés dans des tombes creusées dans des falaises balayées par les vents ou dans des sanctuaires engloutis sous les vagues . Chacun est craint comme une arme vivante dont le toucher ne laisse aucune marque, mais dont les victimes s'effondrent comme si le vent lui-même avait volé leur âme .
+
+Pour un moine du Dernier Souffle, le combat ne consiste pas à submerger un adversaire — il s'agit d'attendre, de ressentir l'espace entre les moments, et de porter une frappe unique et parfaite qui met fin au combat avant même que leur ennemi ne réalise qu'il a expiré pour la dernière fois .
+
+## Souffle du Mourant 
+*Capacité de la Voie du Dernier Souffle de niveau 3 *
+
+Vos frappes puisent dans la force du dernier souffle d'une créature, perturbant son corps et ses mouvements . Une fois par tour, lorsque vous touchez une créature avec une frappe à mains nues, vous pouvez choisir l'un des effets suivants  :
+*   **Vol de Souffle.** La cible doit effectuer un jet de sauvegarde de Constitution contre le DD de sauvegarde de votre ki . En cas d'échec, la cible subit des dégâts nécrotiques égaux à votre modificateur de Sagesse (minimum 1), et elle ne peut pas parler, lancer de sorts avec une composante verbale ou utiliser l'action Se précipiter jusqu'au début de votre prochain tour .
+*   **Frappe d'Expiration.** Votre attaque inflige des dégâts nécrotiques ou radiants (selon votre choix) au lieu de contondants, et elle ignore la résistance aux dégâts non magiques . Vous gagnez des points de vie temporaires égaux à la moitié des dégâts infligés (minimum de 1) .
+*   **Paume de Bourrasque.** Vous libérez la force d'un souffle mourant, immobilisant votre ennemi . Si la cible est de taille Grande ou inférieure, elle doit effectuer un jet de sauvegarde de Force contre le DD de sauvegarde de votre ki . En cas d'échec, la vitesse de la cible est réduite de moitié jusqu'à la fin de son prochain tour, et si la cible est effrayée, elle subit des dégâts nécrotiques égaux à un jet de votre dé d'Arts martiaux . Les créatures mortes-vivantes subissent des dégâts radiants au lieu de nécrotiques .
+
+Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum d'une fois), et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos court ou long .
+
+## Flux Sans Souffle 
+*Capacité de la Voie du Dernier Souffle de niveau 6 *
+
+Votre corps se meut comme le vent mourant, se glissant dans les fissures et disparaissant avant que vos ennemis ne puissent vous saisir . Vous gagnez les avantages suivants  :
+*   **Retenir le Dernier Souffle.** Vous pouvez retenir votre souffle pendant 1 heure . Vous avez un avantage aux jets de sauvegarde contre les effets inhalés et en suspension dans l'air, tels que le sort *nuage mortel* (cloudkill) . Si vous deviez tomber à 0 point de vie à cause de l'un de ces effets mais que vous n'êtes pas tué sur le coup, vous pouvez effectuer un jet de sauvegarde de Sagesse avec un DD égal à 10 + la moitié des dégâts subis . En cas de réussite, vous tombez à 1 point de vie à la place . Une fois que vous avez effectué ce jet de sauvegarde de Sagesse, vous ne pouvez plus le faire avant d'avoir terminé un repos long .
+*   **Vent Passager.** Lorsque vous utilisez Désengagement passif (Step of the Wind), vous pouvez dépenser 1 point de ki supplémentaire pour vous dissoudre en un courant d'air impétueux jusqu'au début de votre prochain tour . Sous cette forme, vous pouvez vous déplacer à travers des espaces aussi étroits que 2,5 centimètres (1 pouce) sans vous faufiler et à travers les créatures comme s'il s'agissait d'un terrain difficile . Votre mouvement ne provoque pas d'attaques d'opportunité . Si vous terminez votre tour à l'intérieur d'une créature ou d'un objet, vous subissez 1d10 dégâts de force et êtes repoussé vers le dernier espace inoccupé que vous avez occupé .
+*   **Voile Évanescent.** Votre souffle devient imperceptible . Vous n'avez plus besoin d'air pour parler, et votre voix porte une résonance soufflée . Par une action bonus, vous pouvez expirer un fin voile d'air spectral qui s'accroche à vous, et vous êtes à visibilité réduite (lightly obscured) jusqu'au début de votre prochain tour . Tant que vous êtes ainsi masqué, vous pouvez tenter de vous Cacher d'une créature même si elle peut vous voir .
+
+## Expirer l'Âme 
+*Capacité de la Voie du Dernier Souffle de niveau 11 *
+
+Vous avez appris à libérer la force d'un dernier souffle dans vos frappes les plus dévastatrices . Lorsque vous touchez une créature avec une frappe à mains nues, vous pouvez dépenser 2 points de ki supplémentaires pour améliorer la frappe et infliger des dégâts nécrotiques ou radiants supplémentaires (selon votre choix) égaux à votre dé d'Arts martiaux . De plus, si la créature respire de l'air, elle doit réussir un jet de sauvegarde de Constitution ou commencer à suffoquer jusqu'à la fin de son prochain tour . Pendant qu'elle suffoque, sa vitesse est réduite de moitié et elle ne peut pas parler ni lancer de sorts comportant une composante verbale .
+
+## Murmure du Vent Mourant 
+*Capacité de la Voie du Dernier Souffle de niveau 17 *
+
+Vous avez appris à exploiter les vents de la mort . Par une action bonus, vous pouvez dépenser 5 points de ki pour libérer un vent mourant dans une sphère de 6 mètres (20 pieds) de rayon centrée sur vous et qui se déplace avec vous . Chaque créature hostile qui entre dans la zone pour la première fois lors d'un tour ou qui y commence son tour doit effectuer un jet de sauvegarde de Constitution . En cas d'échec, une créature subit 4d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'à la fin de son prochain tour . De plus, pendant la durée, vous avez une vitesse de vol égale à votre vitesse de marche, et vous ne provoquez pas d'attaques d'opportunité lorsque vous sortez de la zone d'allonge d'un ennemi en volant . Cet effet dure 1 minute, jusqu'à ce que vous le dissipiez (aucune action requise), ou jusqu'à ce que vous soyez neutralisé (incapacitated) .

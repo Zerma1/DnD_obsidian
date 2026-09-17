@@ -72,8 +72,15 @@ En tant que dracolichborn, vous possédez les traits raciaux suivants :
 | **Blanc** (*White*) | Froid | Cône de 4,5 m (15 ft) | Constitution |
 
 **Connaissances arcaniques (*Arcane Knowledge*).** Vous maîtrisez la compétence Arcanes (*Arcana*).  
-**Arme de souffle (*Breath Weapon*).** Lorsque vous effectuez l'action Attaquer à votre tour, vous pouvez remplacer l'une de vos attaques par une exhalation d'énergie magique. Votre ascendance draconique détermine la taille, la forme et le type de dégâts de l'exhalation. Lorsque vous utilisez votre arme de souffle, chaque créature dans la zone doit effectuer un jet de sauvegarde dont le type dépend de votre ascendance. Le DD de ce jet de sauvegarde est égal à 8 + votre modificateur de Constitution + votre bonus de maîtrise. En cas d'échec, la créature subit 1d4 dégâts nécrotiques et 1d4 dégâts du type déterminé par votre ascendance. En cas de réussite, elle ne subit que la moitié de ces dégâts. Vous gagnez un nombre de points de vie temporaires égal à la moitié des dégâts nécrotiques infligés. Les deux types de dégâts augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d4 chacun), le niveau 11 (3d4 chacun) et le niveau 17 (4d4 chacun). Vous pouvez utiliser votre arme de souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées à la fin d'un repos long.  
+
+**Arme de souffle (*Breath Weapon*).** Lorsque vous utilisez l'action Attaquer à votre tour, vous pouvez remplacer l'une de vos attaques par une exhalation d'énergie magique. Votre ascendance draconique détermine la taille, la forme et le type de dégâts de l'exhalation.
+Lorsque vous utilisez votre souffle, chaque créature dans la zone de l'exhalation doit effectuer un jet de sauvegarde, dont le type est déterminé par votre ascendance draconique. Le DD de ce jet de sauvegarde est égal à 8 + votre modificateur de Constitution + votre bonus de maîtrise. En cas d'échec, la créature subit 1d4 dégâts nécrotiques et 1d4 dégâts du type déterminé par votre ascendance draconique. En cas de réussite, la créature subit la moitié de ces dégâts. Vous gagnez des points de vie temporaires égaux à la moitié des dégâts nécrotiques infligés. Les deux types de dégâts augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d4 chacun), le niveau 11 (3d4 chacun) et le niveau 17 (4d4 chacun).
+Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
 **Vision dans le noir (*Darkvision*).** Vous voyez dans une lumière faible à 18 m (60 ft) comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme dans une lumière faible. Vous ne distinguez les couleurs dans l'obscurité que sous la forme de nuances de gris.  
+
 **Touché par la tombe (*Gravetouched*).** Vous connaissez le sort mineur *Contact glacial* (*chill touch*). L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ce sort lorsque vous le lancez avec ce trait (à choisir lors de la sélection de cette race).  
+
 **Langues (*Languages*).** Vous pouvez parler, lire et écrire le commun et le draconique.  
+
 **Résistance draconique (*Draconic Resistance*).** Vous avez la résistance aux dégâts nécrotiques ainsi qu'au type de dégâts associé à votre ascendance draconique.

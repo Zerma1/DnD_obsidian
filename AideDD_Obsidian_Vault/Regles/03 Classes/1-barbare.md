@@ -171,7 +171,7 @@ La voie du guerrier totem est un parcours spirituel, étant donné que le barbar
 
 #### Quêteur spirituel
 
-Une voie qui cherche à vous initier au monde naturel, vous affiliant aux bêtes, est faite pour vous. Au niveau 3, lorsque vous adoptez cette voie, vous obtenez la capacité de lancer les sorts *[[3.14-barbare-dnd-sorts|communication avec les animaux]]* et [[3.14-barbare-dnd-sorts|sens animal]], mais seulement en tant que rituels.
+Une voie qui cherche à vous initier au monde naturel, vous affiliant aux bêtes, est faite pour vous. Au niveau 3, lorsque vous adoptez cette voie, vous obtenez la capacité de lancer les sorts *[[10.1-sorts|communication avec les animaux]]* et [[10.1-sorts|sens animal]], mais seulement en tant que rituels.
 
 #### Esprit totem
 
@@ -191,7 +191,7 @@ Au niveau 6, vous obtenez un bénéfice magique dépendant de l'animal totem de 
 
 #### Marcheur spirituel
 
-Au niveau 10, vous pouvez lancer le sort [[3.14-barbare-dnd-sorts|communion avec la nature]], mais seulement en tant que rituel. Lorsque vous le lancez, une version spirituelle de l'un des animaux que vous avez choisis avec Esprit totem ou Aspect de la bête apparaît et vous donne l'information que vous recherchez.
+Au niveau 10, vous pouvez lancer le sort [[10.1-sorts|communion avec la nature]], mais seulement en tant que rituel. Lorsque vous le lancez, une version spirituelle de l'un des animaux que vous avez choisis avec Esprit totem ou Aspect de la bête apparaît et vous donne l'information que vous recherchez.
 
 #### Lien totémique
 

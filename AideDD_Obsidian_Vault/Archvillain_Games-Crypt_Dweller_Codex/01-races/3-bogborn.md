@@ -10,9 +10,9 @@ tags:
 
 # Bogborn
 
-Il n’y a pas de glamour chez eux. Pas de pretence. Les bogborn ne cherchent pas la beauté au sens traditionnel, car ils *sont* la beauté sous sa forme la plus brute — croissance et pourriture superposées. Ils parlent pour le marais non avec des mots, mais par la résilience et le silence. La terre se souvient, et eux aussi. Blessez le sauvage, rompez votre parole ou empoisonnez l’équilibre, et ils s’élèveront du marais, silencieux et certains, pour rendre la faveur.
+>Il n’y a pas de glamour chez eux. Pas de pretence. Les bogborn ne cherchent pas la beauté au sens traditionnel, car ils *sont* la beauté sous sa forme la plus brute — croissance et pourriture superposées. Ils parlent pour le marais non avec des mots, mais par la résilience et le silence. La terre se souvient, et eux aussi. Blessez le sauvage, rompez votre parole ou empoisonnez l’équilibre, et ils s’élèveront du marais, silencieux et certains, pour rendre la faveur.
 
-Les bogborn émergèrent des marécages et des tourbières du monde comme des extensions de la croissance perpétuelle de la nature. Les légendes disent que des forces primordiales les façonnèrent pour préserver le délicat équilibre entre vie et décadence. D’autres contes plus sombres parlent de malédictions et de corruption. Quoi qu’il en soit, les bogborn considèrent leur existence comme une mission : non seulement survivre, mais défendre l’ordre naturel contre ceux qui cherchent à l’exploiter ou à le détruire.
+>Les bogborn émergèrent des marécages et des tourbières du monde comme des extensions de la croissance perpétuelle de la nature. Les légendes disent que des forces primordiales les façonnèrent pour préserver le délicat équilibre entre vie et décadence. D’autres contes plus sombres parlent de malédictions et de corruption. Quoi qu’il en soit, les bogborn considèrent leur existence comme une mission : non seulement survivre, mais défendre l’ordre naturel contre ceux qui cherchent à l’exploiter ou à le détruire.*
 
 ### Apparence de mousse et d’écorce
 
@@ -91,4 +91,4 @@ Votre personnage bogborn possède un ensemble de capacités innées liées à sa
 
 **Langues.** Vous pouvez parler, lire et écrire le commun et une autre langue que vous et votre MJ jugez appropriée pour le personnage.
 
-Traduit par Grok
+
