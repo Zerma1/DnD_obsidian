@@ -1,5 +1,5 @@
 ---
-title: "fiche Personage"
+title: "Fiche de Personnage : Esy der Adlige"
 tags:
   - dnd5
   - crypteDweller
@@ -12,7 +12,7 @@ tags:
 
 ## Informations Générales
 
- **Nom :** Esy der Adlige
+- **Nom :** Esy der Adlige
 - **Race :** Necramechanica - *Shadowsworn* (*Crypt Dweller Codex*)
 - **Classe :** Artificier (Niveau 1) *(Objectif Multiclasse : Thanatomancien - Path of the Fleshweaver)*
 - **Historique :** Chirurgien des Bas-Fonds *(Origine Noble Déchue)*
@@ -40,28 +40,28 @@ Par pure arrogance aristocratique, il n'a jamais daigné masquer son identité, 
 
 Apres un accident dans sa clinique des bas-fonds, il tombe dans un profond coma. beaucoup d'année plus tard, il se réveille, le corp mutiler et momifier, intégrer dans une machine.
 
-
-| **Élément de personnalité** | **Description**                                                                                                                                                                                                                                                                                                                                    |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Posture**                 | Une politesse glaciale, un vocabulaire châtié et une diction aristocratique impeccable, qui tranchent de manière troublante avec le sang sur ses mains et les bruits de cliquetis mécaniques sous sa peau.                                                                                                                                         |
-| **Allure**                  | Manteau aristocratique de velours sombre usé par les solvants, démarche calculée, élocution châtiée et clinique masquant les légers cliquetis de ses pistons internes.                                                                                                                                                                             |
-| **Trait de personnalité**   | _« Même au fond d'un égout à recoudre un coupe-jarret, j'exige une précision absolue. La plèbe confond cruauté et manque d'éducation. »_                                                                                                                                                                                                           |
-| **Comportement **           | *« J'évalue chaque individu non par son discours, mais par la solidité de sa charpente osseuse et le potentiel de ses organes. »*                                                                                                                                                                                                                  |
-| **Idéal**                   | **Perfection & Affranchissement.** _« Les lois des hommes et la bienséance noble ne sont que des illusions. Seules comptent la maîtrise de la matière et la transcendance biologique. »_<br>**Transcendance.** *« La morale et les lois sont les béquilles des faibles. Seul le progrès biomécanique brise les limites imposées par la nature. »*  |
-| **Lien**                    | **La Revanche Scientifique.** _« Un jour, mes créations et mes greffes surpassedront tout ce que les académies de mes pairs ont pu concevoir. Ils supplieront pour recevoir mes améliorations. »_<br>**Le Grand Œuvre.** *« Mon propre corps n'est qu'un prototype. Je bâtirai un artefact vivant immortel défiant la mort et les dieux. »*        |
+| **Élément de personnalité** | **Description** |
+| --------------------------- | -------------------------- |
+| **Posture**                 | Une politesse glaciale, un vocabulaire châtié et une diction aristocratique impeccable, qui tranchent de manière troublante avec le sang sur ses mains et les bruits de cliquetis mécaniques sous sa peau. |
+| **Allure**                  | Manteau aristocratique de velours sombre usé par les solvants, démarche calculée, élocution châtiée et clinique masquant les légers cliquetis de ses pistons internes. |
+| **Trait de personnalité**   | _« Même au fond d'un égout à recoudre un coupe-jarret, j'exige une précision absolue. La plèbe confond cruauté et manque d'éducation. »_ |
+| **Comportement**            | *« J'évalue chaque individu non par son discours, mais par la solidité de sa charpente osseuse et le potentiel de ses organes. »* |
+| **Idéal**                   | **Perfection & Affranchissement.** _« Les lois des hommes et la bienséance noble ne sont que des illusions. Seules comptent la maîtrise de la matière et la transcendance biologique. »_<br>**Transcendance.** *« La morale et les lois sont les béquilles des faibles. Seul le progrès biomécanique brise les limites imposées par la nature. »* |
+| **Lien**                    | **La Revanche Scientifique.** _« Un jour, mes créations et mes greffes surpassedront tout ce que les académies de mes pairs ont pu concevoir. Ils supplieront pour recevoir mes améliorations. »_<br>**Le Grand Œuvre.** *« Mon propre corps n'est qu'un prototype. Je bâtirai un artefact vivant immortel défiant la mort et les dieux. »* |
 | **Défaut**                  | **Arrogance Aristocratique.** _« Je méprise les gens ordinaires et leur morale de lâches. Si quelqu'un remet en cause mes méthodes, je préfère le voir sur ma table d'opération que lui répondre. »_<br>**Arrogance Médicale.** *« Je refuse de laisser un corps rare intact sur un champ de bataille s'il contient des composants d'exception. »* |
 
 ### Frise chronologique
 
-| Age    | évènement                                                         |
-| ------ | ----------------------------------------------------------------- |
-| 19ans  | fin d'étude dans l'académie royale de médecine et magie           |
-| 20ans  | début expérimentation humaine                                     |
-| 26ans  | fuite dans les bas quartier                                       |
-| 32ans  | renommer auprès de tout le monde du crime de la capitale          |
-| 34ans  | disparition et transformation en Necramechanica par les Mechanika |
-|        |                                                                   |
-| XXXans | début des aventures                                               |
+| Âge    | Événement |
+| ------ | -------------------- |
+| 19 ans | fin d'étude dans l'académie royale de médecine et magie |
+| 20 ans | début expérimentation humaine |
+| 26 ans | fuite dans les bas quartier |
+| 32 ans | renommer auprès de tout le monde du crime de la capitale |
+| 34 ans | disparition et transformation en Necramechanica par les Mechanika |
+| XXX ans | début des aventures |
+
+---
 
 ## Apparence
 
@@ -107,16 +107,16 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 
 ## Caractéristiques & Statistiques
 
-| Caractéristique        | Valeur total | Modificateur | Jet de Sauvegarde   |
-| ---------------------- | ------------ | ------------ | ------------------- |
-| **Force (FOR)**        | 8            | -1           | -1                  |
-| **Dextérité (DEX)**    | 14           | +2           | +2                  |
-| **Constitution (CON)** | 16           | +3           | **+5** *(Maîtrise)* |
-| **Intelligence (INT)** | 15           | +2           | **+4** *(Maîtrise)* |
-| **Sagesse (SAG)**      | 12           | +1           | +1                  |
-| **Charisme (CHA)**     | 10           | +0           | +0                  |
+| Caractéristique        | Valeur totale | Modificateur | Jet de Sauvegarde   |
+| ---------------------- | ------------- | ------------ | ------------------- |
+| **Force (FOR)**        | 8             | -1           | -1                  |
+| **Dextérité (DEX)**    | 14            | +2           | +2                  |
+| **Constitution (CON)** | 16            | +3           | **+5** *(Maîtrise)* |
+| **Intelligence (INT)** | 15            | +2           | **+4** *(Maîtrise)* |
+| **Sagesse (SAG)**      | 12            | +1           | +1                  |
+| **Charisme (CHA)**     | 10            | +0           | +0                  |
 
-*(Répartition par achat de points standard : FOR 8 [0 pt], DEX 13 [5 pts] + 1 racial, CON 14 [6 pts] + 2 racial, INT 15 [7 pts], SAG 12 [4 pts], CHA 10 [2 pts] = 27 points).*
+*(Répartition par achat de points standard : FOR 8 [0 pt], DEX 13 [5 pts] + 1 racial, CON 14 [6 pts] + 2 racial, INT 15 [9 pts], SAG 12 [4 pts], CHA 10 [2 pts] = 27 points)*
 
 ### Statistiques Secondaires
 - **Points de Vie (PV) :** **11** *(8 de base + 3 CON)*
@@ -126,17 +126,31 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 - **Initiative :** +2
 - **Perception Passive :** 11
 - **Investigation Passive :** 14
+- **Intuition Passive :** 11
 
 ---
 
 ## Maîtrises & Aptitudes
 
 ### Compétences
+- **Acrobaties (DEX) :** +4
 - **Arcanes (INT) :** +4
+- **Athlétisme (FOR) :** -1
 - **Discrétion (DEX) :** +4 *(accordé par la sous-race Shadowsworn)*
+- **Dressage (SAG) :** +1
 - **Escamotage (DEX) :** +4
+- **Histoire (INT) :** +4
+- **Intimidation (CHA) :** +0
+- **Intuition (SAG) :** +1
 - **Investigation (INT) :** +4
 - **Médecine (SAG) :** +3
+- **Nature (INT) :** +4
+- **Perception (SAG) :** +1
+- **Persuasion (CHA) :** +0
+- **Religion (INT) :** +4
+- **Représentation (CHA) :** +0
+- **Supercherie (CHA) :** +0
+- **Survie (SAG) :** +1
 
 ### Maîtrises d'Équipement & Outils
 - **Armures :** Armures légères, armures moyennes, boucliers
@@ -164,8 +178,7 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 ## Capacités de Classe
 
 ### Capacités d'Artificier (Niveau 1)
-- **Bricolage Magique (*Magical Tinkering*) :** 
-	- **Au niveau 1**, vous apprenez à imprégner une étincelle de magie dans des objets ordinaires. Pour utiliser cette capacité, vous devez avoir en main des outils de bricoleur ou tout autre outil d'artisan. Vous touchez ensuite par une action un objet non magique de taille TP et lui conférez une propriété magique de votre choix parmi la liste suivante : L'objet émet une lumière vive dans un rayon de 1,50 mètre et une lumière faible sur 1,50 mètre supplémentaire. Lorsqu'une créature le tapote, l'objet émet un message enregistré qui peut être entendu jusqu'à 3 mètres. Vous prononcez le message lorsque vous conférez cette propriété à l'objet, et l'enregistrement ne peut durer plus de 6 secondes. L'objet émet continuellement, au choix, une odeur ou un son non verbal (bruit de vent, de vagues, gazouillis, etc). L'effet choisi est perceptible jusqu'à 3 mètres. Un effet visuel statique apparaît sur l'une des surfaces de l'objet. Cet effet peut être une image, un texte (jusqu'à 25 mots), des lignes et des formes, ou encore un mélange à votre guise de ces éléments. La propriété choisie dure indéfiniment. Par une action, vous pouvez toucher l'objet et mettre fin à la propriété prématurément. Vous pouvez appliquer la magie de cette capacité à plusieurs objets à la fois, en touchant un objet différent chaque fois que vous utilisez cette capacité, mais un objet donné ne peut porter qu'une seule propriété à la fois. Le nombre maximum d'objets que vous pouvez affecter de manière simultanée avec cette capacité est égal à votre modificateur d'Intelligence (minimum 1 objet). Si vous essayez de dépasser ce maximum, la propriété la plus ancienne prend fin immédiatement et la nouvelle propriété s'applique.
+- **Bricolage Magique (*Magical Tinkering*) :** Imprégnation d'une étincelle de magie dans de petits objets non magiques pour émettre lumière, message de 6 secondes, odeur, son non verbal ou effet visuel statique.
 - **Incantation d'Artificier :** Focaliseur obligatoire constitué d'outils d'artisan, de bricoleur ou de voleur tenus en main.
 
 ---
@@ -175,87 +188,34 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 - **Caractéristique d'Incantation :** Intelligence (INT)
 - **Degré de Difficulté (DD) des Sauvegardes :** **12** *(8 + 2 maîtrise + 2 INT)*
 - **Modificateur d'Attaque de Sort :** **+4** *(2 maîtrise + 2 INT)*
+- **Focaliseur d'Incantation :**
 - [[grimoir_Artilleur.pdf]]
-- **Emplacements de Sorts de Niveau 1 :** 2 *(modificateur INT 2 + 0)*
+- **Emplacements de Sorts :**
+  - Niveau 1 : [X] / [X]
+  - Niveau 2 : [X] / [X]
 
-### Tableau :
-- Artificier :
+### Sorts Préparés / Connus
+| Sort préparé | Niveau | École | Rituel ? | Concentration ? |
+| ------------ | ------ | ----- | -------- | --------------- |
+| [Nom]        | [Niv]  | [...] | Non      | Non             |
+| [Nom]        | [Niv]  | [...] | Oui      | Oui             |
 
-| Niv | Bonus de maîtrise | Capacités                                      | Imprégnations connues | Objets imprégnés | Sorts mineurs connus | sorts nv 1 | sorts nv 2 | sorts nv 3 | sorts nv 4 | sorts nv 5 |
-| --- | ----------------- | ---------------------------------------------- | --------------------- | ---------------- | -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|     |                   |                                                |                       |                  |                      |            |            |            |            |            |
-| 1   | +2                | Incantation, Bricolage magique                 | -                     | -                | 2                    | 2          | -          | -          | -          | -          |
-| 2   | +2                | Imprégnation d'objet                           | 4                     | 2                | 2                    | 2          | -          | -          | -          | -          |
-| 3   | +2                | Spécialité d'artificier, Outil de circonstance | 4                     | 2                | 2                    | 3          | -          | -          | -          | -          |
-| 4   | +2                | Amélioration de caractéristiques               | 4                     | 2                | 2                    | 3          | -          | -          | -          | -          |
-| 5   | +3                | Capacité de la spécialité d'artificier         | 4                     | 2                | 2                    | 4          | 2          | -          | -          | -          |
-| 6   | +3                | Expertise de l'outillage                       | 6                     | 3                | 2                    | 4          | 2          | -          | -          | -          |
-| 7   | +3                | Trait de génie                                 | 6                     | 3                | 2                    | 4          | 3          | -          | -          | -          |
-| 8   | +3                | Amélioration de caractéristiques               | 6                     | 3                | 2                    | 4          | 3          | -          | -          | -          |
-| 9   | +4                | Capacité de la spécialité d'artificier         | 6                     | 3                | 2                    | 4          | 3          | 2          | -          | -          |
-| 10  | +4                | Adepte des objets magiques                     | 8                     | 4                | 3                    | 4          | 3          | 2          | -          | -          |
-| 11  | +4                | Objet de stockage de sort                      | 8                     | 4                | 3                    | 4          | 3          | 3          | -          | -          |
-| 12  | +4                | Amélioration de caractéristiques               | 8                     | 4                | 3                    | 4          | 3          | 3          | -          | -          |
-| 13  | +5                | -                                              | 8                     | 4                | 3                    | 4          | 3          | 3          | 1          | -          |
-| 14  | +5                | Érudit des objets magiques                     | 10                    | 5                | 4                    | 4          | 3          | 3          | 1          | -          |
-| 15  | +5                | Capacité de la spécialité d'artificier         | 10                    | 5                | 4                    | 4          | 3          | 3          | 2          | -          |
-| 16  | +5                | Amélioration de caractéristiques               | 10                    | 5                | 4                    | 4          | 3          | 3          | 2          | -          |
-| 17  | +6                | -                                              | 10                    | 5                | 4                    | 4          | 3          | 3          | 3          | 1          |
-| 18  | +6                | Maître des objets magiques                     | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 1          |
-| 19  | +6                | Amélioration de caractéristiques               | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 2          |
-| 20  | +6                | Âme de l'artifice                              | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 2          |
+### Liste de sorts
+#### Tours de Magie (Sorts mineurs - Niveau 0)
+- **Réparation (*Mending*)**
+  - **Temps d'incantation** : 1 minute
+  - **Portée** : contact
+  - **Composantes** : V, S, M (deux aimants)
+  - **Durée** : instantanée
+  - Ce sort répare une simple fissure, déchirure ou fêlure sur un objet que vous touchez, comme un maillon de chaîne cassé, une clé brisée en deux morceaux, un accroc sur un manteau ou une fuite sur une outre. Tant que la fissure ou l'accroc n'excède pas 30 cm dans toutes les dimensions, vous le réparez, ne laissant aucune trace de la détérioration passée. Ce sort peut réparer physiquement un objet magique ou un artificiel, mais ne peut pas rendre sa magie à un objet.
 
-- Thanatomancien :
-
-| Niv | Bonus de maîtrise | Capacités                                      | Imprégnations connues | Objets imprégnés | Sorts mineurs connus | sorts nv 1 | sorts nv 2 | sorts nv 3 | sorts nv 4 | sorts nv 5 | sorts nv 6 | sorts nv 7 | sorts nv 8 | sorts nv 9 |
-| --- | ----------------- | ---------------------------------------------- | --------------------- | ---------------- | -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 1   | +2                | Spellcasting, Veil Techniques                  | 2                     | 3                | 2                    | 2          | -          | -          | -          | -          | -          | -          | -          | -          |
-| 2   | +2                | Deathlike Reflexes                             | 2                     | 3                | 3                    | 3          | -          | -          | -          | -          | -          | -          | -          | -          |
-| 3   | +2                | Thanatology Path                               | 3                     | 3                | 4                    | 4          | 2          | -          | -          | -          | -          | -          | -          | -          |
-| 4   | +2                | Ability Score Improvement                      | 4                     | 4                | 5                    | 4          | 3          | -          | -          | -          | -          | -          | -          | -          |
-| 5   | +3                | Soul Reservoir                                 | 5                     | 4                | 6                    | 4          | 3          | 2          | -          | -          | -          | -          | -          | -          |
-| 6   | +3                | Thanatomancer Path Feature                     | 6                     | 4                | 7                    | 4          | 3          | 3          | -          | -          | -          | -          | -          | -          |
-| 7   | +3                | Veil Technique                                 | 7                     | 4                | 8                    | 4          | 3          | 3          | 1          | -          | -          | -          | -          | -          |
-| 8   | +3                | Ability Score Improvement                      | 8                     | 4                | 9                    | 4          | 3          | 3          | 2          | -          | -          | -          | -          | -          |
-| 9   | +4                | Gravebound Form                                | 9                     | 4                | 10                   | 4          | 3          | 3          | 3          | 1          | -          | -          | -          | -          |
-| 10  | +4                | Thanatomancer Path Feature                     | 10                    | 5                | 11                   | 4          | 3          | 3          | 3          | 2          | -          | -          | -          | -          |
-| 11  | +4                | Veil Technique                                 | 11                    | 5                | 12                   | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
-| 12  | +4                | Ability Score Improvement                      | 12                    | 5                | 12                   | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
-| 13  | +5                | -                                              | 13                    | 5                | 13                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
-| 14  | +5                | Veil Dominion                                  | 14                    | 5                | 13                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
-| 15  | +5                | Veil Technique                                 | 15                    | 5                | 14                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
-| 16  | +5                | Ability Score Improvement                      | 16                    | 5                | 14                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
-| 17  | +6                | -                                              | 17                    | 5                | 15                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | 1          |
-| 18  | +6                | Thanatomancer Path Feature                     | 18                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 1          | 1          | 1          | 1          |
-| 19  | +6                | Ability Score Improvement                      | 19                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 2          | 1          | 1          | 1          |
-| 20  | +6                | Avatar of Thanatos                             | 20                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 2          | 2          | 1          | 1          |
-
-
-### Tours de Magie (Sorts mineurs - Niveau 0)
- #### **Réparation (*Mending*) :**
-- **Temps d'incantation** : 1 minute
-- **Portée** : contact	
-- **Composantes** : V, S, M (deux aimants)	
-- **Durée** : instantanée	
-- Ce sort répare une simple fissure, déchirure ou fêlure sur un objet que vous touchez, comme un maillon de chaîne cassé, une clé brisée en deux morceaux, un accroc sur un manteau ou une fuite sur une outre. Tant que la fissure ou l'accroc n'excède pas 30 cm dans toutes les dimensions, vous le réparez, ne laissant aucune trace de la détérioration passée. Ce sort peut réparer physiquement un objet magique ou un artificiel, mais ne peut pas rendre sa magie à un objet.
-
- #### **Trait de feux (*Chill Touch*) :**
-- **Temps d'incantation** : 1 action
-- **Portée** : 36 mètres
-- **Composantes** : V, S
-- **Durée** : instantanée
-Vous lancez un trait de feu sur une créature ou un objet à portée. Faites une attaque à distance avec un sort contre la cible. En cas de réussite, la cible prend 1d10 dégâts de feu. Un objet inflammable touché par ce sort prend feu s'il n'est pas porté.  
-Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4d10).
-Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4d10).
-
-### Sorts
-
-
-| Sort preparé |
-| ------------ |
-|              |
-|              |
-
+- **Trait de feux (*Chill Touch*) :**
+  - **Temps d'incantation** : 1 action
+  - **Portée** : 36 mètres
+  - **Composantes** : V, S
+  - **Durée** : instantanée
+    Vous lancez un trait de feu sur une créature ou un objet à portée. Faites une attaque à distance avec un sort contre la cible. En cas de réussite, la cible prend 1d10 dégâts de feu. Un objet inflammable touché par ce sort prend feu s'il n'est pas porté.  
+    Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4d10).
 
 #### **Sorts niveau 1**
 ##### **Alarme** 
@@ -310,8 +270,63 @@ Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4
 #### **Sorts niveau 8**
 #### **Sorts niveau 9**
 
----
+### Tableau :
+- Artificier :
 
+| Niv | Bonus de maîtrise | Capacités                                      | Imprégnations connues | Objets imprégnés | Sorts mineurs connus | sorts nv 1 | sorts nv 2 | sorts nv 3 | sorts nv 4 | sorts nv 5 |
+| --- | ----------------- | ---------------------------------------------- | --------------------- | ---------------- | -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|     |                   |                                                |                       |                  |                      |            |            |            |            |            |
+| 1   | +2                | Incantation, Bricolage magique                 | -                     | -                | 2                    | 2          | -          | -          | -          | -          |
+| 2   | +2                | Imprégnation d'objet                           | 4                     | 2                | 2                    | 2          | -          | -          | -          | -          |
+| 3   | +2                | Spécialité d'artificier, Outil de circonstance | 4                     | 2                | 2                    | 3          | -          | -          | -          | -          |
+| 4   | +2                | Amélioration de caractéristiques               | 4                     | 2                | 2                    | 3          | -          | -          | -          | -          |
+| 5   | +3                | Capacité de la spécialité d'artificier         | 4                     | 2                | 2                    | 4          | 2          | -          | -          | -          |
+| 6   | +3                | Expertise de l'outillage                       | 6                     | 3                | 2                    | 4          | 2          | -          | -          | -          |
+| 7   | +3                | Trait de génie                                 | 6                     | 3                | 2                    | 4          | 3          | -          | -          | -          |
+| 8   | +3                | Amélioration de caractéristiques               | 6                     | 3                | 2                    | 4          | 3          | -          | -          | -          |
+| 9   | +4                | Capacité de la spécialité d'artificier         | 6                     | 3                | 2                    | 4          | 3          | 2          | -          | -          |
+| 10  | +4                | Adepte des objets magiques                     | 8                     | 4                | 3                    | 4          | 3          | 2          | -          | -          |
+| 11  | +4                | Objet de stockage de sort                      | 8                     | 4                | 3                    | 4          | 3          | 3          | -          | -          |
+| 12  | +4                | Amélioration de caractéristiques               | 8                     | 4                | 3                    | 4          | 3          | 3          | -          | -          |
+| 13  | +5                | -                                              | 8                     | 4                | 3                    | 4          | 3          | 3          | 1          | -          |
+| 14  | +5                | Érudit des objets magiques                     | 10                    | 5                | 4                    | 4          | 3          | 3          | 1          | -          |
+| 15  | +5                | Capacité de la spécialité d'artificier         | 10                    | 5                | 4                    | 4          | 3          | 3          | 2          | -          |
+| 16  | +5                | Amélioration de caractéristiques               | 10                    | 5                | 4                    | 4          | 3          | 3          | 2          | -          |
+| 17  | +6                | -                                              | 10                    | 5                | 4                    | 4          | 3          | 3          | 3          | 1          |
+| 18  | +6                | Maître des objets magiques                     | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 1          |
+| 19  | +6                | Amélioration de caractéristiques               | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 2          |
+| 20  | +6                | Âme de l'artifice                              | 12                    | 6                | 4                    | 4          | 3          | 3          | 3          | 2          |
+
+- Thanatomancien :
+
+| Niv | Bonus de maîtrise | Capacités                                      | Imprégnations connues | Objets imprégnés | Sorts mineurs connus | sorts nv 1 | sorts nv 2 | sorts nv 3 | sorts nv 4 | sorts nv 5 | sorts nv 6 | sorts nv 7 | sorts nv 8 | sorts nv 9 |
+| --- | ----------------- | ---------------------------------------------- | --------------------- | ---------------- | -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 1   | +2                | Spellcasting, Veil Techniques                  | 2                     | 3                | 2                    | 2          | -          | -          | -          | -          | -          | -          | -          | -          |
+| 2   | +2                | Deathlike Reflexes                             | 2                     | 3                | 3                    | 3          | -          | -          | -          | -          | -          | -          | -          | -          |
+| 3   | +2                | Thanatology Path                               | 3                     | 3                | 4                    | 4          | 2          | -          | -          | -          | -          | -          | -          | -          |
+| 4   | +2                | Ability Score Improvement                      | 4                     | 4                | 5                    | 4          | 3          | -          | -          | -          | -          | -          | -          | -          |
+| 5   | +3                | Soul Reservoir                                 | 5                     | 4                | 6                    | 4          | 3          | 2          | -          | -          | -          | -          | -          | -          |
+| 6   | +3                | Thanatomancer Path Feature                     | 6                     | 4                | 7                    | 4          | 3          | 3          | -          | -          | -          | -          | -          | -          |
+| 7   | +3                | Veil Technique                                 | 7                     | 4                | 8                    | 4          | 3          | 3          | 1          | -          | -          | -          | -          | -          |
+| 8   | +3                | Ability Score Improvement                      | 8                     | 4                | 9                    | 4          | 3          | 3          | 2          | -          | -          | -          | -          | -          |
+| 9   | +4                | Gravebound Form                                | 9                     | 4                | 10                   | 4          | 3          | 3          | 3          | 1          | -          | -          | -          | -          |
+| 10  | +4                | Thanatomancer Path Feature                     | 10                    | 5                | 11                   | 4          | 3          | 3          | 3          | 2          | -          | -          | -          | -          |
+| 11  | +4                | Veil Technique                                 | 11                    | 5                | 12                   | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
+| 12  | +4                | Ability Score Improvement                      | 12                    | 5                | 12                   | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
+| 13  | +5                | -                                              | 13                    | 5                | 13                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
+| 14  | +5                | Veil Dominion                                  | 14                    | 5                | 13                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
+| 15  | +5                | Veil Technique                                 | 15                    | 5                | 14                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
+| 16  | +5                | Ability Score Improvement                      | 16                    | 5                | 14                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
+| 17  | +6                | -                                              | 17                    | 5                | 15                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | 1          |
+| 18  | +6                | Thanatomancer Path Feature                     | 18                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 1          | 1          | 1          | 1          |
+| 19  | +6                | Ability Score Improvement                      | 19                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 2          | 1          | 1          | 1          |
+| 20  | +6                | Avatar of Thanatos                             | 20                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 2          | 2          | 1          | 1          |
+
+
+
+
+
+---
 ## Actions & Attaques en Combat
 
 | Action / Arme                 | Portée / Allonge       | Bonus au Toucher | Dégâts / Type     | Propriétés                                               |
@@ -335,10 +350,15 @@ Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4
 
 ---
 
+## Feuille de Route d'Évolution (Multiclassage)
 
-### Inventaire
+1. **Niveau 2 (Artificier 2) :** Déblocage des *Infusions d'Artificier* (création d'objets magiques personnalisés).
+2. **Niveau 3 (Artificier 3) :** Choix de spécialité d'Artificier (*Artilleur* ou *Alchimiste*).
+3. **Niveau 4+ (Thanatomancien 1+) :** Début de l'étude des âmes, des *Points de Mortis* et des techniques du voile (*Crypt Dweller Codex*).
+4. **Niveau 6 Global (Artificier 3 / Thanatomancien 3) :** Choix de la voie *Path of the Fleshweaver* et application du système complet de *Greffes (Grafting)*.
 
-**Richesse (PO) :** 15
+---
+### Inventaire Détaillé
 
 | Equiper | Inventaire                               | nombre | poid unitaire |
 | ------- | ---------------------------------------- | ------ | ------------- |
@@ -361,12 +381,3 @@ Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4
 | [x]     | Sac de couchage                          | 1      | 3.18          |
 | [x]     | 2 Scalpels lourds                        | 2      | 0.91          |
 | [x]     | Arbalète légère                          | 1      | 2.27          |
-
----
-## Feuille de Route d'Évolution (Multiclassage)
-
-1. **Niveau 2 (Artificier 2) :** Déblocage des *Infusions d'Artificier* (création d'objets magiques personnalisés).
-2. **Niveau 3 (Artificier 3) :** Choix de spécialité d'Artificier (*Artilleur* ou *Alchimiste*).
-3. **Niveau 4+ (Thanatomancien 1+) :** Début de l'étude des âmes, des *Points de Mortis* et des techniques du voile (*Crypt Dweller Codex*).
-4. **Niveau 6 Global (Artificier 3 / Thanatomancien 3) :** Choix de la voie *Path of the Fleshweaver* et application du système complet de *Greffes (Grafting)*.
-

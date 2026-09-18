@@ -69,11 +69,10 @@ tags:
 | **Sagesse (SAG)**      | 8             | -1           | +0                |
 | **Charisme (CHA)**     | 8             | -1           | +0                |
 
-*(Répartition par achat de points standard : FOR 8 [0 pt], DEX 13 [5 pts] + 1 racial, CON 14 [6 pts] + 2 racial, INT 15 [7 pts], SAG 12 [4 pts], CHA 10 [2 pts] = 27 points)*
+*(Répartition par achat de points standard : FOR 12 [4 pt] + 1 racial, DEX 13 [ 5pts], CON 14 [7 pts] + 2 racial, INT 15 [21 pts], SAG 8 [0 pts], CHA 8 [0 pts] = 27 points)*
 >chaque monter de point valent :
->de 8-12 : 1pt par point
->13-14 : 2pt par point
->15-16 : 3pt par point
+>de 8-13 : 1pt par point
+>14-15 : 2pt par point
 >max 15 hors point racial 
 
 ### Statistiques Secondaires
@@ -159,7 +158,8 @@ tags:
 | [Nom]        | [Niv]  | [...] | Non      | Non             |
 | [Nom]        | [Niv]  | [...] | Oui      | Oui             |
 
-### Tours de Magie (Sorts mineurs - Niveau 0)
+### Liste de sorts
+#### Tours de Magie (Sorts mineurs - Niveau 0)
 #### **[Nom du Sort Mineur]**
 - **Temps d'incantation** : [1 action / 1 action bonus / 1 réaction]
 - **Portée** : [Contact / X mètres]
@@ -167,10 +167,8 @@ tags:
 - **Durée** : [Instantanée / X minutes / Concentration]
 > [Description complète des effets du sort].
 
----
-
-### Sorts de Niveau 1
-#### **[Nom du Sort]**
+#### Sorts de Niveau 1
+##### **[Nom du Sort]**
 - [ ] [École de magie] ( #[rituel] )
 	- **Temps d'incantation** : [Temps]
 	- **Portée** : [Portée]
@@ -178,8 +176,16 @@ tags:
 	- **Durée** : [Durée]
 > [Description complète des effets du sort].
 
----
+#### **Sorts niveau 2**
+#### **Sorts niveau 3**
+#### **Sorts niveau 4**
+#### **Sorts niveau 5**
+#### **Sorts niveau 6**
+#### **Sorts niveau 7**
+#### **Sorts niveau 8**
+#### **Sorts niveau 9**
 
+---
 ## Actions & Attaques en Combat
 
 | Action / Arme | Portée / Allonge | Bonus au Toucher | Dégâts / Type | Propriétés |
