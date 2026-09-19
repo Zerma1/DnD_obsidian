@@ -69,11 +69,11 @@ tags:
 | **Sagesse (SAG)**      | 8             | -1           | +0                |
 | **Charisme (CHA)**     | 8             | -1           | +0                |
 
-*(Répartition par achat de points standard : FOR 12 [4 pt] + 1 racial, DEX 13 [ 5pts], CON 14 [7 pts] + 2 racial, INT 15 [21 pts], SAG 8 [0 pts], CHA 8 [0 pts] = 27 points)*
->chaque monter de point valent :
->de 8-13 : 1pt par point
->14-15 : 2pt par point
->max 15 hors point racial 
+*(Répartition par achat de points standard : FOR 12 [4 pt] + 1 racial, DEX 13 [ 5 pts], CON 14 [7 pts] + 2 racial, INT 15 [21 pts], SAG 8 [0 pt], CHA 8 [0 pt] = 27 points)*
+> **Chaque montée de points vaut :**
+> - De 8 à 13 : 1 point par point
+> - De 14 à 15 : 2 points par point
+> - Maximum 15 hors points raciaux
 
 ### Statistiques Secondaires
 - **Points de Vie (PV) :** **[X]** *([X] max)*

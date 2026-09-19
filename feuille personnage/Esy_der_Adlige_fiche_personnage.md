@@ -133,21 +133,21 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 ## Maîtrises & Aptitudes
 
 ### Compétences
-- **Acrobaties (DEX) :** +4
-- **Arcanes (INT) :** +4
+- **Acrobaties (DEX) :** +2
+- **Arcanes (INT) :** +2
 - **Athlétisme (FOR) :** -1
-- **Discrétion (DEX) :** +4 *(accordé par la sous-race Shadowsworn)*
+- **Discrétion (DEX) :** +2 + 2 *(accordé par la sous-race Shadowsworn)*
 - **Dressage (SAG) :** +1
-- **Escamotage (DEX) :** +4
-- **Histoire (INT) :** +4
+- **Escamotage (DEX) :** +2 + 2 maîtrise
+- **Histoire (INT) :** +2 + 2 historique
 - **Intimidation (CHA) :** +0
 - **Intuition (SAG) :** +1
-- **Investigation (INT) :** +4
-- **Médecine (SAG) :** +3
-- **Nature (INT) :** +4
+- **Investigation (INT) :** +2
+- **Médecine (SAG) :** +1 + 2 maîtrise
+- **Nature (INT) :** +2
 - **Perception (SAG) :** +1
-- **Persuasion (CHA) :** +0
-- **Religion (INT) :** +4
+- **Persuasion (CHA) :** +0 + 2 historique
+- **Religion (INT) :** +2
 - **Représentation (CHA) :** +0
 - **Supercherie (CHA) :** +0
 - **Survie (SAG) :** +1
@@ -191,8 +191,7 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 - **Focaliseur d'Incantation :**
 - [[grimoir_Artilleur.pdf]]
 - **Emplacements de Sorts :**
-  - Niveau 1 : [X] / [X]
-  - Niveau 2 : [X] / [X]
+  - Niveau 1 : 2 / [2]
 
 ### Sorts Préparés / Connus
 | Sort préparé | Niveau | École | Rituel ? | Concentration ? |
@@ -201,7 +200,7 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 | [Nom]        | [Niv]  | [...] | Oui      | Oui             |
 
 ### Liste de sorts
-#### Tours de Magie (Sorts mineurs - Niveau 0)
+#### **Tours de Magie (Sorts mineurs - Niveau 0)**
 - **Réparation (*Mending*)**
   - **Temps d'incantation** : 1 minute
   - **Portée** : contact
@@ -209,7 +208,7 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
   - **Durée** : instantanée
   - Ce sort répare une simple fissure, déchirure ou fêlure sur un objet que vous touchez, comme un maillon de chaîne cassé, une clé brisée en deux morceaux, un accroc sur un manteau ou une fuite sur une outre. Tant que la fissure ou l'accroc n'excède pas 30 cm dans toutes les dimensions, vous le réparez, ne laissant aucune trace de la détérioration passée. Ce sort peut réparer physiquement un objet magique ou un artificiel, mais ne peut pas rendre sa magie à un objet.
 
-- **Trait de feux (*Chill Touch*) :**
+- **Trait de feu (*Fire bolt*) :**
   - **Temps d'incantation** : 1 action
   - **Portée** : 36 mètres
   - **Composantes** : V, S
@@ -299,28 +298,28 @@ Esy considère cet état non comme une mutilation, mais comme une étape de son 
 
 - Thanatomancien :
 
-| Niv | Bonus de maîtrise | Capacités                                      | Imprégnations connues | Objets imprégnés | Sorts mineurs connus | sorts nv 1 | sorts nv 2 | sorts nv 3 | sorts nv 4 | sorts nv 5 | sorts nv 6 | sorts nv 7 | sorts nv 8 | sorts nv 9 |
-| --- | ----------------- | ---------------------------------------------- | --------------------- | ---------------- | -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 1   | +2                | Spellcasting, Veil Techniques                  | 2                     | 3                | 2                    | 2          | -          | -          | -          | -          | -          | -          | -          | -          |
-| 2   | +2                | Deathlike Reflexes                             | 2                     | 3                | 3                    | 3          | -          | -          | -          | -          | -          | -          | -          | -          |
-| 3   | +2                | Thanatology Path                               | 3                     | 3                | 4                    | 4          | 2          | -          | -          | -          | -          | -          | -          | -          |
-| 4   | +2                | Ability Score Improvement                      | 4                     | 4                | 5                    | 4          | 3          | -          | -          | -          | -          | -          | -          | -          |
-| 5   | +3                | Soul Reservoir                                 | 5                     | 4                | 6                    | 4          | 3          | 2          | -          | -          | -          | -          | -          | -          |
-| 6   | +3                | Thanatomancer Path Feature                     | 6                     | 4                | 7                    | 4          | 3          | 3          | -          | -          | -          | -          | -          | -          |
-| 7   | +3                | Veil Technique                                 | 7                     | 4                | 8                    | 4          | 3          | 3          | 1          | -          | -          | -          | -          | -          |
-| 8   | +3                | Ability Score Improvement                      | 8                     | 4                | 9                    | 4          | 3          | 3          | 2          | -          | -          | -          | -          | -          |
-| 9   | +4                | Gravebound Form                                | 9                     | 4                | 10                   | 4          | 3          | 3          | 3          | 1          | -          | -          | -          | -          |
-| 10  | +4                | Thanatomancer Path Feature                     | 10                    | 5                | 11                   | 4          | 3          | 3          | 3          | 2          | -          | -          | -          | -          |
-| 11  | +4                | Veil Technique                                 | 11                    | 5                | 12                   | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
-| 12  | +4                | Ability Score Improvement                      | 12                    | 5                | 12                   | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
-| 13  | +5                | -                                              | 13                    | 5                | 13                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
-| 14  | +5                | Veil Dominion                                  | 14                    | 5                | 13                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
-| 15  | +5                | Veil Technique                                 | 15                    | 5                | 14                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
-| 16  | +5                | Ability Score Improvement                      | 16                    | 5                | 14                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
-| 17  | +6                | -                                              | 17                    | 5                | 15                   | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | 1          |
-| 18  | +6                | Thanatomancer Path Feature                     | 18                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 1          | 1          | 1          | 1          |
-| 19  | +6                | Ability Score Improvement                      | 19                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 2          | 1          | 1          | 1          |
-| 20  | +6                | Avatar of Thanatos                             | 20                    | 5                | 15                   | 4          | 3          | 3          | 3          | 3          | 2          | 2          | 1          | 1          |
+| Niv | Bonus de maîtrise | Capacités                     | Point de Mortis | Sorts mineurs connus | Sort conus | sorts nv 1 | sorts nv 2 | sorts nv 3 | sorts nv 4 | sorts nv 5 | sorts nv 6 | sorts nv 7 | sorts nv 8 | sorts nv 9 |
+| --- | ----------------- | ----------------------------- | --------------- | -------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 1   | +2                | Spellcasting, Veil Techniques | 2               | 3                    | 2          | 2          | -          | -          | -          | -          | -          | -          | -          | -          |
+| 2   | +2                | Deathlike Reflexes            | 2               | 3                    | 3          | 3          | -          | -          | -          | -          | -          | -          | -          | -          |
+| 3   | +2                | Thanatology Path              | 3               | 3                    | 4          | 4          | 2          | -          | -          | -          | -          | -          | -          | -          |
+| 4   | +2                | Ability Score Improvement     | 4               | 4                    | 5          | 4          | 3          | -          | -          | -          | -          | -          | -          | -          |
+| 5   | +3                | Soul Reservoir                | 5               | 4                    | 6          | 4          | 3          | 2          | -          | -          | -          | -          | -          | -          |
+| 6   | +3                | Thanatomancer Path Feature    | 6               | 4                    | 7          | 4          | 3          | 3          | -          | -          | -          | -          | -          | -          |
+| 7   | +3                | Veil Technique                | 7               | 4                    | 8          | 4          | 3          | 3          | 1          | -          | -          | -          | -          | -          |
+| 8   | +3                | Ability Score Improvement     | 8               | 4                    | 9          | 4          | 3          | 3          | 2          | -          | -          | -          | -          | -          |
+| 9   | +4                | Gravebound Form               | 9               | 4                    | 10         | 4          | 3          | 3          | 3          | 1          | -          | -          | -          | -          |
+| 10  | +4                | Thanatomancer Path Feature    | 10              | 5                    | 11         | 4          | 3          | 3          | 3          | 2          | -          | -          | -          | -          |
+| 11  | +4                | Veil Technique                | 11              | 5                    | 12         | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
+| 12  | +4                | Ability Score Improvement     | 12              | 5                    | 12         | 4          | 3          | 3          | 3          | 2          | 1          | -          | -          | -          |
+| 13  | +5                | -                             | 13              | 5                    | 13         | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
+| 14  | +5                | Veil Dominion                 | 14              | 5                    | 13         | 4          | 3          | 3          | 3          | 2          | 1          | 1          | -          | -          |
+| 15  | +5                | Veil Technique                | 15              | 5                    | 14         | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
+| 16  | +5                | Ability Score Improvement     | 16              | 5                    | 14         | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | -          |
+| 17  | +6                | -                             | 17              | 5                    | 15         | 4          | 3          | 3          | 3          | 2          | 1          | 1          | 1          | 1          |
+| 18  | +6                | Thanatomancer Path Feature    | 18              | 5                    | 15         | 4          | 3          | 3          | 3          | 3          | 1          | 1          | 1          | 1          |
+| 19  | +6                | Ability Score Improvement     | 19              | 5                    | 15         | 4          | 3          | 3          | 3          | 3          | 2          | 1          | 1          | 1          |
+| 20  | +6                | Avatar of Thanatos            | 20              | 5                    | 15         | 4          | 3          | 3          | 3          | 3          | 2          | 2          | 1          | 1          |
 
 
 
